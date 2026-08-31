@@ -1,0 +1,342 @@
+{
+  "schema": 2,
+  "channel": "stable",
+  "generatedAtUtc": "2026-08-31T16:26:39.6264934Z",
+  "profile": {
+    "minecraftVersion": "1.21.1",
+    "loader": {
+      "forgeVersion": "0.18.4",
+      "name": "fabric-0.18.4-1.21.1",
+      "type": 4,
+      "downloadUrl": "https://fabricmc.forgecdn.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar",
+      "filename": "fabric-loader-0.18.4.jar",
+      "installMethod": 4,
+      "latest": false,
+      "recommended": false,
+      "versionJson": "{\"assetIndex\":null,\"id\":\"fabric-loader-0.18.4-1.21.1\",\"time\":\"2025-12-25T04:29:15+09:00\",\"releaseTime\":\"2025-12-25T04:29:15+09:00\",\"type\":\"release\",\"minecraftArguments\":null,\"minimumLauncherVersion\":0,\"assets\":null,\"inheritsFrom\":\"1.21.1\",\"jar\":null,\"logging\":null,\"libraries\":[{\"name\":\"org.ow2.asm:asm:9.9\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null},{\"name\":\"org.ow2.asm:asm-analysis:9.9\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null},{\"name\":\"org.ow2.asm:asm-commons:9.9\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null},{\"name\":\"org.ow2.asm:asm-tree:9.9\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null},{\"name\":\"org.ow2.asm:asm-util:9.9\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null},{\"name\":\"net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null},{\"name\":\"net.fabricmc:intermediary:1.21.1\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null},{\"name\":\"net.fabricmc:fabric-loader:0.18.4\",\"url\":\"https://fabricmc.forgecdn.net/\",\"serverreq\":null,\"clientreq\":null,\"natives\":null,\"extract\":null,\"rules\":null}],\"mainClass\":\"net.fabricmc.loader.impl.launch.knot.KnotClient\",\"arguments\":{\"game\":[],\"jvm\":[\"-DFabricMcEmu= net.minecraft.client.main.Main \"]}}",
+      "librariesInstallLocation": "{0}libraries/net/fabricmc/fabric-loader/0.18.4",
+      "minecraftVersion": "1.21.1"
+    }
+  },
+  "mods": [
+    {
+      "id": "cobblemon",
+      "displayName": "Cobblemon",
+      "version": "1.7.3",
+      "fileName": "Cobblemon-fabric-1.7.3+1.21.1.jar",
+      "size": 135801550,
+      "sha256": "F7C25955176BADC444AD6211FC556514FEDBDBA776227F105FE899F8819D74E3",
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
+      "prefixes": [
+        "Cobblemon-fabric-"
+      ]
+    },
+    {
+      "id": "fabric-api",
+      "displayName": "Fabric API",
+      "version": "0.116.6+1.21.1",
+      "fileName": "fabric-api-0.116.6+1.21.1.jar",
+      "size": 2424827,
+      "sha256": "CC531256ECCE945B65B179BCEDC45CA40B69D7364B95448D255270BB6FCCAAC8",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/9xIK4e8l/fabric-api-0.116.6%2B1.21.1.jar",
+      "prefixes": [
+        "fabric-api-"
+      ]
+    },
+    {
+      "id": "worldedit",
+      "displayName": "WorldEdit",
+      "version": "7.3.8",
+      "fileName": "worldedit-mod-7.3.8.jar",
+      "size": 6222854,
+      "sha256": "5E7752C97876D87411E3760BCC573CC431F43C453722E6959FA7FE54DB1B01CA",
+      "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+      "prefixes": [
+        "worldedit-mod-",
+        "worldedit-fabric-",
+        "worldedit-"
+      ]
+    },
+    {
+      "id": "bobby",
+      "displayName": "Bobby 원거리 청크 캐시",
+      "version": "5.2.4.1+mc1.21",
+      "fileName": "bobby-5.2.4.1+mc1.21.jar",
+      "size": 863337,
+      "sha256": "06DB885914F6A4153EC2351E7B5485C984B2BA39EF2E06E867263734EDA3796A",
+      "url": "https://cdn.modrinth.com/data/M08ruV16/versions/a8r0n94h/bobby-5.2.4.1%2Bmc1.21.jar",
+      "prefixes": [
+        "bobby-"
+      ]
+    },
+    {
+      "id": "sodium",
+      "displayName": "Sodium 렌더링 최적화",
+      "version": "0.8.13+mc1.21.1",
+      "fileName": "sodium-fabric-0.8.13+mc1.21.1.jar",
+      "size": 1574609,
+      "sha256": "3D43C14985A4DEB19C654AAD3393B454CF57E1EBCBBA86C4AE6A98DFC60ECA2D",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "prefixes": [
+        "sodium-fabric-",
+        "sodium-"
+      ]
+    },
+    {
+      "id": "konkrete",
+      "displayName": "Konkrete",
+      "version": "1.9.9",
+      "fileName": "konkrete_fabric_1.9.9_MC_1.21.jar",
+      "size": 786695,
+      "sha256": "06E912F99D59BF81C0676F1DB936150AD4443D5674F59B3C55604540BA620841",
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "prefixes": [
+        "konkrete_fabric_",
+        "konkrete-"
+      ]
+    },
+    {
+      "id": "melody",
+      "displayName": "Melody",
+      "version": "1.0.10",
+      "fileName": "melody_fabric_1.0.10_MC_1.21.jar",
+      "size": 188035,
+      "sha256": "223AB859B9CC246D8D6E5CEC5E734F97BE3AAC545DE6CDA7743750262428ED83",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
+      "prefixes": [
+        "melody_fabric_",
+        "melody-"
+      ]
+    },
+    {
+      "id": "fancymenu",
+      "displayName": "FancyMenu",
+      "version": "3.9.8",
+      "fileName": "fancymenu_fabric_3.9.8_MC_1.21.1.jar",
+      "size": 25757227,
+      "sha256": "19E5FAF15A769BA4841815FB2320F1EFC9F97DDFFBC24C95299B6480B50AF201",
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/d8MLo3sY/fancymenu_fabric_3.9.8_MC_1.21.1.jar",
+      "prefixes": [
+        "fancymenu_fabric_",
+        "fancymenu-"
+      ]
+    },
+    {
+      "id": "architectury",
+      "displayName": "Architectury API",
+      "version": "13.0.11",
+      "fileName": "architectury-13.0.11-fabric.jar",
+      "size": 600921,
+      "sha256": "AB17D5C7D8D8C93CC713437ED426F0FF0D6F802A48FFF0C579A9BD3AAA833EFD",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Pzc2FP5K/architectury-13.0.11-fabric.jar",
+      "prefixes": [
+        "architectury-"
+      ]
+    },
+    {
+      "id": "owo",
+      "displayName": "oωo (owo-lib)",
+      "version": "0.12.15.4+1.21",
+      "fileName": "owo-lib-0.12.15.4+1.21.jar",
+      "size": 1183559,
+      "sha256": "825180CE17BC012FB450653B14DF9F32479DCDD073FC3F133BB47462F5A63CEC",
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
+      "prefixes": [
+        "owo-lib-"
+      ]
+    },
+    {
+      "id": "accessories",
+      "displayName": "Accessories",
+      "version": "1.1.0-beta.53+1.21.1",
+      "fileName": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+      "size": 1095802,
+      "sha256": "51E6F6D52CB2523199AD36E5BC04802230F86904C35AC3DBF36E59C86B2C30D1",
+      "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar",
+      "prefixes": [
+        "accessories-fabric-",
+        "accessories-"
+      ]
+    },
+    {
+      "id": "mega_showdown",
+      "displayName": "Cobblemon: Mega Showdown",
+      "version": "1.9.5+1.7.3+1.21.1",
+      "fileName": "mega_showdown-fabric-1.9.5+1.7.3+1.21.1.jar",
+      "size": 20085492,
+      "sha256": "69B1A0ED9C3A3910B894EC2BA798F5EC6663AC09B80FBB202654B20918A5F328",
+      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/oGDgZpN3/mega_showdown-fabric-1.9.5%2B1.7.3%2B1.21.1.jar",
+      "prefixes": [
+        "mega_showdown-fabric-",
+        "mega_showdown-"
+      ]
+    },
+    {
+      "id": "forgeconfigapiport",
+      "displayName": "Forge Config API Port",
+      "version": "21.1.6",
+      "fileName": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "size": 633065,
+      "sha256": "2E3A8F0E3BDA85A7D722720E7CE879CBD9D028D9395C6FC224D329B3C982D9B1",
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "prefixes": [
+        "ForgeConfigAPIPort-",
+        "forgeconfigapiport-"
+      ]
+    },
+    {
+      "id": "rctapi",
+      "displayName": "Radical Cobblemon Trainers API",
+      "version": "0.15.2-beta",
+      "fileName": "rctapi-fabric-1.21.1-0.15.2-beta.jar",
+      "size": 234250,
+      "sha256": "E5BD96B1B74AAD41588ACC078E7385CA72F66A862AAE47ADDA3D55B44C1D5BA8",
+      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/9OZx0coL/rctapi-fabric-1.21.1-0.15.2-beta.jar",
+      "prefixes": [
+        "rctapi-"
+      ]
+    },
+    {
+      "id": "rctmod",
+      "displayName": "Radical Cobblemon Trainers",
+      "version": "0.18.1-beta",
+      "fileName": "rctmod-fabric-1.21.1-0.18.1-beta.jar",
+      "size": 6757956,
+      "sha256": "92951D3BE475A0433F8EF508439730723E2E901DD1E3B2509C29205031D4EB51",
+      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/gQx1F1dx/rctmod-fabric-1.21.1-0.18.1-beta.jar",
+      "prefixes": [
+        "rctmod-"
+      ]
+    },
+    {
+      "id": "tbcs",
+      "displayName": "Cobblemon Trainer Battle Commands",
+      "version": "0.14.1-beta",
+      "fileName": "tbcs-fabric-1.21.1-0.14.1-beta.jar",
+      "size": 57031,
+      "sha256": "44664D5D6CC711EAB645133B85306E0CCBBD59A6C98F6B3464C9F9CD8B4FBEF7",
+      "url": "https://cdn.modrinth.com/data/NApIzVVy/versions/COwHk0vk/tbcs-fabric-1.21.1-0.14.1-beta.jar",
+      "prefixes": [
+        "tbcs-fabric-",
+        "tbcs-"
+      ]
+    },
+    {
+      "id": "cobblemon_coop_wild",
+      "displayName": "2인 협동 야생전·체육관",
+      "version": "0.1.0-alpha.13",
+      "fileName": "cobblemon-coop-wild-0.1.0-alpha.13.jar",
+      "size": 135321,
+      "sha256": "2F02E5E973AC1C2BED8463D0E783805A1B8C07011EAD59496A4E428B83A4F707",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.13.jar",
+      "prefixes": [
+        "cobblemon-coop-wild-"
+      ]
+    },
+    {
+      "id": "cobblemon_legendary_altars",
+      "displayName": "전설 포켓몬 제단",
+      "version": "0.1.0-alpha.11",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.11.jar",
+      "size": 337528,
+      "sha256": "2F4E9C3FA3C297D0594F5B3A9FB4575E108614EC3E3B0DCE54B77CEEDBCD4490",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.11.jar",
+      "prefixes": [
+        "cobblemon-legendary-altars-"
+      ]
+    },
+    {
+      "id": "cobblemon_chapter_map",
+      "displayName": "쌍둥이 성소 챕터 맵",
+      "version": "0.1.0-alpha.1",
+      "fileName": "cobblemon-chapter-map-0.1.0-alpha.1.jar",
+      "size": 55862,
+      "sha256": "AF7399BCFBE65F6E47C22ED32BF61C1AE3E8DFCE3B3076E9485F2974B40DA62B",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.1.0-alpha.1.jar",
+      "prefixes": [
+        "cobblemon-chapter-map-"
+      ]
+    }
+  ],
+  "clientFiles": [
+    {
+      "displayName": "CurseForge 프로필 이미지",
+      "relativePath": "profile-icon.png",
+      "size": 2423918,
+      "sha256": "30CC00E36E8237F728ADECE0EACE24240AAAD487156C1F78E4B22B892300C835",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/profile-icon.png"
+    },
+    {
+      "displayName": "FancyMenu 설정",
+      "relativePath": "config/fancymenu/options.txt",
+      "size": 174,
+      "sha256": "55D01DD1E263EF2B08E7017A037B4C16C8D8374D97353C1192DB35D30B8C0221",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/options.txt"
+    },
+    {
+      "displayName": "FancyMenu 화면 등록",
+      "relativePath": "config/fancymenu/customizablemenus.txt",
+      "size": 75,
+      "sha256": "4C68AB99C906DD487952F61BF33C0635039A8BBFF3F02099E3CD8272FE51B4AA",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customizablemenus.txt"
+    },
+    {
+      "displayName": "협동 타이틀 배치",
+      "relativePath": "config/fancymenu/customization/cobblemon_coop_title.txt",
+      "size": 16709,
+      "sha256": "E7BAFF089773255336B9C2F4692B06AEC485BE8D2AB2A24E85997827A12F53BC",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customization/cobblemon_coop_title.txt"
+    },
+    {
+      "displayName": "협동 타이틀 배경",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-title.png",
+      "size": 2308567,
+      "sha256": "22BD981C09473CE6EA78FD3EEFFA64504105520F64E1413DEEB9500E7C0AC592",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-title.png"
+    },
+    {
+      "displayName": "멀티플레이 버튼 기본 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-multiplayer-off.png",
+      "size": 911555,
+      "sha256": "F39F49BFD6BD87EF0F019DEF6DE3D27013B6CDF49DB1EA7CC198385061801481",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-multiplayer-off.png"
+    },
+    {
+      "displayName": "멀티플레이 버튼 선택 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-multiplayer-on.png",
+      "size": 1247010,
+      "sha256": "10C75BB71DA3A5C3079057A94206D4E13EB72BB1C398AEC2D95F489A870079D3",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-multiplayer-on.png"
+    },
+    {
+      "displayName": "설정 버튼 기본 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-options-off.png",
+      "size": 957759,
+      "sha256": "B91D2017A7225DA27DEC8DF642535BD0BF5C21B7165601D747CA88EC6B8A171E",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-options-off.png"
+    },
+    {
+      "displayName": "설정 버튼 선택 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-options-on.png",
+      "size": 1546154,
+      "sha256": "253444CE2EEA5A8282C7CA7F6E7E982CF396F619C1842A636BFE0F3C1ADB858F",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-options-on.png"
+    },
+    {
+      "displayName": "종료 버튼 기본 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-quit-off.png",
+      "size": 1116220,
+      "sha256": "EAE5EF2537744C8DEA84C8FBA9B9683B0C82108B967D71BC427F81ED7A148950",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-quit-off.png"
+    },
+    {
+      "displayName": "종료 버튼 선택 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-quit-on.png",
+      "size": 1333326,
+      "sha256": "C69195711B6678E16DE15A90F6D2E19454A4696F76F6BD59619576D7DD423863",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-quit-on.png"
+    }
+  ],
+  "removeModPrefixes": [],
+  "removeFiles": []
+}
