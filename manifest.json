@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generatedAtUtc": "2026-08-30T17:40:37Z",
+  "generatedAtUtc": "2026-08-31T12:02:59Z",
   "coopMod": {
     "id": "cobblemon_coop_wild",
     "version": "0.1.0-alpha.13",
@@ -21,11 +21,11 @@
     },
     {
       "id": "cobblemon_legendary_altars",
-      "version": "0.1.0-alpha.10",
-      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.10.jar",
-      "size": 336876,
-      "sha256": "102B27BF7EA3363273951718D0D9BDC4F113FAA834DA337F03FE9D34D597538C",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.10.jar"
+      "version": "0.1.0-alpha.11",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.11.jar",
+      "size": 337528,
+      "sha256": "2F4E9C3FA3C297D0594F5B3A9FB4575E108614EC3E3B0DCE54B77CEEDBCD4490",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.11.jar"
     },
     {
       "id": "cobblemon_chapter_map",
