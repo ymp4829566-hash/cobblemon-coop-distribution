@@ -9,7 +9,7 @@ layout-meta {
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  universal_layout_whitelist = title_screen;join_multiplayer_screen;direct_join_server_screen;connect_screen;disconnected_screen;
+  universal_layout_whitelist = title_screen;join_multiplayer_screen;edit_server_screen;direct_join_server_screen;connect_screen;disconnected_screen;options_screen;accessibility_options_screen;chat_options_screen;language_select_screen;mouse_settings_screen;online_options_screen;skin_customization_screen;sound_options_screen;video_settings_screen;controls_screen;telemetry_info_screen;
   [loading_requirement_container_meta:99105008-9f66-47f3-b08e-b29c91591ae7-1788235200000] = [groups:][instances:]
 }
 

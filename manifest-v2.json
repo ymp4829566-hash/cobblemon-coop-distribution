@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-01T11:42:53.4307029Z",
+  "generatedAtUtc": "2026-09-01T11:53:47.8105187Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -276,15 +276,15 @@
     {
       "displayName": "FancyMenu 화면 등록",
       "relativePath": "config/fancymenu/customizablemenus.txt",
-      "size": 317,
-      "sha256": "EF9ABFE366E7B40E75F33F31009F63E50706BA32EB80F34BF9D88346BFFF090F",
+      "size": 1107,
+      "sha256": "7CA8E60FCC98EDA21F358A8C4747211E2944CE0E4B981CA99385A7EE8D4E3048",
       "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customizablemenus.txt"
     },
     {
       "displayName": "협동 메뉴 BGM 배치",
       "relativePath": "config/fancymenu/customization/cobblemon_coop_menu_bgm.txt",
-      "size": 1708,
-      "sha256": "BA2C477BD0B3B66F1CEDA5F947BD459650016A5FB6E2C636D2AEBB470EF4AF6E",
+      "size": 1965,
+      "sha256": "4D1FE21890A23105D2136CBF37408166ED36EF1A4EA1FE01B9120146CD094101",
       "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customization/cobblemon_coop_menu_bgm.txt"
     },
     {
