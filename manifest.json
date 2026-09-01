@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "generatedAtUtc": "2026-08-31T12:02:59Z",
+  "generatedAtUtc": "2026-09-01T11:19:40Z",
   "coopMod": {
     "id": "cobblemon_coop_wild",
-    "version": "0.1.0-alpha.13",
-    "fileName": "cobblemon-coop-wild-0.1.0-alpha.13.jar",
-    "size": 135321,
-    "sha256": "2F02E5E973AC1C2BED8463D0E783805A1B8C07011EAD59496A4E428B83A4F707",
-    "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.13.jar"
+    "version": "0.1.0-alpha.14",
+    "fileName": "cobblemon-coop-wild-0.1.0-alpha.14.jar",
+    "size": 2172306,
+    "sha256": "E5EE4BAC51BEB998E610C8DB847E4687F8780E891ED5671CBC90F10E53F24F90",
+    "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.14.jar"
   },
   "customMods": [
     {
       "id": "cobblemon_coop_wild",
-      "version": "0.1.0-alpha.13",
-      "fileName": "cobblemon-coop-wild-0.1.0-alpha.13.jar",
-      "size": 135321,
-      "sha256": "2F02E5E973AC1C2BED8463D0E783805A1B8C07011EAD59496A4E428B83A4F707",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.13.jar"
+      "version": "0.1.0-alpha.14",
+      "fileName": "cobblemon-coop-wild-0.1.0-alpha.14.jar",
+      "size": 2172306,
+      "sha256": "E5EE4BAC51BEB998E610C8DB847E4687F8780E891ED5671CBC90F10E53F24F90",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.14.jar"
     },
     {
       "id": "cobblemon_legendary_altars",
