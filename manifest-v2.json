@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-01T12:16:21.4450085Z",
+  "generatedAtUtc": "2026-09-01T12:33:10.5829765Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -256,6 +256,18 @@
       "prefixes": [
         "cobblemon-chapter-map-"
       ]
+    },
+    {
+      "id": "cobblemon_menu_bgm",
+      "displayName": "협동 메뉴 BGM",
+      "version": "1.0.0",
+      "fileName": "cobblemon-menu-bgm-1.0.0.jar",
+      "size": 2397379,
+      "sha256": "194E1150BE8598B05F3C656DA4A9411528654CF56E30DD8135315B4F9D1E666B",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-menu-bgm-1.0.0.jar",
+      "prefixes": [
+        "cobblemon-menu-bgm-"
+      ]
     }
   ],
   "clientFiles": [
@@ -276,30 +288,9 @@
     {
       "displayName": "FancyMenu 화면 등록",
       "relativePath": "config/fancymenu/customizablemenus.txt",
-      "size": 1107,
-      "sha256": "7CA8E60FCC98EDA21F358A8C4747211E2944CE0E4B981CA99385A7EE8D4E3048",
+      "size": 75,
+      "sha256": "4C68AB99C906DD487952F61BF33C0635039A8BBFF3F02099E3CD8272FE51B4AA",
       "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customizablemenus.txt"
-    },
-    {
-      "displayName": "협동 메뉴 BGM 배치",
-      "relativePath": "config/fancymenu/customization/cobblemon_coop_menu_bgm.txt",
-      "size": 1966,
-      "sha256": "9C060B491948F849F520756D0EB3FBF87C93D2ADF7899B55D0F729458684B723",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customization/cobblemon_coop_menu_bgm.txt"
-    },
-    {
-      "displayName": "협동 메뉴 BGM 상태",
-      "relativePath": "config/fancymenu/audio_element_controller_metas.json",
-      "size": 110,
-      "sha256": "44A4BC77348E153810B57CEA0F919C2DE408119FDC381C05A97F83E9CC54FAA0",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/audio_element_controller_metas.json"
-    },
-    {
-      "displayName": "협동 메뉴 BGM",
-      "relativePath": "config/fancymenu/assets/cobblemon-coop-menu-bgm.ogg",
-      "size": 2406554,
-      "sha256": "39F699437AB033AE4BBAF00940A2BB56E17A4267B89A0913C30C5BA31A9E0EAC",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-menu-bgm.ogg"
     },
     {
       "displayName": "협동 타이틀 배치",
@@ -359,5 +350,9 @@
     }
   ],
   "removeModPrefixes": [],
-  "removeFiles": []
+  "removeFiles": [
+    "config/fancymenu/customization/cobblemon_coop_menu_bgm.txt",
+    "config/fancymenu/audio_element_controller_metas.json",
+    "config/fancymenu/assets/cobblemon-coop-menu-bgm.ogg"
+  ]
 }
