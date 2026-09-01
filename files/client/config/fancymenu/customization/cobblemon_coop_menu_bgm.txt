@@ -19,7 +19,7 @@ element {
   play_mode = normal
   looping = true
   volume = 0.3
-  sound_source = music
+  sound_source = master
   element_type = audio_v2
   instance_identifier = 797658a2-1991-4075-96e9-fe9fba508a51-1788235200000
   appearance_delay = no_delay
