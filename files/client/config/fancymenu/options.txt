@@ -8,3 +8,8 @@ B:advanced_customization_mode = 'false';
 ##[tutorial]
 
 B:show_welcome_screen = 'false';
+
+
+##[general]
+
+B:play_vanilla_menu_music = 'false';

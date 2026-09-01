@@ -1,0 +1,54 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1788235200000
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  universal_layout_whitelist = title_screen;join_multiplayer_screen;direct_join_server_screen;connect_screen;disconnected_screen;
+  [loading_requirement_container_meta:99105008-9f66-47f3-b08e-b29c91591ae7-1788235200000] = [groups:][instances:]
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/cobblemon-coop-menu-bgm.ogg
+  audio_instance_weight_0 = 1.0
+  play_mode = normal
+  looping = true
+  volume = 0.3
+  sound_source = music
+  element_type = audio_v2
+  instance_identifier = 797658a2-1991-4075-96e9-fe9fba508a51-1788235200000
+  appearance_delay = no_delay
+  appearance_delay_seconds = 0.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = 0
+  y = 0
+  width = 100
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = fd80fd12-2866-4db6-af84-d73f547fd195-1788235200000
+  [loading_requirement_container_meta:fd80fd12-2866-4db6-af84-d73f547fd195-1788235200000] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #5CA6EFFF
+  layer_hidden_in_editor = false
+}
