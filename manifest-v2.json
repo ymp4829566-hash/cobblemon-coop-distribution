@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-03T15:45:00Z",
+  "generatedAtUtc": "2026-09-03T16:00:00Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -224,11 +224,11 @@
     {
       "id": "cobblemon_coop_wild",
       "displayName": "2인 협동 야생전·체육관",
-      "version": "0.1.0-alpha.15",
-      "fileName": "cobblemon-coop-wild-0.1.0-alpha.15.jar",
-      "size": 140814,
-      "sha256": "2D0942E5B151D1D8B048C1BA7CA21FB082DBE3FD2D70D5ABBB264D7F659E2F9F",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.15.jar",
+      "version": "0.1.0-alpha.16",
+      "fileName": "cobblemon-coop-wild-0.1.0-alpha.16.jar",
+      "size": 141067,
+      "sha256": "4751B11D6ED46093BE8767F23DACB3ACE97419A63153CB268109F9A24AFC7A43",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.16.jar",
       "prefixes": [
         "cobblemon-coop-wild-"
       ]
