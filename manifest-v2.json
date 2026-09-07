@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-07T22:21:29Z",
+  "generatedAtUtc": "2026-09-07T23:43:35Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -224,11 +224,11 @@
     {
       "id": "cobblemon_coop_wild",
       "displayName": "2인 협동 야생전·체육관",
-      "version": "0.1.0-alpha.19",
-      "fileName": "cobblemon-coop-wild-0.1.0-alpha.19.jar",
-      "size": 144526,
-      "sha256": "0110C7E547F317E5D20E433F67A92F9C09122264978DF096EF91F0777D5C6CDE",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.19.jar",
+      "version": "0.1.0-alpha.20",
+      "fileName": "cobblemon-coop-wild-0.1.0-alpha.20.jar",
+      "size": 166852,
+      "sha256": "103A0C8F621185065C0FA3E1ADC2E750467BC58587F0031FEB786ECFE49D4C1D",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.20.jar",
       "prefixes": [
         "cobblemon-coop-wild-"
       ]
@@ -236,11 +236,11 @@
     {
       "id": "cobblemon_legendary_altars",
       "displayName": "전설 포켓몬 제단",
-      "version": "0.1.0-alpha.12",
-      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.12.jar",
-      "size": 337528,
-      "sha256": "5A261B48C43AEFA35667D52340BB14EE45DDF0B6D9539853669FAA12DD41EDB8",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.12.jar",
+      "version": "0.1.0-alpha.13",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.13.jar",
+      "size": 343473,
+      "sha256": "9C3EBD3808C5DF9D5EB830BC17C08C177F1A600E6C83873A391607FCC6DA1EB7",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.13.jar",
       "prefixes": [
         "cobblemon-legendary-altars-"
       ]
@@ -248,11 +248,11 @@
     {
       "id": "cobblemon_chapter_map",
       "displayName": "쌍둥이 성소 챕터 맵",
-      "version": "0.2.0-alpha.3",
-      "fileName": "cobblemon-chapter-map-0.2.0-alpha.3.jar",
-      "size": 108914,
-      "sha256": "75AE5583D5AEB02C26BA34D30CAB81ABC1F45D6E87A2B6B6106AE5936F0FCCB5",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.3.jar",
+      "version": "0.2.0-alpha.4",
+      "fileName": "cobblemon-chapter-map-0.2.0-alpha.4.jar",
+      "size": 114957,
+      "sha256": "23FCD745BCCE62CE79378DD91980119FBAF6060722371C2C38F02C00908855A9",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.4.jar",
       "prefixes": [
         "cobblemon-chapter-map-"
       ]
