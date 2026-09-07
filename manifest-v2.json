@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-07T17:15:54Z",
+  "generatedAtUtc": "2026-09-07T22:21:29Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -22,11 +22,11 @@
     {
       "id": "cobblemon",
       "displayName": "Cobblemon",
-      "version": "1.7.3",
-      "fileName": "Cobblemon-fabric-1.7.3+1.21.1.jar",
-      "size": 135801550,
-      "sha256": "F7C25955176BADC444AD6211FC556514FEDBDBA776227F105FE899F8819D74E3",
-      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
+      "version": "1.8.0+1.21.1",
+      "fileName": "Cobblemon-fabric-1.8.0+1.21.1.jar",
+      "size": 162358118,
+      "sha256": "A6228F3291C70ED6348B9A47BEADABC79CB241B6522312E7E2B56D428DC9EC31",
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/YgmyyFcs/Cobblemon-fabric-1.8.0%2B1.21.1.jar",
       "prefixes": [
         "Cobblemon-fabric-"
       ]
@@ -34,11 +34,11 @@
     {
       "id": "fabric-api",
       "displayName": "Fabric API",
-      "version": "0.116.6+1.21.1",
-      "fileName": "fabric-api-0.116.6+1.21.1.jar",
-      "size": 2424827,
-      "sha256": "CC531256ECCE945B65B179BCEDC45CA40B69D7364B95448D255270BB6FCCAAC8",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/9xIK4e8l/fabric-api-0.116.6%2B1.21.1.jar",
+      "version": "0.116.17+1.21.1",
+      "fileName": "fabric-api-0.116.17+1.21.1.jar",
+      "size": 2452735,
+      "sha256": "79AC44B40780ACBD884B34C50BE1E39AF682847E5F5CB3B1FDDEEAA768DCE800",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar",
       "prefixes": [
         "fabric-api-"
       ]
@@ -111,11 +111,11 @@
     {
       "id": "fancymenu",
       "displayName": "FancyMenu",
-      "version": "3.9.8",
-      "fileName": "fancymenu_fabric_3.9.8_MC_1.21.1.jar",
-      "size": 25757227,
-      "sha256": "19E5FAF15A769BA4841815FB2320F1EFC9F97DDFFBC24C95299B6480B50AF201",
-      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/d8MLo3sY/fancymenu_fabric_3.9.8_MC_1.21.1.jar",
+      "version": "3.9.12",
+      "fileName": "fancymenu_fabric_3.9.12_MC_1.21.1.jar",
+      "size": 26267682,
+      "sha256": "A8C17D5550BECDE8579D89E08883CCE9197389F246562BC9A30D5F2E51E5B1C1",
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/KBUnFb12/fancymenu_fabric_3.9.12_MC_1.21.1.jar",
       "prefixes": [
         "fancymenu_fabric_",
         "fancymenu-"
@@ -161,11 +161,11 @@
     {
       "id": "mega_showdown",
       "displayName": "Cobblemon: Mega Showdown",
-      "version": "1.9.5+1.7.3+1.21.1",
-      "fileName": "mega_showdown-fabric-1.9.5+1.7.3+1.21.1.jar",
-      "size": 20085492,
-      "sha256": "69B1A0ED9C3A3910B894EC2BA798F5EC6663AC09B80FBB202654B20918A5F328",
-      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/oGDgZpN3/mega_showdown-fabric-1.9.5%2B1.7.3%2B1.21.1.jar",
+      "version": "1.0+1.8+1.21.1-release-hotfix",
+      "fileName": "mega_showdown-fabric-1.0+1.8+1.21.1-release-hotfix.jar",
+      "size": 20182807,
+      "sha256": "1512C001557556C7F0FD2B52616B7E7EE32B7440776CD4F82154EE20733778B0",
+      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/we79kHpG/mega_showdown-fabric-1.0%2B1.8%2B1.21.1-release-hotfix.jar",
       "prefixes": [
         "mega_showdown-fabric-",
         "mega_showdown-"
@@ -187,11 +187,11 @@
     {
       "id": "rctapi",
       "displayName": "Radical Cobblemon Trainers API",
-      "version": "0.15.2-beta",
-      "fileName": "rctapi-fabric-1.21.1-0.15.2-beta.jar",
-      "size": 234250,
-      "sha256": "E5BD96B1B74AAD41588ACC078E7385CA72F66A862AAE47ADDA3D55B44C1D5BA8",
-      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/9OZx0coL/rctapi-fabric-1.21.1-0.15.2-beta.jar",
+      "version": "0.16.0-beta",
+      "fileName": "rctapi-fabric-1.21.1-0.16.0-beta.jar",
+      "size": 257750,
+      "sha256": "2FE8643F28A60F9159138C2515253CC24AC34E04F44D937D52C87E480C688B75",
+      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/poXTxoNY/rctapi-fabric-1.21.1-0.16.0-beta.jar",
       "prefixes": [
         "rctapi-"
       ]
@@ -199,11 +199,11 @@
     {
       "id": "rctmod",
       "displayName": "Radical Cobblemon Trainers",
-      "version": "0.18.1-beta",
-      "fileName": "rctmod-fabric-1.21.1-0.18.1-beta.jar",
-      "size": 6757956,
-      "sha256": "92951D3BE475A0433F8EF508439730723E2E901DD1E3B2509C29205031D4EB51",
-      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/gQx1F1dx/rctmod-fabric-1.21.1-0.18.1-beta.jar",
+      "version": "0.19.0-beta",
+      "fileName": "rctmod-fabric-1.21.1-0.19.0-beta.jar",
+      "size": 6783347,
+      "sha256": "0CAD7A16F47B0E58C2AFF835D0BC75EF010ADE9B1696A383F0F7315438F1AC27",
+      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/jdUENp3C/rctmod-fabric-1.21.1-0.19.0-beta.jar",
       "prefixes": [
         "rctmod-"
       ]
@@ -224,11 +224,11 @@
     {
       "id": "cobblemon_coop_wild",
       "displayName": "2인 협동 야생전·체육관",
-      "version": "0.1.0-alpha.18",
-      "fileName": "cobblemon-coop-wild-0.1.0-alpha.18.jar",
-      "size": 144253,
-      "sha256": "1622A58D0FE6C6EDBAC7A80EB68B40EA85010A592AB3FEC7B16E46C8B272AB57",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.18.jar",
+      "version": "0.1.0-alpha.19",
+      "fileName": "cobblemon-coop-wild-0.1.0-alpha.19.jar",
+      "size": 144526,
+      "sha256": "0110C7E547F317E5D20E433F67A92F9C09122264978DF096EF91F0777D5C6CDE",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.19.jar",
       "prefixes": [
         "cobblemon-coop-wild-"
       ]
@@ -236,11 +236,11 @@
     {
       "id": "cobblemon_legendary_altars",
       "displayName": "전설 포켓몬 제단",
-      "version": "0.1.0-alpha.11",
-      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.11.jar",
+      "version": "0.1.0-alpha.12",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.12.jar",
       "size": 337528,
-      "sha256": "2F4E9C3FA3C297D0594F5B3A9FB4575E108614EC3E3B0DCE54B77CEEDBCD4490",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.11.jar",
+      "sha256": "5A261B48C43AEFA35667D52340BB14EE45DDF0B6D9539853669FAA12DD41EDB8",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.12.jar",
       "prefixes": [
         "cobblemon-legendary-altars-"
       ]
@@ -248,11 +248,11 @@
     {
       "id": "cobblemon_chapter_map",
       "displayName": "쌍둥이 성소 챕터 맵",
-      "version": "0.1.0-alpha.1",
-      "fileName": "cobblemon-chapter-map-0.1.0-alpha.1.jar",
-      "size": 55862,
-      "sha256": "AF7399BCFBE65F6E47C22ED32BF61C1AE3E8DFCE3B3076E9485F2974B40DA62B",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.1.0-alpha.1.jar",
+      "version": "0.2.0-alpha.3",
+      "fileName": "cobblemon-chapter-map-0.2.0-alpha.3.jar",
+      "size": 108914,
+      "sha256": "75AE5583D5AEB02C26BA34D30CAB81ABC1F45D6E87A2B6B6106AE5936F0FCCB5",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.3.jar",
       "prefixes": [
         "cobblemon-chapter-map-"
       ]
