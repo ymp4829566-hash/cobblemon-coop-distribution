@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-07T23:43:35Z",
+  "generatedAtUtc": "2026-09-08T00:12:24Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -211,11 +211,11 @@
     {
       "id": "tbcs",
       "displayName": "Cobblemon Trainer Battle Commands",
-      "version": "0.14.1-beta",
-      "fileName": "tbcs-fabric-1.21.1-0.14.1-beta.jar",
-      "size": 57031,
-      "sha256": "44664D5D6CC711EAB645133B85306E0CCBBD59A6C98F6B3464C9F9CD8B4FBEF7",
-      "url": "https://cdn.modrinth.com/data/NApIzVVy/versions/COwHk0vk/tbcs-fabric-1.21.1-0.14.1-beta.jar",
+      "version": "0.15.0-beta",
+      "fileName": "tbcs-fabric-1.21.1-0.15.0-beta.jar",
+      "size": 80800,
+      "sha256": "EB875FB4D8863FD5852757CEFD58BB4D2318051031BFCF63D13C88DB10D7C07B",
+      "url": "https://cdn.modrinth.com/data/NApIzVVy/versions/38O58pij/tbcs-fabric-1.21.1-0.15.0-beta.jar",
       "prefixes": [
         "tbcs-fabric-",
         "tbcs-"
