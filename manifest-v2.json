@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-08T00:12:24Z",
+  "generatedAtUtc": "2026-09-08T01:07:32Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -236,11 +236,11 @@
     {
       "id": "cobblemon_legendary_altars",
       "displayName": "전설 포켓몬 제단",
-      "version": "0.1.0-alpha.13",
-      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.13.jar",
-      "size": 343473,
-      "sha256": "9C3EBD3808C5DF9D5EB830BC17C08C177F1A600E6C83873A391607FCC6DA1EB7",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.13.jar",
+      "version": "0.1.0-alpha.14",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.14.jar",
+      "size": 343540,
+      "sha256": "575CDB8BE9E80993BD43A801D43D4B2579906D72DA153C8251B6446C47DE32FB",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.14.jar",
       "prefixes": [
         "cobblemon-legendary-altars-"
       ]
