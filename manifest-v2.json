@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-08T03:21:28Z",
+  "generatedAtUtc": "2026-09-09T04:33:43.508Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -224,11 +224,11 @@
     {
       "id": "cobblemon_coop_wild",
       "displayName": "2인 협동 야생전·체육관",
-      "version": "0.1.0-alpha.23",
-      "fileName": "cobblemon-coop-wild-0.1.0-alpha.23.jar",
-      "size": 1239029,
-      "sha256": "0DCCA5A57166CFDE66F430A21299B2EAC82DCF8EED5E96459EADA26BD034438D",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.23.jar",
+      "version": "0.1.0-alpha.27",
+      "fileName": "cobblemon-coop-wild-0.1.0-alpha.27.jar",
+      "size": 1371772,
+      "sha256": "BF2FDB10C9EA78D65EA20AB3113B3494E55DE49978F6410DAC3257F583C7DFF7",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.27.jar",
       "prefixes": [
         "cobblemon-coop-wild-"
       ]
@@ -267,6 +267,18 @@
       "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-menu-bgm-1.0.0.jar",
       "prefixes": [
         "cobblemon-menu-bgm-"
+      ]
+    },
+    {
+      "id": "cobblemon_cinematics",
+      "displayName": "전설 조우 영상 재생",
+      "version": "0.1.0-alpha.3",
+      "fileName": "cobblemon-cinematics-0.1.0-alpha.3.jar",
+      "size": 53722,
+      "sha256": "17ADACFF72CF4B2929C41E7E925D4348425FF30027FE4D78E79FAF921F216016",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-cinematics-0.1.0-alpha.3.jar",
+      "prefixes": [
+        "cobblemon-cinematics-"
       ]
     }
   ],
@@ -347,6 +359,13 @@
       "size": 1333326,
       "sha256": "C69195711B6678E16DE15A90F6D2E19454A4696F76F6BD59619576D7DD423863",
       "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-quit-on.png"
+    },
+    {
+      "displayName": "스이쿤 전설 조우 영상",
+      "relativePath": "config/cobblemon_cinematics/clips/suicune.cinematic",
+      "size": 48730032,
+      "sha256": "443C16CD719FEED674E48C61F7355B01E18E3A6A241C189768CF99294163A03C",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/cobblemon_cinematics/clips/suicune.cinematic"
     }
   ],
   "removeModPrefixes": [],
