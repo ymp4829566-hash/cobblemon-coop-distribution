@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-09T06:01:15.995Z",
+  "generatedAtUtc": "2026-09-09T22:57:38.0586248Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -223,14 +223,28 @@
     },
     {
       "id": "cobblemon_coop_wild",
-      "displayName": "2인 협동 야생전·체육관",
-      "version": "0.1.0-alpha.28",
-      "fileName": "cobblemon-coop-wild-0.1.0-alpha.28.jar",
-      "size": 1385517,
-      "sha256": "AD54E2C86F48E384D5650D9CC8CA42786461262907181E097688442CFFE650FA",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-coop-wild-0.1.0-alpha.28.jar",
+      "displayName": "코블몬 협동 전투",
+      "version": "0.1.0-alpha.31",
+      "fileName": "코블몬-협동전투-0.1.0-alpha.31.jar",
+      "size": 1255224,
+      "sha256": "0AAD63899610059E43876CC208AFB914F940B7558D0099EF61EB5A35052B1072",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.31.jar",
       "prefixes": [
-        "cobblemon-coop-wild-"
+        "cobblemon-coop-wild-",
+        "코블몬-협동전투-"
+      ]
+    },
+    {
+      "id": "cobblemon_legendary_encounters",
+      "displayName": "코블몬 전설 조우",
+      "version": "0.1.0-alpha.2",
+      "fileName": "코블몬-전설조우-0.1.0-alpha.2.jar",
+      "size": 148306,
+      "sha256": "6C239843F9AC5EE0F539EC81D994C54C745E87A1C1B55D404707BF56CC28CB93",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%EC%A0%84%EC%84%A4%EC%A1%B0%EC%9A%B0-0.1.0-alpha.2.jar",
+      "prefixes": [
+        "cobblemon-legendary-encounters-",
+        "코블몬-전설조우-"
       ]
     },
     {
@@ -271,14 +285,27 @@
     },
     {
       "id": "cobblemon_cinematics",
-      "displayName": "전설 조우 영상 재생",
-      "version": "0.1.0-alpha.3",
-      "fileName": "cobblemon-cinematics-0.1.0-alpha.3.jar",
-      "size": 53722,
-      "sha256": "17ADACFF72CF4B2929C41E7E925D4348425FF30027FE4D78E79FAF921F216016",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-cinematics-0.1.0-alpha.3.jar",
+      "displayName": "두더지 시네마 플레이어 (Dudaji Cinema Player)",
+      "version": "0.1.0-alpha.4",
+      "fileName": "dudaji-cinema-player-0.1.0-alpha.4.jar",
+      "size": 53873,
+      "sha256": "EFBD6304C14E0C1E85A32CF1F5E1E08E9E273256FC0330B02F856C0C219D1C48",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/dudaji-cinema-player-0.1.0-alpha.4.jar",
       "prefixes": [
+        "dudaji-cinema-player-",
         "cobblemon-cinematics-"
+      ]
+    },
+    {
+      "id": "streamer_shops",
+      "displayName": "Streamer Shops",
+      "version": "0.1.0-alpha.21",
+      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.21.jar",
+      "size": 30477594,
+      "sha256": "0CBFE8C0BBE0B5640754FCA404B8159917FDC471A32566470BF1A3EAE517848D",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.21.jar",
+      "prefixes": [
+        "cobblemon-streamer-shops-"
       ]
     }
   ],
@@ -363,9 +390,16 @@
     {
       "displayName": "스이쿤 전설 조우 영상",
       "relativePath": "config/cobblemon_cinematics/clips/suicune.cinematic",
-      "size": 48730032,
-      "sha256": "443C16CD719FEED674E48C61F7355B01E18E3A6A241C189768CF99294163A03C",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/cobblemon_cinematics/clips/suicune.cinematic"
+      "size": 107151985,
+      "sha256": "5C4E83290534BA1371AE7F78AF54FA747F4010918C764826F3C304CBA1FE24CA",
+      "url": "https://github.com/ymp4829566-hash/cobblemon-coop-distribution/releases/download/launcher-assets-2026-09-10-r1/suicune-20260910.cinematic"
+    },
+    {
+      "displayName": "스트리머 상점 음성팩",
+      "relativePath": "resourcepacks/streamer-shops-voices-r06-A-default.zip",
+      "size": 125180,
+      "sha256": "3B98F02A23BD5C5CBA97226BF8583054EE6E67A06A1C2406AB0C672870BC32C7",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/resourcepacks/streamer-shops-voices-r06-A-default.zip"
     }
   ],
   "removeModPrefixes": [],
