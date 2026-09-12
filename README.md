@@ -19,7 +19,7 @@
 - 쌍둥이 성소 챕터 맵 `0.2.0-alpha.4`
 - 협동 메뉴 BGM `1.0.0`
 - 두더지 시네마 플레이어 `0.1.0-alpha.4`
-- Streamer Shops `0.1.0-alpha.21`
+- Streamer Shops `0.1.0-alpha.30`
 
 스이쿤 조우 영상은 GitHub Release 자산으로, 스트리머 상점 음성팩은 클라이언트 리소스팩으로 배포합니다.
 

@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-09T22:57:38.0586248Z",
+  "generatedAtUtc": "2026-09-12T23:03:55.7194682Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -299,11 +299,11 @@
     {
       "id": "streamer_shops",
       "displayName": "Streamer Shops",
-      "version": "0.1.0-alpha.21",
-      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.21.jar",
-      "size": 30477594,
-      "sha256": "0CBFE8C0BBE0B5640754FCA404B8159917FDC471A32566470BF1A3EAE517848D",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.21.jar",
+      "version": "0.1.0-alpha.30",
+      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.30.jar",
+      "size": 34349043,
+      "sha256": "69ACFE555FF78B2277056E6E3A8AE05BE4212E18B8D65689F2CDBE4ABAF66621",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.30.jar",
       "prefixes": [
         "cobblemon-streamer-shops-"
       ]
