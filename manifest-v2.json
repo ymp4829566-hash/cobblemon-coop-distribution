@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-13T00:21:24.8704633Z",
+  "generatedAtUtc": "2026-09-13T23:01:32Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -224,11 +224,11 @@
     {
       "id": "cobblemon_adventure_menu",
       "displayName": "코블몬 모험 메뉴",
-      "version": "0.1.0-alpha.3",
-      "fileName": "cobblemon-adventure-menu-0.1.0-alpha.3.jar",
-      "size": 1395974,
-      "sha256": "D4B445F2503487B4B5650720D4C0B3939CD7A88D69253DE836468D072C71D426",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-adventure-menu-0.1.0-alpha.3.jar",
+      "version": "0.1.0-alpha.6",
+      "fileName": "cobblemon-adventure-menu-0.1.0-alpha.6.jar",
+      "size": 1503435,
+      "sha256": "FAFBD64ED70875CD378D6797B484AA725E212ABFEB0AE13BF7233179E56DCFED",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-adventure-menu-0.1.0-alpha.6.jar",
       "prefixes": [
         "cobblemon-adventure-menu-"
       ]
@@ -236,11 +236,11 @@
     {
       "id": "cobblemon_coop_wild",
       "displayName": "코블몬 협동 전투",
-      "version": "0.1.0-alpha.33",
-      "fileName": "코블몬-협동전투-0.1.0-alpha.33.jar",
-      "size": 2570782,
-      "sha256": "3F0AD977FC1558CE0DE72EAF049EA7F6E4FD7E43CC5ABC999B7588E2BFA761B1",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.33.jar",
+      "version": "0.1.0-alpha.34",
+      "fileName": "코블몬-협동전투-0.1.0-alpha.34.jar",
+      "size": 2577347,
+      "sha256": "71ABA0A5DEFEE41E268D298A63E8383C688E36440DC15226A66DE3DA1A814759",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.34.jar",
       "prefixes": [
         "cobblemon-coop-wild-",
         "코블몬-협동전투-"
@@ -249,11 +249,11 @@
     {
       "id": "cobblemon_legendary_encounters",
       "displayName": "코블몬 전설 조우",
-      "version": "0.1.0-alpha.3",
-      "fileName": "코블몬-전설조우-0.1.0-alpha.3.jar",
-      "size": 151576,
-      "sha256": "3E09F1BFF1DD4DA973C8EB8B80BE7CF3C62674270D01CDC953839DCC8A1DCDAE",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%EC%A0%84%EC%84%A4%EC%A1%B0%EC%9A%B0-0.1.0-alpha.3.jar",
+      "version": "0.1.0-alpha.5",
+      "fileName": "코블몬-전설조우-0.1.0-alpha.5.jar",
+      "size": 212775,
+      "sha256": "C4B91A70AAB1B5D9BA19FA68806913AA911D1B16DB24C77D43E382B61B94E368",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%EC%A0%84%EC%84%A4%EC%A1%B0%EC%9A%B0-0.1.0-alpha.5.jar",
       "prefixes": [
         "cobblemon-legendary-encounters-",
         "코블몬-전설조우-"
@@ -262,11 +262,11 @@
     {
       "id": "cobblemon_legendary_altars",
       "displayName": "전설 포켓몬 제단",
-      "version": "0.1.0-alpha.15",
-      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.15.jar",
-      "size": 354388,
-      "sha256": "7515B3546AD8FB34D8901EB0A80DFD6E7995728F95A689F23D624FF08A9D38B4",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.15.jar",
+      "version": "0.1.0-alpha.16",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.16.jar",
+      "size": 354501,
+      "sha256": "4D44B03983CCD883CCBA06595B504CD8C47C8557B099A8803B9752E6DBE169AE",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.16.jar",
       "prefixes": [
         "cobblemon-legendary-altars-"
       ]
@@ -274,11 +274,11 @@
     {
       "id": "cobblemon_chapter_map",
       "displayName": "쌍둥이 성소 챕터 맵",
-      "version": "0.2.0-alpha.4",
-      "fileName": "cobblemon-chapter-map-0.2.0-alpha.4.jar",
-      "size": 114957,
-      "sha256": "23FCD745BCCE62CE79378DD91980119FBAF6060722371C2C38F02C00908855A9",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.4.jar",
+      "version": "0.2.0-alpha.5",
+      "fileName": "cobblemon-chapter-map-0.2.0-alpha.5.jar",
+      "size": 116330,
+      "sha256": "44B2D91BE98C9D0994D74610DE1CD5D3E98CF938476F5BFCCFA6AAF9ABD4AE65",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.5.jar",
       "prefixes": [
         "cobblemon-chapter-map-"
       ]
@@ -298,11 +298,11 @@
     {
       "id": "cobblemon_cinematics",
       "displayName": "두더지 시네마 플레이어 (Dudaji Cinema Player)",
-      "version": "0.1.0-alpha.4",
-      "fileName": "dudaji-cinema-player-0.1.0-alpha.4.jar",
-      "size": 53873,
-      "sha256": "EFBD6304C14E0C1E85A32CF1F5E1E08E9E273256FC0330B02F856C0C219D1C48",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/dudaji-cinema-player-0.1.0-alpha.4.jar",
+      "version": "0.1.0-alpha.6",
+      "fileName": "dudaji-cinema-player-0.1.0-alpha.6.jar",
+      "size": 66351,
+      "sha256": "181FDD46BB8610A09BF43F5AFFBD20CF6F9BC576FE13336ED4B9405AF091A4BE",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/dudaji-cinema-player-0.1.0-alpha.6.jar",
       "prefixes": [
         "dudaji-cinema-player-",
         "cobblemon-cinematics-"
@@ -311,11 +311,11 @@
     {
       "id": "streamer_shops",
       "displayName": "Streamer Shops",
-      "version": "0.1.0-alpha.31",
-      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.31.jar",
-      "size": 34352119,
-      "sha256": "2674C65710593EA9DD15AB5B54D80CF12E79A3C727F43FAD813BA7CEF2D88EDE",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.31.jar",
+      "version": "0.1.0-alpha.36",
+      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.36.jar",
+      "size": 34672570,
+      "sha256": "49E8F8637250343792DBAD64405C30A84EC06FF1C4F7DE331F9A9F164DCA7D2A",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.36.jar",
       "prefixes": [
         "cobblemon-streamer-shops-"
       ]
@@ -408,10 +408,10 @@
     },
     {
       "displayName": "스트리머 상점 음성팩",
-      "relativePath": "resourcepacks/streamer-shops-voices-r06-A-default.zip",
-      "size": 125180,
-      "sha256": "3B98F02A23BD5C5CBA97226BF8583054EE6E67A06A1C2406AB0C672870BC32C7",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/resourcepacks/streamer-shops-voices-r06-A-default.zip"
+      "relativePath": "resourcepacks/streamer-shops-voices-r07-npc-profiles.zip",
+      "size": 304307,
+      "sha256": "394D6A5977A18263D366F7C94D9DC15881E26D283571519112460A774A33F730",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/resourcepacks/streamer-shops-voices-r07-npc-profiles.zip"
     }
   ],
   "removeModPrefixes": [],
