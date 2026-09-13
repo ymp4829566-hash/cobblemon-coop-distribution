@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-12T23:03:55.7194682Z",
+  "generatedAtUtc": "2026-09-13T00:21:24.8704633Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -222,13 +222,25 @@
       ]
     },
     {
+      "id": "cobblemon_adventure_menu",
+      "displayName": "코블몬 모험 메뉴",
+      "version": "0.1.0-alpha.3",
+      "fileName": "cobblemon-adventure-menu-0.1.0-alpha.3.jar",
+      "size": 1395974,
+      "sha256": "D4B445F2503487B4B5650720D4C0B3939CD7A88D69253DE836468D072C71D426",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-adventure-menu-0.1.0-alpha.3.jar",
+      "prefixes": [
+        "cobblemon-adventure-menu-"
+      ]
+    },
+    {
       "id": "cobblemon_coop_wild",
       "displayName": "코블몬 협동 전투",
-      "version": "0.1.0-alpha.31",
-      "fileName": "코블몬-협동전투-0.1.0-alpha.31.jar",
-      "size": 1255224,
-      "sha256": "0AAD63899610059E43876CC208AFB914F940B7558D0099EF61EB5A35052B1072",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.31.jar",
+      "version": "0.1.0-alpha.33",
+      "fileName": "코블몬-협동전투-0.1.0-alpha.33.jar",
+      "size": 2570782,
+      "sha256": "3F0AD977FC1558CE0DE72EAF049EA7F6E4FD7E43CC5ABC999B7588E2BFA761B1",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.33.jar",
       "prefixes": [
         "cobblemon-coop-wild-",
         "코블몬-협동전투-"
@@ -237,11 +249,11 @@
     {
       "id": "cobblemon_legendary_encounters",
       "displayName": "코블몬 전설 조우",
-      "version": "0.1.0-alpha.2",
-      "fileName": "코블몬-전설조우-0.1.0-alpha.2.jar",
-      "size": 148306,
-      "sha256": "6C239843F9AC5EE0F539EC81D994C54C745E87A1C1B55D404707BF56CC28CB93",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%EC%A0%84%EC%84%A4%EC%A1%B0%EC%9A%B0-0.1.0-alpha.2.jar",
+      "version": "0.1.0-alpha.3",
+      "fileName": "코블몬-전설조우-0.1.0-alpha.3.jar",
+      "size": 151576,
+      "sha256": "3E09F1BFF1DD4DA973C8EB8B80BE7CF3C62674270D01CDC953839DCC8A1DCDAE",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%EC%A0%84%EC%84%A4%EC%A1%B0%EC%9A%B0-0.1.0-alpha.3.jar",
       "prefixes": [
         "cobblemon-legendary-encounters-",
         "코블몬-전설조우-"
@@ -299,11 +311,11 @@
     {
       "id": "streamer_shops",
       "displayName": "Streamer Shops",
-      "version": "0.1.0-alpha.30",
-      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.30.jar",
-      "size": 34349043,
-      "sha256": "69ACFE555FF78B2277056E6E3A8AE05BE4212E18B8D65689F2CDBE4ABAF66621",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.30.jar",
+      "version": "0.1.0-alpha.31",
+      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.31.jar",
+      "size": 34352119,
+      "sha256": "2674C65710593EA9DD15AB5B54D80CF12E79A3C727F43FAD813BA7CEF2D88EDE",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.31.jar",
       "prefixes": [
         "cobblemon-streamer-shops-"
       ]
