@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-13T23:01:32Z",
+  "generatedAtUtc": "2026-09-20T19:07:17Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -262,11 +262,11 @@
     {
       "id": "cobblemon_legendary_altars",
       "displayName": "전설 포켓몬 제단",
-      "version": "0.1.0-alpha.16",
-      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.16.jar",
-      "size": 354501,
-      "sha256": "4D44B03983CCD883CCBA06595B504CD8C47C8557B099A8803B9752E6DBE169AE",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.16.jar",
+      "version": "0.1.0-alpha.18",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.18.jar",
+      "size": 365067,
+      "sha256": "231C40F33C625D5AB834433CB1417F896D978210BBF1115AFC853CCACBFD6ADD",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.18.jar",
       "prefixes": [
         "cobblemon-legendary-altars-"
       ]
@@ -298,11 +298,11 @@
     {
       "id": "cobblemon_cinematics",
       "displayName": "두더지 시네마 플레이어 (Dudaji Cinema Player)",
-      "version": "0.1.0-alpha.6",
-      "fileName": "dudaji-cinema-player-0.1.0-alpha.6.jar",
-      "size": 66351,
-      "sha256": "181FDD46BB8610A09BF43F5AFFBD20CF6F9BC576FE13336ED4B9405AF091A4BE",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/dudaji-cinema-player-0.1.0-alpha.6.jar",
+      "version": "0.1.0-alpha.7",
+      "fileName": "dudaji-cinema-player-0.1.0-alpha.7.jar",
+      "size": 66346,
+      "sha256": "98C6522FF9BDF3182FC744DECBBE0CC8A78F637C8D541629BBCC6D9D4F2F6713",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/dudaji-cinema-player-0.1.0-alpha.7.jar",
       "prefixes": [
         "dudaji-cinema-player-",
         "cobblemon-cinematics-"
@@ -311,11 +311,11 @@
     {
       "id": "streamer_shops",
       "displayName": "Streamer Shops",
-      "version": "0.1.0-alpha.36",
-      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.36.jar",
-      "size": 34672570,
-      "sha256": "49E8F8637250343792DBAD64405C30A84EC06FF1C4F7DE331F9A9F164DCA7D2A",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.36.jar",
+      "version": "0.1.0-alpha.37",
+      "fileName": "cobblemon-streamer-shops-0.1.0-alpha.37.jar",
+      "size": 34714075,
+      "sha256": "FD7D89DF171F1FAF1CB514F51B0968899FC06819F7C5E7D77F613A3066768D2E",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.37.jar",
       "prefixes": [
         "cobblemon-streamer-shops-"
       ]
