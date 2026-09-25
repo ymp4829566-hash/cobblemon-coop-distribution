@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-09-20T19:07:17Z",
+  "generatedAtUtc": "2026-09-25T15:25:44Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -22,11 +22,11 @@
     {
       "id": "cobblemon",
       "displayName": "Cobblemon",
-      "version": "1.8.0+1.21.1",
-      "fileName": "Cobblemon-fabric-1.8.0+1.21.1.jar",
-      "size": 162358118,
-      "sha256": "A6228F3291C70ED6348B9A47BEADABC79CB241B6522312E7E2B56D428DC9EC31",
-      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/YgmyyFcs/Cobblemon-fabric-1.8.0%2B1.21.1.jar",
+      "version": "1.8.1+1.21.1",
+      "fileName": "Cobblemon-fabric-1.8.1+1.21.1.jar",
+      "size": 137391338,
+      "sha256": "4D90BA6775E3A332AAD9D5E49A9F6366F973B3E1A12E0004D22CE21C600EEBC5",
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/gBW3vLC7/Cobblemon-fabric-1.8.1%2B1.21.1.jar",
       "prefixes": [
         "Cobblemon-fabric-"
       ]
@@ -161,11 +161,11 @@
     {
       "id": "mega_showdown",
       "displayName": "Cobblemon: Mega Showdown",
-      "version": "1.0+1.8+1.21.1-release-hotfix",
-      "fileName": "mega_showdown-fabric-1.0+1.8+1.21.1-release-hotfix.jar",
-      "size": 20182807,
-      "sha256": "1512C001557556C7F0FD2B52616B7E7EE32B7440776CD4F82154EE20733778B0",
-      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/we79kHpG/mega_showdown-fabric-1.0%2B1.8%2B1.21.1-release-hotfix.jar",
+      "version": "1.2.0+1.8.1+1.21.1-release",
+      "fileName": "mega_showdown-fabric-1.2.0+1.8.1+1.21.1-release.jar",
+      "size": 20152218,
+      "sha256": "D724243BDFDD12C266DDF5F5FA0DF36C68A759258F015469ED1C405F3BA261A7",
+      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/TKdAixuR/mega_showdown-fabric-1.2.0%2B1.8.1%2B1.21.1-release.jar",
       "prefixes": [
         "mega_showdown-fabric-",
         "mega_showdown-"
@@ -187,11 +187,11 @@
     {
       "id": "rctapi",
       "displayName": "Radical Cobblemon Trainers API",
-      "version": "0.16.0-beta",
-      "fileName": "rctapi-fabric-1.21.1-0.16.0-beta.jar",
-      "size": 257750,
-      "sha256": "2FE8643F28A60F9159138C2515253CC24AC34E04F44D937D52C87E480C688B75",
-      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/poXTxoNY/rctapi-fabric-1.21.1-0.16.0-beta.jar",
+      "version": "0.16.1-beta",
+      "fileName": "rctapi-fabric-1.21.1-0.16.1-beta.jar",
+      "size": 267961,
+      "sha256": "913F12BC77AB43CD4EE85209B078DB48359490D16543648BA097FA2E7910C84E",
+      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/bgmxNN26/rctapi-fabric-1.21.1-0.16.1-beta.jar",
       "prefixes": [
         "rctapi-"
       ]
@@ -199,11 +199,11 @@
     {
       "id": "rctmod",
       "displayName": "Radical Cobblemon Trainers",
-      "version": "0.19.0-beta",
-      "fileName": "rctmod-fabric-1.21.1-0.19.0-beta.jar",
-      "size": 6783347,
-      "sha256": "0CAD7A16F47B0E58C2AFF835D0BC75EF010ADE9B1696A383F0F7315438F1AC27",
-      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/jdUENp3C/rctmod-fabric-1.21.1-0.19.0-beta.jar",
+      "version": "0.19.2-beta",
+      "fileName": "rctmod-fabric-1.21.1-0.19.2-beta.jar",
+      "size": 6807725,
+      "sha256": "2E3D2C61012900FCF5A957E29676269958FACCA593DEBC7A9E095138546ACB0A",
+      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/rgfBfnW9/rctmod-fabric-1.21.1-0.19.2-beta.jar",
       "prefixes": [
         "rctmod-"
       ]
@@ -224,11 +224,11 @@
     {
       "id": "cobblemon_adventure_menu",
       "displayName": "코블몬 모험 메뉴",
-      "version": "0.1.0-alpha.6",
-      "fileName": "cobblemon-adventure-menu-0.1.0-alpha.6.jar",
-      "size": 1503435,
-      "sha256": "FAFBD64ED70875CD378D6797B484AA725E212ABFEB0AE13BF7233179E56DCFED",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-adventure-menu-0.1.0-alpha.6.jar",
+      "version": "0.1.0-alpha.9",
+      "fileName": "cobblemon-adventure-menu-0.1.0-alpha.9.jar",
+      "size": 3016349,
+      "sha256": "3E43229A7D20E9372D19CEC721E91D0EA8C7ECFF9917903C7C9401BB771072B1",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-adventure-menu-0.1.0-alpha.9.jar",
       "prefixes": [
         "cobblemon-adventure-menu-"
       ]
@@ -236,11 +236,11 @@
     {
       "id": "cobblemon_coop_wild",
       "displayName": "코블몬 협동 전투",
-      "version": "0.1.0-alpha.34",
-      "fileName": "코블몬-협동전투-0.1.0-alpha.34.jar",
-      "size": 2577347,
-      "sha256": "71ABA0A5DEFEE41E268D298A63E8383C688E36440DC15226A66DE3DA1A814759",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.34.jar",
+      "version": "0.1.0-alpha.36",
+      "fileName": "코블몬-협동전투-0.1.0-alpha.36.jar",
+      "size": 4089095,
+      "sha256": "78A4FBF79DC4EA13E52160E0C8EE496476520FC46F61DF7AF3C947F604824FC4",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.36.jar",
       "prefixes": [
         "cobblemon-coop-wild-",
         "코블몬-협동전투-"
@@ -249,11 +249,11 @@
     {
       "id": "cobblemon_legendary_encounters",
       "displayName": "코블몬 전설 조우",
-      "version": "0.1.0-alpha.5",
-      "fileName": "코블몬-전설조우-0.1.0-alpha.5.jar",
-      "size": 212775,
-      "sha256": "C4B91A70AAB1B5D9BA19FA68806913AA911D1B16DB24C77D43E382B61B94E368",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%EC%A0%84%EC%84%A4%EC%A1%B0%EC%9A%B0-0.1.0-alpha.5.jar",
+      "version": "0.1.0-alpha.6",
+      "fileName": "코블몬-전설조우-0.1.0-alpha.6.jar",
+      "size": 212774,
+      "sha256": "65158553B1684B6DD727DB9028CD41C27B87449B82AEEFE48E92E9D1AB7595AA",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%EC%A0%84%EC%84%A4%EC%A1%B0%EC%9A%B0-0.1.0-alpha.6.jar",
       "prefixes": [
         "cobblemon-legendary-encounters-",
         "코블몬-전설조우-"
@@ -262,11 +262,11 @@
     {
       "id": "cobblemon_legendary_altars",
       "displayName": "전설 포켓몬 제단",
-      "version": "0.1.0-alpha.18",
-      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.18.jar",
+      "version": "0.1.0-alpha.19",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.19.jar",
       "size": 365067,
-      "sha256": "231C40F33C625D5AB834433CB1417F896D978210BBF1115AFC853CCACBFD6ADD",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.18.jar",
+      "sha256": "C01EDB31F56962E8C00CE116566FB6DE33E738576EB4B62273A4AD435CE118FF",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.19.jar",
       "prefixes": [
         "cobblemon-legendary-altars-"
       ]
@@ -274,11 +274,11 @@
     {
       "id": "cobblemon_chapter_map",
       "displayName": "쌍둥이 성소 챕터 맵",
-      "version": "0.2.0-alpha.5",
-      "fileName": "cobblemon-chapter-map-0.2.0-alpha.5.jar",
+      "version": "0.2.0-alpha.6",
+      "fileName": "cobblemon-chapter-map-0.2.0-alpha.6.jar",
       "size": 116330,
-      "sha256": "44B2D91BE98C9D0994D74610DE1CD5D3E98CF938476F5BFCCFA6AAF9ABD4AE65",
-      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.5.jar",
+      "sha256": "3671A1B045C3D98260F94EA98F2A3DFDA7A87E4401F28C1BED0DA74A45C8BAED",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.6.jar",
       "prefixes": [
         "cobblemon-chapter-map-"
       ]
@@ -318,6 +318,18 @@
       "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-0.1.0-alpha.37.jar",
       "prefixes": [
         "cobblemon-streamer-shops-"
+      ]
+    },
+    {
+      "id": "cobblemon_181_compat",
+      "displayName": "Cobblemon 1.8.1 보석 호환 패치",
+      "version": "0.1.0-alpha.1",
+      "fileName": "cobblemon-181-compat-0.1.0-alpha.1.jar",
+      "size": 3396,
+      "sha256": "749BEF2E1ECE873576CA11BCD0546E874B53955907BF4C4068CE674C3EBB71F1",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-181-compat-0.1.0-alpha.1.jar",
+      "prefixes": [
+        "cobblemon-181-compat-"
       ]
     }
   ],
