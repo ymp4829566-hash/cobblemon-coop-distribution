@@ -1,0 +1,568 @@
+{
+  "schema": 2,
+  "channel": "stable",
+  "generatedAtUtc": "2026-10-07T15:44:39.178Z",
+  "profile": {
+    "minecraftVersion": "1.21.1",
+    "loader": {
+      "forgeVersion": "21.1.256",
+      "name": "neoforge-21.1.256",
+      "type": 6,
+      "downloadUrl": "",
+      "filename": "neoforge-21.1.256.jar",
+      "installMethod": 6,
+      "latest": false,
+      "recommended": false,
+      "versionJson": "{\"id\":\"neoforge-21.1.256\",\"time\":\"2026-10-05T23:29:04.4250206\",\"releaseTime\":\"2026-10-05T23:29:04.4250206\",\"type\":\"release\",\"mainClass\":\"cpw.mods.bootstraplauncher.BootstrapLauncher\",\"inheritsFrom\":\"1.21.1\",\"arguments\":{\"game\":[\"--fml.neoForgeVersion\",\"21.1.256\",\"--fml.fmlVersion\",\"4.0.45\",\"--fml.mcVersion\",\"1.21.1\",\"--fml.neoFormVersion\",\"20240808.144430\",\"--launchTarget\",\"forgeclient\"],\"jvm\":[\"-Djava.net.preferIPv6Addresses=system\",\"-DignoreList=client-extra,${version_name}.jar\",\"-DlibraryDirectory=${library_directory}\",\"-p\",\"${library_directory}/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar${classpath_separator}${library_directory}/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar\",\"--add-modules\",\"ALL-MODULE-PATH\",\"--add-opens\",\"java.base/java.util.jar=cpw.mods.securejarhandler\",\"--add-opens\",\"java.base/java.lang.invoke=cpw.mods.securejarhandler\",\"--add-exports\",\"java.base/sun.security.util=cpw.mods.securejarhandler\",\"--add-exports\",\"jdk.naming.dns/com.sun.jndi.dns=java.naming\"]},\"libraries\":[{\"name\":\"net.neoforged.fancymodloader:earlydisplay:4.0.45\",\"downloads\":{\"artifact\":{\"sha1\":\"dc7a8b1370054dd0e2d70c1db4ddf4092793c115\",\"size\":261719,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.45/earlydisplay-4.0.45.jar\",\"path\":\"net/neoforged/fancymodloader/earlydisplay/4.0.45/earlydisplay-4.0.45.jar\"}}},{\"name\":\"net.neoforged.fancymodloader:loader:4.0.45\",\"downloads\":{\"artifact\":{\"sha1\":\"4a0968c2ec6234d58e0a9ed97acafc08cc8f33b5\",\"size\":505696,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.45/loader-4.0.45.jar\",\"path\":\"net/neoforged/fancymodloader/loader/4.0.45/loader-4.0.45.jar\"}}},{\"name\":\"net.neoforged.accesstransformers:at-modlauncher:10.0.1\",\"downloads\":{\"artifact\":{\"sha1\":\"5aba50202aceead086bc09fbc2751c9f05cb4890\",\"size\":2347,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar\",\"path\":\"net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar\"}}},{\"name\":\"net.neoforged:accesstransformers:10.0.1\",\"downloads\":{\"artifact\":{\"sha1\":\"fd83b5725f76eae9115e9355fa1c456a6a441400\",\"size\":67234,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar\",\"path\":\"net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar\"}}},{\"name\":\"net.neoforged:bus:8.0.5\",\"downloads\":{\"artifact\":{\"sha1\":\"5b2d33285ab5d1554e9798ad98c40d6ea3868bd5\",\"size\":30340,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/bus/8.0.5/bus-8.0.5.jar\",\"path\":\"net/neoforged/bus/8.0.5/bus-8.0.5.jar\"}}},{\"name\":\"net.neoforged:coremods:7.0.3\",\"downloads\":{\"artifact\":{\"sha1\":\"09147e6f638b4272b3bd5fc8f92ad37802512c6c\",\"size\":22659,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar\",\"path\":\"net/neoforged/coremods/7.0.3/coremods-7.0.3.jar\"}}},{\"name\":\"cpw.mods:modlauncher:11.0.5\",\"downloads\":{\"artifact\":{\"sha1\":\"b8f0d49294f733fdb6173931b263553e943dc950\",\"size\":116486,\"url\":\"https://maven.neoforged.net/releases/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar\",\"path\":\"cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar\"}}},{\"name\":\"net.neoforged:mergetool:2.0.0:api\",\"downloads\":{\"artifact\":{\"sha1\":\"52fe1949be64e3303aabaaa21e315f551db9c9f4\",\"size\":2550,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar\",\"path\":\"net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar\"}}},{\"name\":\"com.electronwill.night-config:toml:3.8.3\",\"downloads\":{\"artifact\":{\"sha1\":\"90b2fd6efcb4a7d5b9810cf78f9d824994d717f2\",\"size\":39516,\"url\":\"https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar\",\"path\":\"com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar\"}}},{\"name\":\"com.electronwill.night-config:core:3.8.3\",\"downloads\":{\"artifact\":{\"sha1\":\"b442a95f09e349927f5a945ecb594455870fcf4f\",\"size\":382911,\"url\":\"https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar\",\"path\":\"com/electronwill/night-config/core/3.8.3/core-3.8.3.jar\"}}},{\"name\":\"net.neoforged:JarJarSelector:0.4.1\",\"downloads\":{\"artifact\":{\"sha1\":\"fb3cc7a58af22ad2880adb98af6d518128c47dae\",\"size\":17168,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar\",\"path\":\"net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar\"}}},{\"name\":\"net.neoforged:JarJarMetadata:0.4.1\",\"downloads\":{\"artifact\":{\"sha1\":\"f8da03683dc81694556dc3e177c5e3bb77ae6fcb\",\"size\":15648,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar\",\"path\":\"net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar\"}}},{\"name\":\"org.apache.maven:maven-artifact:3.8.5\",\"downloads\":{\"artifact\":{\"sha1\":\"4433f50c07debefaed0553bd0068f4f48d449313\",\"size\":58077,\"url\":\"https://maven.neoforged.net/releases/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar\",\"path\":\"org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar\"}}},{\"name\":\"net.jodah:typetools:0.6.3\",\"downloads\":{\"artifact\":{\"sha1\":\"a01aaa6ddaea9ec07ec4f209487b7a46a526283a\",\"size\":18281,\"url\":\"https://maven.neoforged.net/releases/net/jodah/typetools/0.6.3/typetools-0.6.3.jar\",\"path\":\"net/jodah/typetools/0.6.3/typetools-0.6.3.jar\"}}},{\"name\":\"net.minecrell:terminalconsoleappender:1.3.0\",\"downloads\":{\"artifact\":{\"sha1\":\"b562e9bb61235c9520e26282cdee71f8f802d1fc\",\"size\":16949,\"url\":\"https://maven.neoforged.net/releases/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar\",\"path\":\"net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar\"}}},{\"name\":\"net.fabricmc:sponge-mixin:0.16.4+mixin.0.8.7\",\"downloads\":{\"artifact\":{\"sha1\":\"26d01f0567ab46e9ca0d2ed89d0ecc11aadbd433\",\"size\":1504204,\"url\":\"https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.16.4+mixin.0.8.7/sponge-mixin-0.16.4+mixin.0.8.7.jar\",\"path\":\"net/fabricmc/sponge-mixin/0.16.4+mixin.0.8.7/sponge-mixin-0.16.4+mixin.0.8.7.jar\"}}},{\"name\":\"org.openjdk.nashorn:nashorn-core:15.4\",\"downloads\":{\"artifact\":{\"sha1\":\"f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5\",\"size\":2167292,\"url\":\"https://maven.neoforged.net/releases/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar\",\"path\":\"org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar\"}}},{\"name\":\"org.apache.commons:commons-lang3:3.14.0\",\"downloads\":{\"artifact\":{\"sha1\":\"1ed471194b02f2c6cb734a0cd6f6f107c673afae\",\"size\":657952,\"url\":\"https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar\",\"path\":\"org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar\"}}},{\"name\":\"cpw.mods:bootstraplauncher:2.0.2\",\"downloads\":{\"artifact\":{\"sha1\":\"1a2d076cbc33b0520cbacd591224427b2a20047d\",\"size\":11116,\"url\":\"https://maven.neoforged.net/releases/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar\",\"path\":\"cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar\"}}},{\"name\":\"cpw.mods:securejarhandler:3.0.8\",\"downloads\":{\"artifact\":{\"sha1\":\"c0ef95cecd8699a0449053ac7d9c160748d902cd\",\"size\":103765,\"url\":\"https://maven.neoforged.net/releases/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar\",\"path\":\"cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar\"}}},{\"name\":\"org.ow2.asm:asm-commons:9.10.1\",\"downloads\":{\"artifact\":{\"sha1\":\"4229e4c55fd8e01c23f9fe9884075cc628aacc50\",\"size\":74840,\"url\":\"https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar\",\"path\":\"org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar\"}}},{\"name\":\"org.ow2.asm:asm-util:9.10.1\",\"downloads\":{\"artifact\":{\"sha1\":\"7bb9d450e8d4cbf9f9e04096c44bbfe7fba80b15\",\"size\":95628,\"url\":\"https://maven.neoforged.net/releases/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar\",\"path\":\"org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar\"}}},{\"name\":\"org.ow2.asm:asm-analysis:9.10.1\",\"downloads\":{\"artifact\":{\"sha1\":\"8d49f14d51f632cb1d87c88d1ceaf50db0d8af1b\",\"size\":35140,\"url\":\"https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar\",\"path\":\"org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar\"}}},{\"name\":\"org.ow2.asm:asm-tree:9.10.1\",\"downloads\":{\"artifact\":{\"sha1\":\"e244332a17564c1d1572449399a842de35881be2\",\"size\":51958,\"url\":\"https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar\",\"path\":\"org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar\"}}},{\"name\":\"org.ow2.asm:asm:9.10.1\",\"downloads\":{\"artifact\":{\"sha1\":\"ada2141c0cc52ee8f5c48cd5fa4ce0e794f22236\",\"size\":126151,\"url\":\"https://maven.neoforged.net/releases/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar\",\"path\":\"org/ow2/asm/asm/9.10.1/asm-9.10.1.jar\"}}},{\"name\":\"net.neoforged:JarJarFileSystems:0.4.1\",\"downloads\":{\"artifact\":{\"sha1\":\"78f59f89defcd032ed788b151ca6a0d40ace796a\",\"size\":31807,\"url\":\"https://maven.neoforged.net/releases/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar\",\"path\":\"net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar\"}}},{\"name\":\"net.sf.jopt-simple:jopt-simple:5.0.4\",\"downloads\":{\"artifact\":{\"sha1\":\"4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\",\"size\":78146,\"url\":\"https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar\",\"path\":\"net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar\"}}},{\"name\":\"org.slf4j:slf4j-api:2.0.9\",\"downloads\":{\"artifact\":{\"sha1\":\"7cf2726fdcfbc8610f9a71fb3ed639871f315340\",\"size\":64579,\"url\":\"https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar\",\"path\":\"org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar\"}}},{\"name\":\"org.antlr:antlr4-runtime:4.13.1\",\"downloads\":{\"artifact\":{\"sha1\":\"17125bae1d965624e265ef49552f6465a2bfa307\",\"size\":326305,\"url\":\"https://maven.neoforged.net/releases/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar\",\"path\":\"org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar\"}}},{\"name\":\"com.mojang:logging:1.2.7\",\"downloads\":{\"artifact\":{\"sha1\":\"24cb95ffb0e3433fd6e844c04e68009e504ca1c0\",\"size\":15343,\"url\":\"https://libraries.minecraft.net/com/mojang/logging/1.2.7/logging-1.2.7.jar\",\"path\":\"com/mojang/logging/1.2.7/logging-1.2.7.jar\"}}},{\"name\":\"org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1\",\"downloads\":{\"artifact\":{\"sha1\":\"d7e6693c2606cb7e7335047d7bb96dec52db5665\",\"size\":27364,\"url\":\"https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar\",\"path\":\"org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar\"}}},{\"name\":\"org.apache.logging.log4j:log4j-core:2.22.1\",\"downloads\":{\"artifact\":{\"sha1\":\"7183a25510a02ad00cc6a95d3b3d2a7d3c5a8dc4\",\"size\":1900022,\"url\":\"https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar\",\"path\":\"org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar\"}}},{\"name\":\"org.apache.logging.log4j:log4j-api:2.22.1\",\"downloads\":{\"artifact\":{\"sha1\":\"bea6fede6328fabafd7e68363161a7ea6605abd1\",\"size\":335001,\"url\":\"https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar\",\"path\":\"org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar\"}}},{\"name\":\"org.jline:jline-reader:3.20.0\",\"downloads\":{\"artifact\":{\"sha1\":\"8f15415b022a25b473e8e16c28ae913186ffb9c4\",\"size\":171052,\"url\":\"https://maven.neoforged.net/releases/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar\",\"path\":\"org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar\"}}},{\"name\":\"org.jline:jline-terminal:3.20.0\",\"downloads\":{\"artifact\":{\"sha1\":\"d0ddcc708ddf527a3454c941b7b9225cc83a15ff\",\"size\":228481,\"url\":\"https://maven.neoforged.net/releases/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar\",\"path\":\"org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar\"}}},{\"name\":\"commons-io:commons-io:2.15.1\",\"downloads\":{\"artifact\":{\"sha1\":\"f11560da189ab563a5c8e351941415430e9304ea\",\"size\":501218,\"url\":\"https://libraries.minecraft.net/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar\",\"path\":\"commons-io/commons-io/2.15.1/commons-io-2.15.1.jar\"}}},{\"name\":\"net.minecraftforge:srgutils:0.4.15\",\"downloads\":{\"artifact\":{\"sha1\":\"ca408b131759478f164e010fae0d73997e125fb5\",\"size\":69393,\"url\":\"https://maven.neoforged.net/releases/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar\",\"path\":\"net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar\"}}},{\"name\":\"com.google.guava:guava:32.1.2-jre\",\"downloads\":{\"artifact\":{\"sha1\":\"5e64ec7e056456bef3a4bc4c6fdaef71e8ab6318\",\"size\":3041591,\"url\":\"https://libraries.minecraft.net/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar\",\"path\":\"com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar\"}}},{\"name\":\"com.google.guava:failureaccess:1.0.1\",\"downloads\":{\"artifact\":{\"sha1\":\"1dcf1de382a0bf95a3d8b0849546c88bac1292c9\",\"size\":4617,\"url\":\"https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar\",\"path\":\"com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar\"}}},{\"name\":\"com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava\",\"downloads\":{\"artifact\":{\"sha1\":\"b421526c5f297295adef1c886e5246c39d4ac629\",\"size\":2199,\"url\":\"https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar\",\"path\":\"com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar\"}}},{\"name\":\"com.google.code.findbugs:jsr305:3.0.2\",\"downloads\":{\"artifact\":{\"sha1\":\"25ea2e8b0c338a877313bd4672d3fe056ea78f0d\",\"size\":19936,\"url\":\"https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar\",\"path\":\"com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar\"}}},{\"name\":\"org.checkerframework:checker-qual:3.33.0\",\"downloads\":{\"artifact\":{\"sha1\":\"de2b60b62da487644fc11f734e73c8b0b431238f\",\"size\":223979,\"url\":\"https://libraries.minecraft.net/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar\",\"path\":\"org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar\"}}},{\"name\":\"com.google.errorprone:error_prone_annotations:2.18.0\",\"downloads\":{\"artifact\":{\"sha1\":\"89b684257096f548fa39a7df9fdaa409d4d4df91\",\"size\":16017,\"url\":\"https://libraries.minecraft.net/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar\",\"path\":\"com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar\"}}},{\"name\":\"com.google.j2objc:j2objc-annotations:2.8\",\"downloads\":{\"artifact\":{\"sha1\":\"c85270e307e7b822f1086b93689124b89768e273\",\"size\":9301,\"url\":\"https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar\",\"path\":\"com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar\"}}},{\"name\":\"com.google.code.gson:gson:2.10.1\",\"downloads\":{\"artifact\":{\"sha1\":\"b3add478d4382b78ea20b1671390a858002feb6c\",\"size\":283367,\"url\":\"https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar\",\"path\":\"com/google/code/gson/gson/2.10.1/gson-2.10.1.jar\"}}},{\"name\":\"org.codehaus.plexus:plexus-utils:3.3.0\",\"downloads\":{\"artifact\":{\"sha1\":\"cf43b5391de623b36fe066a21127baef82c64022\",\"size\":263253,\"url\":\"https://maven.neoforged.net/releases/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar\",\"path\":\"org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar\"}}},{\"name\":\"com.machinezoo.noexception:noexception:1.7.1\",\"downloads\":{\"artifact\":{\"sha1\":\"b65330c98e38a1f915fa54a6e5eca496505e3f0a\",\"size\":250861,\"url\":\"https://maven.neoforged.net/releases/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar\",\"path\":\"com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar\"}}}]}"
+    }
+  },
+  "mods": [
+    {
+      "id": "cobblemon",
+      "displayName": "Cobblemon",
+      "version": "1.8.1",
+      "fileName": "Cobblemon-neoforge-1.8.1+1.21.1.jar",
+      "size": 139056524,
+      "sha256": "5E6882D60D76F57C56DDDBDFB9A66EAFDB9F7B93103A305CA51F285B09D20C0D",
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/7otgw3aH/Cobblemon-neoforge-1.8.1%2B1.21.1.jar",
+      "prefixes": [
+        "Cobblemon-neoforge-",
+        "Cobblemon-fabric-"
+      ]
+    },
+    {
+      "id": "mega_showdown",
+      "displayName": "Cobblemon: Mega Showdown",
+      "version": "1.2.0+1.8.1+1.21.1-release",
+      "fileName": "mega_showdown-neoforge-1.2.0+1.8.1+1.21.1-release.jar",
+      "size": 20201829,
+      "sha256": "9D8A150A41D67CE6D84B84725668D64A2F50D46FAB3DED6C9DCA5D23D0D2009D",
+      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/PzUYM6Nz/mega_showdown-neoforge-1.2.0%2B1.8.1%2B1.21.1-release.jar",
+      "prefixes": [
+        "mega_showdown-neoforge-",
+        "mega_showdown-fabric-",
+        "mega_showdown-"
+      ]
+    },
+    {
+      "id": "rctmod",
+      "displayName": "Radical Cobblemon Trainers",
+      "version": "0.19.2-beta",
+      "fileName": "rctmod-neoforge-1.21.1-0.19.2-beta.jar",
+      "size": 7587320,
+      "sha256": "B1F1B4D5FEA114CE22FF2A8A458DA685A913E009E03161525178FF8197D12F9F",
+      "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/ITPewVPq/rctmod-neoforge-1.21.1-0.19.2-beta.jar",
+      "prefixes": [
+        "rctmod-neoforge-",
+        "rctmod-fabric-",
+        "rctmod-"
+      ]
+    },
+    {
+      "id": "rctapi",
+      "displayName": "Radical Cobblemon Trainers API",
+      "version": "0.16.1-beta",
+      "fileName": "rctapi-neoforge-1.21.1-0.16.1-beta.jar",
+      "size": 268914,
+      "sha256": "A402388A9F0D3944EEAB7F2AE1FF7CE3CF0DB2746D9C866DD1414D7A220A79B8",
+      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/ADsoWJz6/rctapi-neoforge-1.21.1-0.16.1-beta.jar",
+      "prefixes": [
+        "rctapi-neoforge-",
+        "rctapi-fabric-",
+        "rctapi-"
+      ]
+    },
+    {
+      "id": "tbcs",
+      "displayName": "Cobblemon Trainer Battle Commands",
+      "version": "0.15.0-beta",
+      "fileName": "tbcs-neoforge-1.21.1-0.15.0-beta.jar",
+      "size": 81502,
+      "sha256": "2948FC3E79AAD3D520276E9C893D11F4065A4742E237349CCC4640369B615BDE",
+      "url": "https://cdn.modrinth.com/data/NApIzVVy/versions/ZeJ4CniE/tbcs-neoforge-1.21.1-0.15.0-beta.jar",
+      "prefixes": [
+        "tbcs-neoforge-",
+        "tbcs-fabric-",
+        "tbcs-"
+      ]
+    },
+    {
+      "id": "architectury",
+      "displayName": "Architectury API",
+      "version": "13.0.11+neoforge",
+      "fileName": "architectury-13.0.11-neoforge.jar",
+      "size": 584734,
+      "sha256": "9CC92F2C09533FC5482C60F993BD891C655A0E32B637037CDCB7C2B23ADEDEEB",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
+      "prefixes": [
+        "architectury-"
+      ]
+    },
+    {
+      "id": "accessories",
+      "displayName": "Accessories",
+      "version": "1.1.0-beta.53+1.21.1",
+      "fileName": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "size": 1078697,
+      "sha256": "10017A3DA78EA63E9ECE27A1CA32F8CF490362F348778CF8CB759E7282F3BEB0",
+      "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
+      "prefixes": [
+        "accessories-neoforge-",
+        "accessories-fabric-",
+        "accessories-"
+      ]
+    },
+    {
+      "id": "owo",
+      "displayName": "oωo (owo-lib)",
+      "version": "0.12.15.5-beta.1+1.21",
+      "fileName": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "size": 1221583,
+      "sha256": "DE6ED336BD80154B7241A7B3276694BEFC1C94550ADD8BCDFE7F82E5172FD13D",
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+      "prefixes": [
+        "owo-lib-neoforge-",
+        "owo-lib-"
+      ]
+    },
+    {
+      "id": "worldedit",
+      "displayName": "WorldEdit",
+      "version": "7.3.8",
+      "fileName": "worldedit-mod-7.3.8.jar",
+      "size": 6222854,
+      "sha256": "5E7752C97876D87411E3760BCC573CC431F43C453722E6959FA7FE54DB1B01CA",
+      "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+      "prefixes": [
+        "worldedit-mod-",
+        "worldedit-neoforge-",
+        "worldedit-fabric-",
+        "worldedit-"
+      ]
+    },
+    {
+      "id": "kotlinforforge",
+      "displayName": "Kotlin for Forge",
+      "version": "5.12.0",
+      "fileName": "kotlinforforge-5.12.0-all.jar",
+      "size": 7279264,
+      "sha256": "2785A4DD6DE5C6C56065FD8EB789C82771BD2EE773C30794C23160A3B2C39139",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+      "prefixes": [
+        "kotlinforforge-"
+      ]
+    },
+    {
+      "id": "create",
+      "displayName": "Create",
+      "version": "6.0.10+mc1.21.1",
+      "fileName": "create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "sha256": "EF87FE5709F1BA1F5B8BB20A2925B5AFB4669E178FD6D8BF10C167759EEFE37A",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "prefixes": [
+        "create-"
+      ]
+    },
+    {
+      "id": "fancymenu",
+      "displayName": "FancyMenu",
+      "version": "3.9.12-1.21.1-neoforge",
+      "fileName": "fancymenu_neoforge_3.9.12_MC_1.21.1.jar",
+      "size": 25912346,
+      "sha256": "FD0F446C22BB42A0A3AC5CBDCB614ABCBA5A70F99E2A0CDA6556A8EFAD2859A5",
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Jjr0fpDH/fancymenu_neoforge_3.9.12_MC_1.21.1.jar",
+      "prefixes": [
+        "fancymenu_neoforge_",
+        "fancymenu_fabric_",
+        "fancymenu_",
+        "fancymenu-"
+      ]
+    },
+    {
+      "id": "konkrete",
+      "displayName": "Konkrete",
+      "version": "1.9.9-1.21-neoforge",
+      "fileName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "size": 618842,
+      "sha256": "791C5538751DD3015EF3A2CE92D98719E1A28A48EBBD817B78506771256654CD",
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "prefixes": [
+        "konkrete_neoforge_",
+        "konkrete_fabric_",
+        "konkrete_",
+        "konkrete-"
+      ]
+    },
+    {
+      "id": "melody",
+      "displayName": "Melody",
+      "version": "1.0.10-1.21-neoforge",
+      "fileName": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "size": 36096,
+      "sha256": "6B973A4564703C531FC0EAE09DB08B07A38091E0A743C687B8D2049457E84871",
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar",
+      "prefixes": [
+        "melody_neoforge_",
+        "melody_fabric_",
+        "melody_",
+        "melody-"
+      ]
+    },
+    {
+      "id": "sodium",
+      "displayName": "Sodium 렌더링 최적화",
+      "version": "mc1.21.1-0.8.13-neoforge",
+      "fileName": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "size": 1292934,
+      "sha256": "575D187B15328D7BDDD8A9B1BEE64333C22C14735F5780EC49EAC0CD5503C08D",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "prefixes": [
+        "sodium-neoforge-",
+        "sodium-fabric-",
+        "sodium-"
+      ]
+    },
+    {
+      "id": "cobblemon_coop_wild",
+      "displayName": "코블몬 협동 전투",
+      "version": "0.1.0-alpha.37",
+      "fileName": "코블몬-협동전투-0.1.0-alpha.37-neoforge.jar",
+      "size": 4089894,
+      "sha256": "0200DFEB46A8DF102F14B7F2C768A5070AD6A214318BFE9EC6001BFEFDC0643D",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/%EC%BD%94%EB%B8%94%EB%AA%AC-%ED%98%91%EB%8F%99%EC%A0%84%ED%88%AC-0.1.0-alpha.37-neoforge.jar",
+      "prefixes": [
+        "코블몬-협동전투-",
+        "cobblemon-coop-wild-"
+      ]
+    },
+    {
+      "id": "cobblemon_legendary_encounters",
+      "displayName": "코블몬 전설 조우",
+      "version": "0.1.0-alpha.7",
+      "fileName": "cobblemon-legendary-encounters-0.1.0-alpha.7-neoforge.jar",
+      "size": 210247,
+      "sha256": "D1EC08223E82098001AFD693899931A2254ED8BED3A983A2ECF774B285AD9C44",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-encounters-0.1.0-alpha.7-neoforge.jar",
+      "prefixes": [
+        "cobblemon-legendary-encounters-",
+        "코블몬-전설조우-"
+      ]
+    },
+    {
+      "id": "cobblemon_legendary_altars",
+      "displayName": "전설 포켓몬 제단",
+      "version": "0.1.0-alpha.20",
+      "fileName": "cobblemon-legendary-altars-0.1.0-alpha.20-neoforge.jar",
+      "size": 362032,
+      "sha256": "3170C1FC53F60FE10ED8F026AA049CEEB607AC67C491E70E47FF273747A87E94",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-legendary-altars-0.1.0-alpha.20-neoforge.jar",
+      "prefixes": [
+        "cobblemon-legendary-altars-"
+      ]
+    },
+    {
+      "id": "cobblemon_chapter_map",
+      "displayName": "쌍둥이 성소 챕터 맵",
+      "version": "0.2.0-alpha.7",
+      "fileName": "cobblemon-chapter-map-0.2.0-alpha.7-neoforge.jar",
+      "size": 115222,
+      "sha256": "3BC68FFF18890F267C05BBC20A1A97C051205496067A5E10CB8E612E118FFE03",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-chapter-map-0.2.0-alpha.7-neoforge.jar",
+      "prefixes": [
+        "cobblemon-chapter-map-"
+      ]
+    },
+    {
+      "id": "cobblemon_adventure_menu",
+      "displayName": "코블몬 모험 메뉴",
+      "version": "0.1.0-alpha.10",
+      "fileName": "cobblemon-adventure-menu-neoforge-0.1.0-alpha.10.jar",
+      "size": 3016575,
+      "sha256": "9A749C980B8FA250CA1023DD40C5F221D59CDCA82DE4BC1679534B7FC195D9D9",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-adventure-menu-neoforge-0.1.0-alpha.10.jar",
+      "prefixes": [
+        "cobblemon-adventure-menu-"
+      ]
+    },
+    {
+      "id": "cobblemon_181_compat",
+      "displayName": "Cobblemon 1.8.1 보석 호환 패치",
+      "version": "0.1.0-alpha.2",
+      "fileName": "cobblemon-181-compat-0.1.0-alpha.2-neoforge.jar",
+      "size": 3028,
+      "sha256": "7493B825F926E2FD92A4E7A6849F4B614EEA7926BBDE0584179CDBE5D799F97A",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-181-compat-0.1.0-alpha.2-neoforge.jar",
+      "prefixes": [
+        "cobblemon-181-compat-"
+      ]
+    },
+    {
+      "id": "cobblemon_menu_bgm",
+      "displayName": "협동 메뉴 BGM",
+      "version": "1.0.1",
+      "fileName": "cobblemon-menu-bgm-neoforge-1.0.1.jar",
+      "size": 2397205,
+      "sha256": "09FB75E942BFB8339833E2169BE283740CFF1B7013F2917A4C64485F72166B49",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-menu-bgm-neoforge-1.0.1.jar",
+      "prefixes": [
+        "cobblemon-menu-bgm-"
+      ]
+    },
+    {
+      "id": "streamer_shops",
+      "displayName": "Streamer Shops",
+      "version": "0.1.0-alpha.38",
+      "fileName": "cobblemon-streamer-shops-neoforge-0.1.0-alpha.38.jar",
+      "size": 34710930,
+      "sha256": "84E98C1A6BE7C0EE67937F3B7C06FB220237A8061E60E1E754942D71487D3955",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/cobblemon-streamer-shops-neoforge-0.1.0-alpha.38.jar",
+      "prefixes": [
+        "cobblemon-streamer-shops-",
+        "streamer-shops-"
+      ]
+    },
+    {
+      "id": "cobblemon_cinematics",
+      "displayName": "두더지 시네마 플레이어",
+      "version": "0.1.0-alpha.8",
+      "fileName": "dudaji-cinema-player-0.1.0-alpha.8-neoforge.jar",
+      "size": 65346,
+      "sha256": "D57430AFDDC19F1FC8EC1EAE856C5E13AD4AE13A1A7FBD5EAD1363B932D90775",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/dudaji-cinema-player-0.1.0-alpha.8-neoforge.jar",
+      "prefixes": [
+        "dudaji-cinema-player-",
+        "cobblemon-cinematics-"
+      ]
+    },
+    {
+      "id": "entityculling",
+      "displayName": "Entity Culling",
+      "version": "1.11.2",
+      "fileName": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "size": 1510018,
+      "sha256": "3983B981DA4A0583C7E58184A8631A23E56CC3B81F4CB53491CA600382879B82",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "prefixes": [
+        "entityculling-neoforge-",
+        "entityculling-fabric-",
+        "entityculling-forge-"
+      ]
+    },
+    {
+      "id": "modernfix",
+      "displayName": "ModernFix",
+      "version": "5.27.24+mc1.21.1",
+      "fileName": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "size": 604333,
+      "sha256": "E6E9446890F0FEB3AAB3F6E73AE18CB17575C370F232179FEF7BAA30E61538FE",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+      "prefixes": [
+        "modernfix-neoforge-",
+        "modernfix-fabric-",
+        "modernfix-forge-"
+      ]
+    },
+    {
+      "id": "sophisticatedbackpacks",
+      "displayName": "Sophisticated Backpacks",
+      "version": "3.26.9",
+      "fileName": "sophisticatedbackpacks-1.21.1-3.26.9.2195.jar",
+      "size": 1242171,
+      "sha256": "1A5E08329D16DDB3579B0E76E657551AC6B976378EC01D5D173B4827447D694D",
+      "url": "https://edge.forgecdn.net/files/9083/940/sophisticatedbackpacks-1.21.1-3.26.9.2195.jar",
+      "prefixes": [
+        "sophisticatedbackpacks-"
+      ]
+    },
+    {
+      "id": "sophisticatedcore",
+      "displayName": "Sophisticated Core",
+      "version": "1.5.7",
+      "fileName": "sophisticatedcore-1.21.1-1.5.7.2381.jar",
+      "size": 1814171,
+      "sha256": "55E917738A7C390F9F4CA93C63C98F811AD8285170442758B14B8732C00C7D42",
+      "url": "https://edge.forgecdn.net/files/9083/874/sophisticatedcore-1.21.1-1.5.7.2381.jar",
+      "prefixes": [
+        "sophisticatedcore-"
+      ]
+    },
+    {
+      "id": "bobby",
+      "displayName": "Bobby 원거리 청크 캐시 — NeoForge 비공식 포트",
+      "version": "5.2.4.1-neoforge.1",
+      "fileName": "bobby-neoforge-5.2.4.1-neoforge.1.jar",
+      "size": 813713,
+      "sha256": "B0AE31EB9FD6BF03751401F79FE8B75A4D774743A1BE58C8EC73AFFD46140DE5",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/51b9e22d115208fe868ec76009b72f3d90f78209/files/bobby-neoforge-5.2.4.1-neoforge.1.jar",
+      "prefixes": [
+        "bobby-"
+      ]
+    }
+  ],
+  "clientFiles": [
+    {
+      "displayName": "CurseForge 프로필 이미지",
+      "relativePath": "profile-icon.png",
+      "size": 2423918,
+      "sha256": "30CC00E36E8237F728ADECE0EACE24240AAAD487156C1F78E4B22B892300C835",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/profile-icon.png"
+    },
+    {
+      "displayName": "FancyMenu 설정",
+      "relativePath": "config/fancymenu/options.txt",
+      "size": 226,
+      "sha256": "F3B49F0DAAC7409421021F76A45762F21E7AD4E44D0EB3C587A304F1A45DFF49",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/options.txt"
+    },
+    {
+      "displayName": "FancyMenu 화면 등록",
+      "relativePath": "config/fancymenu/customizablemenus.txt",
+      "size": 75,
+      "sha256": "4C68AB99C906DD487952F61BF33C0635039A8BBFF3F02099E3CD8272FE51B4AA",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customizablemenus.txt"
+    },
+    {
+      "displayName": "협동 타이틀 배치",
+      "relativePath": "config/fancymenu/customization/cobblemon_coop_title.txt",
+      "size": 16709,
+      "sha256": "E7BAFF089773255336B9C2F4692B06AEC485BE8D2AB2A24E85997827A12F53BC",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/customization/cobblemon_coop_title.txt"
+    },
+    {
+      "displayName": "협동 타이틀 배경",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-title.png",
+      "size": 2308567,
+      "sha256": "22BD981C09473CE6EA78FD3EEFFA64504105520F64E1413DEEB9500E7C0AC592",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-title.png"
+    },
+    {
+      "displayName": "멀티플레이 버튼 기본 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-multiplayer-off.png",
+      "size": 911555,
+      "sha256": "F39F49BFD6BD87EF0F019DEF6DE3D27013B6CDF49DB1EA7CC198385061801481",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-multiplayer-off.png"
+    },
+    {
+      "displayName": "멀티플레이 버튼 선택 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-multiplayer-on.png",
+      "size": 1247010,
+      "sha256": "10C75BB71DA3A5C3079057A94206D4E13EB72BB1C398AEC2D95F489A870079D3",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-multiplayer-on.png"
+    },
+    {
+      "displayName": "설정 버튼 기본 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-options-off.png",
+      "size": 957759,
+      "sha256": "B91D2017A7225DA27DEC8DF642535BD0BF5C21B7165601D747CA88EC6B8A171E",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-options-off.png"
+    },
+    {
+      "displayName": "설정 버튼 선택 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-options-on.png",
+      "size": 1546154,
+      "sha256": "253444CE2EEA5A8282C7CA7F6E7E982CF396F619C1842A636BFE0F3C1ADB858F",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-options-on.png"
+    },
+    {
+      "displayName": "종료 버튼 기본 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-quit-off.png",
+      "size": 1116220,
+      "sha256": "EAE5EF2537744C8DEA84C8FBA9B9683B0C82108B967D71BC427F81ED7A148950",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-quit-off.png"
+    },
+    {
+      "displayName": "종료 버튼 선택 이미지",
+      "relativePath": "config/fancymenu/assets/cobblemon-coop-quit-on.png",
+      "size": 1333326,
+      "sha256": "C69195711B6678E16DE15A90F6D2E19454A4696F76F6BD59619576D7DD423863",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/config/fancymenu/assets/cobblemon-coop-quit-on.png"
+    },
+    {
+      "displayName": "스이쿤 전설 조우 영상",
+      "relativePath": "config/cobblemon_cinematics/clips/suicune.cinematic",
+      "size": 107151985,
+      "sha256": "5C4E83290534BA1371AE7F78AF54FA747F4010918C764826F3C304CBA1FE24CA",
+      "url": "https://github.com/ymp4829566-hash/cobblemon-coop-distribution/releases/download/launcher-assets-2026-09-10-r1/suicune-20260910.cinematic"
+    },
+    {
+      "displayName": "스트리머 상점 음성팩",
+      "relativePath": "resourcepacks/streamer-shops-voices-r07-npc-profiles.zip",
+      "size": 304307,
+      "sha256": "394D6A5977A18263D366F7C94D9DC15881E26D283571519112460A774A33F730",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/files/client/resourcepacks/streamer-shops-voices-r07-npc-profiles.zip"
+    }
+  ],
+  "removeModPrefixes": [
+    "Cobblemon-fabric-",
+    "fabric-api-",
+    "worldedit-mod-",
+    "worldedit-fabric-",
+    "worldedit-",
+    "bobby-",
+    "sodium-fabric-",
+    "sodium-",
+    "konkrete_fabric_",
+    "konkrete-",
+    "melody_fabric_",
+    "melody-",
+    "fancymenu_fabric_",
+    "fancymenu-",
+    "architectury-",
+    "owo-lib-",
+    "accessories-fabric-",
+    "accessories-",
+    "mega_showdown-fabric-",
+    "mega_showdown-",
+    "ForgeConfigAPIPort-",
+    "rctapi-",
+    "rctmod-",
+    "tbcs-fabric-",
+    "tbcs-",
+    "cobblemon-adventure-menu-",
+    "cobblemon-coop-wild-",
+    "코블몬-협동전투-",
+    "cobblemon-legendary-encounters-",
+    "코블몬-전설조우-",
+    "cobblemon-legendary-altars-",
+    "cobblemon-chapter-map-",
+    "cobblemon-menu-bgm-",
+    "dudaji-cinema-player-",
+    "cobblemon-cinematics-",
+    "cobblemon-streamer-shops-",
+    "cobblemon-181-compat-",
+    "Cobblemon-neoforge-",
+    "mega_showdown-neoforge-",
+    "rctmod-neoforge-",
+    "rctmod-fabric-",
+    "rctapi-neoforge-",
+    "rctapi-fabric-",
+    "tbcs-neoforge-",
+    "accessories-neoforge-",
+    "owo-lib-neoforge-",
+    "worldedit-neoforge-",
+    "kotlinforforge-",
+    "create-",
+    "fancymenu_neoforge_",
+    "fancymenu_",
+    "konkrete_neoforge_",
+    "konkrete_",
+    "melody_neoforge_",
+    "melody_",
+    "sodium-neoforge-",
+    "streamer-shops-",
+    "entityculling-neoforge-",
+    "entityculling-fabric-",
+    "entityculling-forge-",
+    "modernfix-neoforge-",
+    "modernfix-fabric-",
+    "modernfix-forge-",
+    "sophisticatedbackpacks-",
+    "sophisticatedcore-"
+  ],
+  "removeFiles": [
+    "config/fancymenu/customization/cobblemon_coop_menu_bgm.txt",
+    "config/fancymenu/audio_element_controller_metas.json",
+    "config/fancymenu/assets/cobblemon-coop-menu-bgm.ogg"
+  ]
+}
