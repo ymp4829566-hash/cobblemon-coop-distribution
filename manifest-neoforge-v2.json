@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-10-07T06:22:49.8248500Z",
+  "generatedAtUtc": "2026-10-07T15:44:39.178Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -334,6 +334,70 @@
         "dudaji-cinema-player-",
         "cobblemon-cinematics-"
       ]
+    },
+    {
+      "id": "entityculling",
+      "displayName": "Entity Culling",
+      "version": "1.11.2",
+      "fileName": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "size": 1510018,
+      "sha256": "3983B981DA4A0583C7E58184A8631A23E56CC3B81F4CB53491CA600382879B82",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "prefixes": [
+        "entityculling-neoforge-",
+        "entityculling-fabric-",
+        "entityculling-forge-"
+      ]
+    },
+    {
+      "id": "modernfix",
+      "displayName": "ModernFix",
+      "version": "5.27.24+mc1.21.1",
+      "fileName": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "size": 604333,
+      "sha256": "E6E9446890F0FEB3AAB3F6E73AE18CB17575C370F232179FEF7BAA30E61538FE",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+      "prefixes": [
+        "modernfix-neoforge-",
+        "modernfix-fabric-",
+        "modernfix-forge-"
+      ]
+    },
+    {
+      "id": "sophisticatedbackpacks",
+      "displayName": "Sophisticated Backpacks",
+      "version": "3.26.9",
+      "fileName": "sophisticatedbackpacks-1.21.1-3.26.9.2195.jar",
+      "size": 1242171,
+      "sha256": "1A5E08329D16DDB3579B0E76E657551AC6B976378EC01D5D173B4827447D694D",
+      "url": "https://edge.forgecdn.net/files/9083/940/sophisticatedbackpacks-1.21.1-3.26.9.2195.jar",
+      "prefixes": [
+        "sophisticatedbackpacks-"
+      ]
+    },
+    {
+      "id": "sophisticatedcore",
+      "displayName": "Sophisticated Core",
+      "version": "1.5.7",
+      "fileName": "sophisticatedcore-1.21.1-1.5.7.2381.jar",
+      "size": 1814171,
+      "sha256": "55E917738A7C390F9F4CA93C63C98F811AD8285170442758B14B8732C00C7D42",
+      "url": "https://edge.forgecdn.net/files/9083/874/sophisticatedcore-1.21.1-1.5.7.2381.jar",
+      "prefixes": [
+        "sophisticatedcore-"
+      ]
+    },
+    {
+      "id": "bobby",
+      "displayName": "Bobby 원거리 청크 캐시 — NeoForge 비공식 포트",
+      "version": "5.2.4.1-neoforge.1",
+      "fileName": "bobby-neoforge-5.2.4.1-neoforge.1.jar",
+      "size": 813713,
+      "sha256": "B0AE31EB9FD6BF03751401F79FE8B75A4D774743A1BE58C8EC73AFFD46140DE5",
+      "url": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/51b9e22d115208fe868ec76009b72f3d90f78209/files/bobby-neoforge-5.2.4.1-neoforge.1.jar",
+      "prefixes": [
+        "bobby-"
+      ]
     }
   ],
   "clientFiles": [
@@ -486,7 +550,15 @@
     "melody_neoforge_",
     "melody_",
     "sodium-neoforge-",
-    "streamer-shops-"
+    "streamer-shops-",
+    "entityculling-neoforge-",
+    "entityculling-fabric-",
+    "entityculling-forge-",
+    "modernfix-neoforge-",
+    "modernfix-fabric-",
+    "modernfix-forge-",
+    "sophisticatedbackpacks-",
+    "sophisticatedcore-"
   ],
   "removeFiles": [
     "config/fancymenu/customization/cobblemon_coop_menu_bgm.txt",

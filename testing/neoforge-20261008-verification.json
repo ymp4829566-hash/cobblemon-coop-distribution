@@ -1,0 +1,126 @@
+{
+  "dateKst": "2026-10-08",
+  "scope": "Native Bobby client port and four user-added external mod files",
+  "target": {
+    "minecraft": "1.21.1",
+    "neoforge": "21.1.256",
+    "sodium": "0.8.13+mc1.21.1",
+    "java": 21
+  },
+  "bobby": {
+    "upstreamTag": "v5.2.4.1+mc1.21",
+    "upstreamCommit": "750b689633ab08f48c16fdf9ec923d9fa3763868",
+    "modId": "bobby",
+    "version": "5.2.4.1-neoforge.1",
+    "binarySize": 813713,
+    "binarySha256": "B0AE31EB9FD6BF03751401F79FE8B75A4D774743A1BE58C8EC73AFFD46140DE5",
+    "sourceSize": 163792,
+    "sourceSha256": "D6EBD0FC0FEC7FB277D3D165099A792E4CD79533483340392BA54FB79341679F",
+    "artifactCommit": "51b9e22d115208fe868ec76009b72f3d90f78209",
+    "license": "LGPL-3.0-or-later",
+    "unofficial": true,
+    "clientOnly": true,
+    "maximumRenderDistance": 64,
+    "forcesSelectedDistance": false,
+    "maximumAdvertisedServerDistance": 32,
+    "changesSimulationDistance": false
+  },
+  "checks": {
+    "cleanBuild": "PASS",
+    "releaseBoundary": "PASS",
+    "actualMinecraftNeoForgeJUnit": {
+      "executed": 15,
+      "skipped": 0,
+      "failed": 0
+    },
+    "actualMixinTransformer": {
+      "targets": 17,
+      "sodiumTrackerCombined": true,
+      "sodiumCallbackOverrides": 2,
+      "unloadOrder": "Sodium remove flags before Bobby restore",
+      "commonDisconnectCacheClose": true
+    },
+    "sourceArchiveIndependentBuild": "PASS",
+    "rebuiltBinaryHashIdentical": true,
+    "coldInstaller": {
+      "bridge": "0.6.1-neoforge.ui1",
+      "candidateCommit": "f76c284245cc2258aa6e6fb4bb92f3c69d3d526c",
+      "mods": 29,
+      "clientFiles": 13,
+      "allModIdChecks": true,
+      "freshDownloadsForNewFiles": true,
+      "repeatInstallUnchanged": true
+    },
+    "oldFabricBobbyDuplicateBackup": "PASS",
+    "isolatedSavesAndCacheMarkersPreserved": true
+  },
+  "additionalMods": [
+    {
+      "id": "entityculling",
+      "displayName": "Entity Culling",
+      "version": "1.11.2",
+      "fileName": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "size": 1510018,
+      "sha256": "3983B981DA4A0583C7E58184A8631A23E56CC3B81F4CB53491CA600382879B82",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+      "prefixes": [
+        "entityculling-neoforge-",
+        "entityculling-fabric-",
+        "entityculling-forge-"
+      ]
+    },
+    {
+      "id": "modernfix",
+      "displayName": "ModernFix",
+      "version": "5.27.24+mc1.21.1",
+      "fileName": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "size": 604333,
+      "sha256": "E6E9446890F0FEB3AAB3F6E73AE18CB17575C370F232179FEF7BAA30E61538FE",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+      "prefixes": [
+        "modernfix-neoforge-",
+        "modernfix-fabric-",
+        "modernfix-forge-"
+      ]
+    },
+    {
+      "id": "sophisticatedbackpacks",
+      "displayName": "Sophisticated Backpacks",
+      "version": "3.26.9",
+      "fileName": "sophisticatedbackpacks-1.21.1-3.26.9.2195.jar",
+      "size": 1242171,
+      "sha256": "1A5E08329D16DDB3579B0E76E657551AC6B976378EC01D5D173B4827447D694D",
+      "url": "https://edge.forgecdn.net/files/9083/940/sophisticatedbackpacks-1.21.1-3.26.9.2195.jar",
+      "prefixes": [
+        "sophisticatedbackpacks-"
+      ]
+    },
+    {
+      "id": "sophisticatedcore",
+      "displayName": "Sophisticated Core",
+      "version": "1.5.7",
+      "fileName": "sophisticatedcore-1.21.1-1.5.7.2381.jar",
+      "size": 1814171,
+      "sha256": "55E917738A7C390F9F4CA93C63C98F811AD8285170442758B14B8732C00C7D42",
+      "url": "https://edge.forgecdn.net/files/9083/874/sophisticatedcore-1.21.1-1.5.7.2381.jar",
+      "prefixes": [
+        "sophisticatedcore-"
+      ]
+    }
+  ],
+  "preservation": {
+    "original24ManifestEntriesUnchanged": true,
+    "loaderAnd13MenuFilesUnchanged": true,
+    "fabricManifestUnchanged": true,
+    "desktopBridgeUnchanged": true,
+    "readyForExistingWorld": false,
+    "serverMigrationStateSha256": "55F537EC56EE8B14927BA79F2C009F1D886A7AB49DDBD60F1C3734873F0E3EE7"
+  },
+  "limits": [
+    "No game GUI, GPU/FPS, shader, reconnect/dimension gameplay or two-player game test performed",
+    "Actual ClientLevel-to-ChunkSerializer codec lifecycle not exercised by the headless storage fixture",
+    "64 radius contains 16641 horizontal chunks versus 4225 at 32",
+    "Existing Fabric cache not automatically migrated",
+    "Server backpack/core jars staged only; no server boot or migration-lock release"
+  ]
+}
