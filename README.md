@@ -9,12 +9,15 @@
 - 고정 브리지: [`cobblemon-coop-bridge.exe`](files/cobblemon-coop-bridge.exe)
 - 고정 브리지 SHA-256: `99B609A7CF931E83164A8FEE097DFB62411A84D42E6F7373CFEA1BE2847DB71F`
 - NeoForge 고정 브리지: [`cobblemon-coop-neoforge-bridge.exe`](files/cobblemon-coop-neoforge-bridge.exe)
-- NeoForge 고정 브리지 SHA-256: `B736A644EFD09821767E21EA960C3F83E0945EEFBE1E50DBA84DE182C7B394C9`
+- NeoForge 고정 브리지 버전: `0.6.1-neoforge.ui1`
+- NeoForge 고정 브리지 SHA-256: `8DAB3C2202395137161C00EE10E11624B45F97CAED1BE96EC07759AB10F44D7D`
 - 공개 모드 의존성은 이 저장소에서 재배포하지 않고 공식 Modrinth CDN에서 받습니다.
 
 고정 브리지를 한 번 설치한 뒤에는 일반 모드 추가·교체·제거, FancyMenu 설정·이미지, Minecraft/Fabric 프로필 갱신을 `manifest-v2.json`으로 배포합니다. 새 EXE는 브리지 엔진 자체를 변경해야 할 때만 필요합니다.
 
 NeoForge 전환본은 기존 Fabric 프로필을 덮어쓰지 않고 `코블몬 협동 NeoForge`라는 별도 CurseForge 프로필을 만듭니다. Minecraft 1.21.1 / NeoForge 21.1.256을 사용하며 모드와 FancyMenu 메인 화면은 `manifest-neoforge-v2.json`으로 갱신합니다.
+
+브리지 0.6.1은 TOML 주석이 붙은 Cobblemon·FancyMenu 등의 모드 ID 검사와 해시 파일명으로 다운로드한 Kotlin for Forge 라이브러리 검사를 수정했습니다. 모드와 리소스의 새 온라인 해시가 내장본과 다르면 원격 파일을 받아 업데이트합니다. 빈 캐시의 전체24모드·13클라이언트파일 설치와 회귀63항목을 검증했습니다.
 
 현재 자체 제작 모드 배포 버전:
 
