@@ -4,12 +4,17 @@
 
 - `manifest.json`: alpha29 이하 설치기가 확인하는 기존 자체 모드 호환 목록
 - `manifest-v2.json`: 고정 브리지가 확인하는 전체 모드·프로필·클라이언트 리소스 목록
+- `manifest-neoforge-v2.json`: NeoForge 고정 브리지가 확인하는 별도 전체 목록
 - `files/`: 자체 제작 JAR, 브리지 관리 리소스와 고정 브리지 실행 파일
 - 고정 브리지: [`cobblemon-coop-bridge.exe`](files/cobblemon-coop-bridge.exe)
 - 고정 브리지 SHA-256: `99B609A7CF931E83164A8FEE097DFB62411A84D42E6F7373CFEA1BE2847DB71F`
+- NeoForge 고정 브리지: [`cobblemon-coop-neoforge-bridge.exe`](files/cobblemon-coop-neoforge-bridge.exe)
+- NeoForge 고정 브리지 SHA-256: `4D1D24F66AA3A7132F429BD6773CEC062FB5CF64BBF3D485C6528E25BC19F046`
 - 공개 모드 의존성은 이 저장소에서 재배포하지 않고 공식 Modrinth CDN에서 받습니다.
 
 고정 브리지를 한 번 설치한 뒤에는 일반 모드 추가·교체·제거, FancyMenu 설정·이미지, Minecraft/Fabric 프로필 갱신을 `manifest-v2.json`으로 배포합니다. 새 EXE는 브리지 엔진 자체를 변경해야 할 때만 필요합니다.
+
+NeoForge 전환본은 기존 Fabric 프로필을 덮어쓰지 않고 `코블몬 협동 NeoForge`라는 별도 CurseForge 프로필을 만듭니다. Minecraft 1.21.1 / NeoForge 21.1.256을 사용하며 모드와 FancyMenu 메인 화면은 `manifest-neoforge-v2.json`으로 갱신합니다.
 
 현재 자체 제작 모드 배포 버전:
 
