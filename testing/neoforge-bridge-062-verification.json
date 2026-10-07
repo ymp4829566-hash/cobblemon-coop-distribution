@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "completedAtUtc": "2026-10-07T16:47:25.0438905Z",
+  "result": "PASS",
+  "bridge": {
+    "version": "0.6.2-neoforge.ui1",
+    "fileVersion": "0.6.2.0",
+    "path": "files/cobblemon-coop-neoforge-bridge.exe",
+    "bytes": 13439488,
+    "sha256": "6F211FD7653B09AB5B63BD5A0D2DA3F245A02FBB469952A686BA11A6591657D6",
+    "decimalSizeLimitBytes": 20000000,
+    "removedEmbeddedModJars": 9,
+    "retainedEmbeddedModJars": 0,
+    "unchangedStaticResources": 14
+  },
+  "previousBridge": {
+    "fileVersion": "0.6.1.0",
+    "bytes": 58409984,
+    "sha256": "8DAB3C2202395137161C00EE10E11624B45F97CAED1BE96EC07759AB10F44D7D"
+  },
+  "unchangedActiveCatalog": {
+    "path": "manifest-neoforge-v2.json",
+    "activationCommit": "5cdc481e338738b324bd22a3763ec897e35efd07",
+    "sha256": "55AA5652CDD0A24F3360A404754E1EAD27D33BB46E85761F9524A970D52A5550",
+    "mods": 29,
+    "clientFiles": 13,
+    "embeddedFallbackMods": 24
+  },
+  "validation": {
+    "regressionAssertionsPassed": 150,
+    "integrationAssertionsPassed": 400,
+    "integrationAssertionsFailed": 0,
+    "integrationCliPhases": 13,
+    "freshCacheSeeded": false,
+    "freshModDownloadsVerified": 29,
+    "cinematicDownloadedBytes": 107151985,
+    "repeatInstallUnchanged": true,
+    "oldVersionUpdateAndExactBackup": true,
+    "download404PreservesCurrentFiles": true,
+    "sameSizeBadShaPreservesCurrentFiles": true,
+    "postReplacementMenuFailureRollback": true,
+    "finalActiveStatusOk": 29,
+    "finalActiveStatusNg": 0,
+    "releaseGuiBinaryCliVerified": true,
+    "serverAddress": "175.210.36.49"
+  },
+  "scope": {
+    "modJarsChanged": false,
+    "activeManifestsChanged": false,
+    "menuAssetsChanged": false,
+    "fabricDistributionChanged": false,
+    "realClientProfileChanged": false,
+    "serverChanged": false,
+    "minecraftStarted": false,
+    "visualOrAudibleGameValidation": false
+  }
+}
