@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "dateKst": "2026-10-11",
+  "scope": "Add official FerriteCore only to the NeoForge online catalog; no bridge rebuild or live profile/server changes",
+  "target": {
+    "minecraft": "1.21.1",
+    "neoforge": "21.1.256",
+    "mods": 30,
+    "clientFiles": 13
+  },
+  "artifact": {
+    "id": "ferritecore",
+    "version": "7.0.3",
+    "fileName": "ferritecore-7.0.3-neoforge.jar",
+    "size": 121559,
+    "sha256": "D87EA28262715EBFF45B8A82D493E6B468E7A4521BC021DF5D88302196D030A8",
+    "officialVersionUrl": "https://modrinth.com/mod/ferrite-core/version/x7kQWVju",
+    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+    "minimumNeoForge": "21.1.218",
+    "minecraftVersionRange": "[1.21.1,1.22)",
+    "extraRequiredMods": [],
+    "license": "MIT",
+    "rehosted": false
+  },
+  "verification": {
+    "officialApiSizeAndSha512": "PASS",
+    "jarModIdVersionAndDependencies": "PASS",
+    "existing29ModsAnd13ClientFilesUnchanged": "PASS",
+    "profileLoaderAndOtherRemovalRulesUnchanged": "PASS",
+    "fabricManifestsAndPublicBridgeBinariesUnchanged": "PASS",
+    "duplicateIdsPathsAndUnsafePrefixes": 0,
+    "isolatedChecks": 632,
+    "cliPhases": 12,
+    "cliFailures": 0,
+    "bridgesTested": ["0.6.2.0", "0.6.3.0"],
+    "freshProfiles30Mods13Files": "PASS",
+    "newFerriteCoreFreshOfficialDownloadPerBridge": "PASS",
+    "existing29ModsAndClientAssetCache": "Reused only SHA-verified artifacts from earlier isolated QA; not a cold download of all existing files",
+    "repeatWithoutDownloadInstallOrBackup": "PASS",
+    "official702DuplicateDetectedAndExactBackupsPreserved": "PASS",
+    "finalModStatus30Of30": "PASS",
+    "fixtureSavesBobbyCacheOptionsAndUserProfilePreserved": "PASS",
+    "realCurseForgeDatabaseTouched": false,
+    "realProfileTouched": false,
+    "serverTouched": false,
+    "gameStarted": false,
+    "worldOrGpuCompatibilityClaimed": false,
+    "bridge063Publication": "Separate pending repair release; not included"
+  }
+}

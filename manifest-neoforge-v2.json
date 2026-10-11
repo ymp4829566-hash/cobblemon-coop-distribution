@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "channel": "stable",
-  "generatedAtUtc": "2026-10-07T15:44:39.178Z",
+  "generatedAtUtc": "2026-10-11T14:22:28Z",
   "profile": {
     "minecraftVersion": "1.21.1",
     "loader": {
@@ -398,6 +398,18 @@
       "prefixes": [
         "bobby-"
       ]
+    },
+    {
+      "id": "ferritecore",
+      "displayName": "FerriteCore 메모리 최적화",
+      "version": "7.0.3",
+      "fileName": "ferritecore-7.0.3-neoforge.jar",
+      "size": 121559,
+      "sha256": "D87EA28262715EBFF45B8A82D493E6B468E7A4521BC021DF5D88302196D030A8",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "prefixes": [
+        "ferritecore-"
+      ]
     }
   ],
   "clientFiles": [
@@ -558,7 +570,8 @@
     "modernfix-fabric-",
     "modernfix-forge-",
     "sophisticatedbackpacks-",
-    "sophisticatedcore-"
+    "sophisticatedcore-",
+    "ferritecore-"
   ],
   "removeFiles": [
     "config/fancymenu/customization/cobblemon_coop_menu_bgm.txt",
