@@ -1,20 +1,15 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.8",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.8/DesktopLifePet-0.1.8.zip",
-  "Sha256": "aa617ce89ad5c33014cd86a77ab82de5a92796dcecc55a53efe1282a97681196",
-  "Bytes": 31934418,
+  "Version": "0.1.9",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.9/DesktopLifePet-0.1.9.zip",
+  "Sha256": "38bf9707439a686ded20ee2bb48521bb699c03a7ca9f7bcb46e705a8649dc2b1",
+  "Bytes": 41612716,
   "Notes": [
-    "일반 행동 속도를 1.0에서0.25로 조정했습니다. 생활·돌봄은3fps, 수면은0.5fps입니다.",
-    "걷기·자유 산책·잡기 속도는0.1.7을 유지하며, 마우스를 놓으면 즉시 멈추고0.5초 뒤 복귀합니다.",
-    "수면에 졸기·천천히 눕기·부시시 기상을, 하늘 보기에 열리고 반짝이는 작은 밤하늘을 추가했습니다.",
-    "자유 행동을 이동거리220논리px 또는60초 기준의 가중치 무작위 선택으로 바꿨습니다.",
-    "하치와레의 다른 그림체 걷기 프레임과 스킨별 걷기 크기·수면 자세 혼합을 보정했습니다.",
-    "치이카와 광질에 섞인 도끼 포즈를 곡괭이로 교체했습니다.",
-    "하치와레·치이카와 전용 토끼옷을 구분하고, 상점의 목도리·밀짚모자를 제거했습니다.",
-    "두 캐릭터와 토끼옷 모두에 밥 먹기 전신 모션을 추가하고, 쓰다듬으면 하트가 떠오릅니다.",
-    "별도 설치 실행기는 첫 설치·수리를 안내하고, 정상 설치가 있으면 설치 단계를 건너뛰고 실행합니다.",
-    "숨겨졌을 때 끝난 행동·우클릭 메뉴의 행동 시간·돌봄과 생산 정산을 함께 검수했습니다. 음향은 추후 작업합니다."
+    "대각선 이동을 추가하고 걷기·잡기 속도는 0.1.7 기준을 유지했습니다.",
+    "낚시·광질·벌목 동작은 6fps, 요리는 3fps로 재생합니다.",
+    "기본 캐릭터와 전용 토끼옷 4조합의 모든 동작을 8프레임으로 보강했습니다.",
+    "낮잠은 2fps로 잠들기부터 일어나기까지 두 번 반복합니다.",
+    "쓰다듬기 하트 위치와 걷기·눈 감기 중 몸 크기 기준을 조정했습니다."
   ],
-  "Signature": "ZuSTTxw6q3mpI2UAGL1XEAg1RbViz4kgbKzPgHUbNEE7JHmfHYUN/pu0PVxCsmuIzNFJ94ByjACuDYbkZOqTjnztDLfAgsvmE/+Qetf+GkBjxI62Kq711FT+Z9g+wy5C+R1n6FFY34ogdeotdGz/kDnGd8f2BfR6LMNgYbtJ2O9pimfKcHcYcOCh91gTJHcW1ZTeyymt7i0b7Ywip0heL8p4SV6Ovu72vjn98TgyvUaSnSSksuixa6aadT40f1yg3zX8VuWG2+cMG7juQcAn45FCZBJw4m58GXLxIy9Nl7cqOZjhzbdLkU+cWhDQIVKpi1AEBCqFNlUSe4dTuIzA5w=="
+  "Signature": "wQKEchVP+7EUPyhMu8ReB/EdoU5yput0nH+yfam0gjgtsPTleq3602cnpGJr3CTIJnOuoTi6LUg+CY33TXvQqzGBT3jCXuYtMrcUoNRKhkXqztF1c72Es4K5taNDPFhy8/jui1MdonIbCyb95noCVqbQuOveKM7UW5cjRNLdCIg0JCGY+rio7miT9nZ5mchga24+qFRqQq15VfSIgCQYE6RmsxYETgy1yOAeK0nebvEJ/+2ETeV5XMwhBphBSP9y1P0R3tHpSPkhR4KFJe2rJ4R+iTg5+3NbqeSZ3o+L/krT0dmq/qti8FOoApYdTf+F+IuXEH6vndJKK5hDEjj0bA=="
 }
