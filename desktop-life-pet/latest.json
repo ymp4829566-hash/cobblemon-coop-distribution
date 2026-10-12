@@ -1,0 +1,14 @@
+{
+  "AppId": "DesktopLifePet",
+  "Version": "0.1.1",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.1/DesktopLifePet-0.1.1.zip",
+  "Sha256": "abb84f02eeece10e0757c9e7fffab3a72eccda0371dbf529e484d2fdcfd7c359",
+  "Bytes": 4386338,
+  "Notes": [
+    "하치와레·치이카와 선택과 낚시·광질·벌목·요리 생활 활동을 추가했어요.",
+    "상태 바, 자유로운 위치·크기 조정, 바탕화면 표시와 고정 전환을 사용할 수 있어요.",
+    "펫 전용 서버 경로에서 업데이트를 확인하고 버튼으로 패치할 수 있어요.",
+    "대기·가림 상태의 렌더 중단과 프레임·GDI 자원 재사용을 적용했어요."
+  ],
+  "Signature": "wHOI5TICJCFzp7iXrcE/fcwQVM7VOiVcRgd9uSt6G3muglENMCfjSEXpv3CnzxFOG3gzBEencK8kuL+xrhBn7lyd8VjVyzItJTsR88jOwUkHVKjt2lTE44miqXCx7tzTfooRc0WJT4ALm9oICWa1DqllCwkBQciO6dTJLULOQnSyARe8lC6gQM2lOgWJfaV+Zh9OOa7ZtHX088ngvOvaX+bRGB/vOuFiwPWB03XrtT3/ew+inSGTBeMhbi18h06/Ks66JIrfkuMz2A2e5g+pWXPdqPuXQDQlstu+5T1r3xfrwF/XsW5c8h/q5oh37yi+voA+H2voBa8GI97aqK5jeA=="
+}
