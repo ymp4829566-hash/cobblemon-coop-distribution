@@ -1,14 +1,17 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.6",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.6/DesktopLifePet-0.1.6.zip",
-  "Sha256": "0cc2f6b4b769bfb02dc61ecf7afe32c32b11aba0943107112ae9974bd9a8288c",
-  "Bytes": 25315275,
+  "Version": "0.1.7",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.7/DesktopLifePet-0.1.7.zip",
+  "Sha256": "edbc31f3617852fa49d1ee8b4cb116443a2892e42938ccf3527a7ef78d02a440",
+  "Bytes": 25320159,
   "Notes": [
-    "프로그램 실행 후 새 버전이 있으면 화면 중앙에서 알려줘요.",
-    "알림창의 업데이트 버튼으로 다운로드·패치·재실행해요.",
-    "진행률과 실패 안내를 표시하고 실패하면 다시 시도할 수 있어요.",
-    "나중에를 누르면 계속 플레이하고 같은 실행에서는 중복 안내를 줄여요."
+    "캐릭터를 잡은 동안 반응하고 마우스를 놓으면 즉시 풀려요.",
+    "걷는 포즈의 방향을 맞춰 좌우로 번갈아 뒤집히지 않아요.",
+    "산책은 같은 높이로 이동하고 높이가 다른 목적지는 구간을 나눠 이동해요.",
+    "앉거나 잠든 자세에서도 모자와 목도리가 얼굴에 맞게 따라가요.",
+    "구조물을 옮기는 중 완료된 요리도 보상을 빠뜨리지 않아요.",
+    "모니터 구성이 바뀌면 친구와 메뉴를 화면 안으로 다시 맞춰요.",
+    "메뉴 입력과 업데이트 오류 처리를 보완했어요."
   ],
-  "Signature": "Il5JXR7pgGL+JoPcLmqbkt+OWiFg5mGdJ3/4FAGn8hZkoSAF0G6TtfFQNYygFe9AOVjiA5L6p1pPohAkLiI8jTm7IU6fpHNu3Ebdc9NXcU81IP1yDj7wFayQNFEkRLz0MWjWntjSqprtUzF3HPcrnoTrfiLMFmC01QDkGnntu2ZNo8nxmqOEOG7IC/mbSge9HUKrMFvSC4ZmMCgbAXyyR0mBhCnE4f4ahf9QgjsaFqi0rVsa91zikHOCIHW6dYDmGihB0EJgFoYJWOTPsjlyGKxfw3RReDKlV3ThAqocksne4DPJg0V2Al3Ek6zFySP+tEoKDW48R/76IfaEW0aY9w=="
+  "Signature": "vg2KvCBGkdBji0I6kqQhzbwYIs1LCFX4Z85oCukmv4i9mYv3cSvdT9K4gal8KbSkr9a4cxhk2i4M2RFrxZC67zpRndw+FXeY8sBUTWZ3rynla/t96cNMm2Tlha+bDlork5LxJinOvMf3/HOWBTrZyKKMtpZkzhRoenz9OA+SD6PQy4KgZyCvfDIlKKsF8yRuQVAarrMPEv6K5Awds1GyB37E70cF3MIclDEC8qboxFo0E3hb8IyAX5jS+9dcqwu4VIHnuKta8y9NuHnpUXWLyFfKy1sebvO2K3Ly9HRRfHqy6yZu5BTP4MB1EMKU8+Rp6mflF7iT9Rn7xysgoIrhlQ=="
 }
