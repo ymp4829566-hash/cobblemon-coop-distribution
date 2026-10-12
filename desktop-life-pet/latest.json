@@ -1,18 +1,14 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.5",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.5/DesktopLifePet-0.1.5.zip",
-  "Sha256": "05b9300c50f6c427764ee0a26c3679ed6ac16620fd97a3324da809499e00d2b4",
-  "Bytes": 25312789,
+  "Version": "0.1.6",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.6/DesktopLifePet-0.1.6.zip",
+  "Sha256": "0cc2f6b4b769bfb02dc61ecf7afe32c32b11aba0943107112ae9974bd9a8288c",
+  "Bytes": 25315275,
   "Notes": [
-    "우클릭 말풍선으로 쓰담기·밥주기·생활을 바로 시작해요.",
-    "다른 생활을 고르면 작업을 멈추고 새 구조물로 이동해요.",
-    "클릭하면 곤란해하고, 쓰다듬으면 행복한 전신 모션이 나와요.",
-    "낚시·광질·벌목·요리의 전신 애니메이션을 교체했어요.",
-    "쉬는 동안 산책·기타·노래·잠·앉기·점프·올려다보기를 해요.",
-    "펫과 GUI 크기를 따로 조절하고 상태 바를 위로 옮겼어요.",
-    "재료 안내와 하치와레 전용 파스텔 토끼옷을 추가했어요.",
-    "치이카와 옷 위치를 보정하고 상점 종료·서버 안내를 정리했어요."
+    "프로그램 실행 후 새 버전이 있으면 화면 중앙에서 알려줘요.",
+    "알림창의 업데이트 버튼으로 다운로드·패치·재실행해요.",
+    "진행률과 실패 안내를 표시하고 실패하면 다시 시도할 수 있어요.",
+    "나중에를 누르면 계속 플레이하고 같은 실행에서는 중복 안내를 줄여요."
   ],
-  "Signature": "sG9QbypSglTXgiwzXvj8DRy81NMdaABIjZahcxNzSXcMc59ldIEF1yaIagMYwrPrIZHNnCdvdzUbYmToMq2/GXQe5hggnLGT+TZdiHwV4pEEiyfHVLZEWNrL4OP0aRwXn4974YQ+r9bXZn9oMOHUzsZML+B3UzYR9AIBXAmmaDuTo5YDueVvGhHRUg6humr6nDT1lt4jIeQYr9bjNvc7r4/TTovv+VHnByVVfrB/aFtVMctJzF7YS+yexETTS2+pgdpi0jCLAADABxkzLsXFQixXh0rCBR8iDcwD1US7P8nd5+NdlsjHQEaVvnJiH3GszUfpjFqM88vliAJ/t/O1tg=="
+  "Signature": "Il5JXR7pgGL+JoPcLmqbkt+OWiFg5mGdJ3/4FAGn8hZkoSAF0G6TtfFQNYygFe9AOVjiA5L6p1pPohAkLiI8jTm7IU6fpHNu3Ebdc9NXcU81IP1yDj7wFayQNFEkRLz0MWjWntjSqprtUzF3HPcrnoTrfiLMFmC01QDkGnntu2ZNo8nxmqOEOG7IC/mbSge9HUKrMFvSC4ZmMCgbAXyyR0mBhCnE4f4ahf9QgjsaFqi0rVsa91zikHOCIHW6dYDmGihB0EJgFoYJWOTPsjlyGKxfw3RReDKlV3ThAqocksne4DPJg0V2Al3Ek6zFySP+tEoKDW48R/76IfaEW0aY9w=="
 }
