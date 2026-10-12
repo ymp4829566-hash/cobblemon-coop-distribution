@@ -1,14 +1,17 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.2",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.2/DesktopLifePet-0.1.2.zip",
-  "Sha256": "dd2f72b6c8d4e7d10337a1a9feae4879370242176f97b7dfbef54d97747d0e16",
-  "Bytes": 4390024,
+  "Version": "0.1.3",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.3/DesktopLifePet-0.1.3.zip",
+  "Sha256": "225b2970679d56678c1a3f322800008af724a7509918a25ebf89396326f2723f",
+  "Bytes": 4401993,
   "Notes": [
-    "캐릭터와 상태 바가 바탕화면에 보이지 않던 표시 문제를 수정했어요.",
-    "실행하면 관리 창이 열리고, 다시 실행해도 기존 앱의 관리 창을 열 수 있어요.",
-    "여러 모니터를 사용할 때는 Windows에서 지정한 주 모니터에 먼저 나타나요.",
-    "다른 모니터에 저장된 위치는 다음 실행 때 주 모니터로 돌아오며, 실행 중에는 자유롭게 옮길 수 있어요."
+    "걷기를 8프레임과 느린 이동으로 바꾸고, 생활 행동에 12프레임 모션을 추가했어요.",
+    "생활 구조물을 끌어서 옮기면 친구가 새 자리로 따라가요. 진행 중인 작업 시간은 이어져요.",
+    "생활은 중지할 때까지 같은 자리에서 반복하고, 요리 재료가 부족하면 안내하고 멈춰요.",
+    "생활·상점·옷장·설정 GUI를 포근한 파스텔 스타일로 바꿨어요.",
+    "재료를 팔거나 생활로 동전을 모아 목도리·밀짚모자를 사고 입을 수 있어요.",
+    "화면 탭과 자유 픽셀 조정을 없애고, 배율을 1배·2배·3배로 통일했어요.",
+    "오른쪽 위 압정으로 고정을 바꾸고, 완전 종료 버튼으로 앱을 끝낼 수 있어요."
   ],
-  "Signature": "GxX7+JyzMnU5t2r143wwuFJx546VybZxeXt1HbsYmBzM9jF4bGZVz5dxalu9AMLHOEiPcJowkBe5ubYmRz6SgbjuEkzi18nZeXiOPuUc+uvlcD0gqtnopI/V366t0x86HrDaf083XLsg4VI7puGfprPUClWWYSDFJ+B729XNCdY6Pq1TSdMUKCxk1Pg3mImF7alh8SdrXyy9pmOK+7/VYcJZTmktqnWWW86lfvjW2OWdM6MpxtWJVxAVOWHx7nkkdRj0Qni//xdUSyWAbyP57kJzEh7ZWfwbvI/Hm6XZSBq3um/WWl2FAJFHX4BgRCitBgRfNUYG0MCyzofzNT4Nvw=="
+  "Signature": "Gn5iCMDFB4mVJU/G/Q7LA6CsfLjna0tC9LCB9a1ZBgXKCPXcO8b9wFa1cAajEqUEb56DCX65lFvCyP/tKAe/oEq62jHq88sCkPh/edpZ+FAGYnl3C85nXyOWbA8GtEv+d6kAZpMjE78LfJ5Yf571kb4+tF1FtHFpW80HFje0AsTsWvUYb15bfkVYumd/FIGh4hHYg/Fsml2eMXEaTP4gJFsN4qEZBQrkRcoLgpkouA8Bc01pCBJ9OMuLLPODpAoyM6MIRu7d7Tbgo5w5zKL+4+67Gr/WDYwgFfrMag5MyZdNbx8eddShil2sHFVYnLWH8ev2wTqbBTdWYN5rMTzfTA=="
 }
