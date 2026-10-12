@@ -1,14 +1,14 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.1",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.1/DesktopLifePet-0.1.1.zip",
-  "Sha256": "abb84f02eeece10e0757c9e7fffab3a72eccda0371dbf529e484d2fdcfd7c359",
-  "Bytes": 4386338,
+  "Version": "0.1.2",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.2/DesktopLifePet-0.1.2.zip",
+  "Sha256": "dd2f72b6c8d4e7d10337a1a9feae4879370242176f97b7dfbef54d97747d0e16",
+  "Bytes": 4390024,
   "Notes": [
-    "하치와레·치이카와 선택과 낚시·광질·벌목·요리 생활 활동을 추가했어요.",
-    "상태 바, 자유로운 위치·크기 조정, 바탕화면 표시와 고정 전환을 사용할 수 있어요.",
-    "펫 전용 서버 경로에서 업데이트를 확인하고 버튼으로 패치할 수 있어요.",
-    "대기·가림 상태의 렌더 중단과 프레임·GDI 자원 재사용을 적용했어요."
+    "캐릭터와 상태 바가 바탕화면에 보이지 않던 표시 문제를 수정했어요.",
+    "실행하면 관리 창이 열리고, 다시 실행해도 기존 앱의 관리 창을 열 수 있어요.",
+    "여러 모니터를 사용할 때는 Windows에서 지정한 주 모니터에 먼저 나타나요.",
+    "다른 모니터에 저장된 위치는 다음 실행 때 주 모니터로 돌아오며, 실행 중에는 자유롭게 옮길 수 있어요."
   ],
-  "Signature": "wHOI5TICJCFzp7iXrcE/fcwQVM7VOiVcRgd9uSt6G3muglENMCfjSEXpv3CnzxFOG3gzBEencK8kuL+xrhBn7lyd8VjVyzItJTsR88jOwUkHVKjt2lTE44miqXCx7tzTfooRc0WJT4ALm9oICWa1DqllCwkBQciO6dTJLULOQnSyARe8lC6gQM2lOgWJfaV+Zh9OOa7ZtHX088ngvOvaX+bRGB/vOuFiwPWB03XrtT3/ew+inSGTBeMhbi18h06/Ks66JIrfkuMz2A2e5g+pWXPdqPuXQDQlstu+5T1r3xfrwF/XsW5c8h/q5oh37yi+voA+H2voBa8GI97aqK5jeA=="
+  "Signature": "GxX7+JyzMnU5t2r143wwuFJx546VybZxeXt1HbsYmBzM9jF4bGZVz5dxalu9AMLHOEiPcJowkBe5ubYmRz6SgbjuEkzi18nZeXiOPuUc+uvlcD0gqtnopI/V366t0x86HrDaf083XLsg4VI7puGfprPUClWWYSDFJ+B729XNCdY6Pq1TSdMUKCxk1Pg3mImF7alh8SdrXyy9pmOK+7/VYcJZTmktqnWWW86lfvjW2OWdM6MpxtWJVxAVOWHx7nkkdRj0Qni//xdUSyWAbyP57kJzEh7ZWfwbvI/Hm6XZSBq3um/WWl2FAJFHX4BgRCitBgRfNUYG0MCyzofzNT4Nvw=="
 }
