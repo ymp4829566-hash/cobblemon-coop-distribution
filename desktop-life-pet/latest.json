@@ -1,15 +1,14 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.9",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.9/DesktopLifePet-0.1.9.zip",
-  "Sha256": "38bf9707439a686ded20ee2bb48521bb699c03a7ca9f7bcb46e705a8649dc2b1",
-  "Bytes": 41612716,
+  "Version": "0.1.10",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.10/DesktopLifePet-0.1.10.zip",
+  "Sha256": "d13910ffeaa0cb7bdf516c2f61114b34182521afc8f420b3a56f8be0ab588cb6",
+  "Bytes": 65695373,
   "Notes": [
-    "대각선 이동을 추가하고 걷기·잡기 속도는 0.1.7 기준을 유지했습니다.",
-    "낚시·광질·벌목 동작은 6fps, 요리는 3fps로 재생합니다.",
-    "기본 캐릭터와 전용 토끼옷 4조합의 모든 동작을 8프레임으로 보강했습니다.",
-    "낮잠은 2fps로 잠들기부터 일어나기까지 두 번 반복합니다.",
-    "쓰다듬기 하트 위치와 걷기·눈 감기 중 몸 크기 기준을 조정했습니다."
+    "우사기 기본 캐릭터와 하치와레·치이카와·우사기 전용 애기 스킨을 추가했어요.",
+    "새 모델은 걷기·돌봄·생활·일상 행동마다 최소 10개의 서로 다른 포즈를 재생해요.",
+    "애기에게 맞는 작은 도구, 젖병·숟가락, 꾸벅임과 부시시 깨는 동작을 넣었어요.",
+    "스킨을 바꿔도 행동의 진행 단계를 유지하고, 기존 걷기·잡기 속도와 저장 기록을 보존해요."
   ],
-  "Signature": "wQKEchVP+7EUPyhMu8ReB/EdoU5yput0nH+yfam0gjgtsPTleq3602cnpGJr3CTIJnOuoTi6LUg+CY33TXvQqzGBT3jCXuYtMrcUoNRKhkXqztF1c72Es4K5taNDPFhy8/jui1MdonIbCyb95noCVqbQuOveKM7UW5cjRNLdCIg0JCGY+rio7miT9nZ5mchga24+qFRqQq15VfSIgCQYE6RmsxYETgy1yOAeK0nebvEJ/+2ETeV5XMwhBphBSP9y1P0R3tHpSPkhR4KFJe2rJ4R+iTg5+3NbqeSZ3o+L/krT0dmq/qti8FOoApYdTf+F+IuXEH6vndJKK5hDEjj0bA=="
+  "Signature": "rEKQ2HKunAZjh0CbLZp7zl9x2YP+f4pBXWE6hASkVlNyT4TjQfUCpVCvKj5WOWDyuDso4Mu3XIila57aoO9qEi00lh6fd/jAi+pKNzvuYzQXx8xb5qoubRZZDMG/cnE6XkwXkc4LERpvZzoW6jxPTaPXdF8515Ex2t/qRgLUhCGqLhVm4Jqh+hNjlQCalRZAz/I0xEodFcQSQ1IGg3dAYFdsQ/vjs/j4uQDkfd5gM6ZdDK7b6QvaUhC6T1FY+eXG9ksepwxjcqVxlTE1KKOZVJaHvehCGFOH/MMWXujcKLDXwlcsXyLdZcNC8+idOqxjze9skSAqiP/3BBsAL28gXQ=="
 }
