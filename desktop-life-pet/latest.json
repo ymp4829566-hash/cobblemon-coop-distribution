@@ -1,15 +1,18 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.4",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.4/DesktopLifePet-0.1.4.zip",
-  "Sha256": "e69ed628f71650e3a945ca7462361578d1b1775432d838bd0ee8a3e63e661a79",
-  "Bytes": 4410024,
+  "Version": "0.1.5",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.5/DesktopLifePet-0.1.5.zip",
+  "Sha256": "05b9300c50f6c427764ee0a26c3679ed6ac16620fd97a3324da809499e00d2b4",
+  "Bytes": 25312789,
   "Notes": [
-    "메뉴를 테두리 없는 게임 화면처럼 바꿨어요.",
-    "4K 화면은 기본 크기를 1.5배로, QHD와 FHD 화면은 1배로 자동 맞춰요.",
-    "메뉴·상점·캐릭터·구조물·상태 바를 다른 모니터로 옮기면 그 화면에 맞춰 크기가 바뀌어요.",
-    "기존 메뉴를 유지하면서 상점을 별도 창으로 열어요. 아이템 그림과 친구의 착용 미리보기를 볼 수 있어요.",
-    "버튼과 글자를 한 캔버스에 함께 그려, 배율에 따라 잘리던 메뉴 표시를 개선했어요."
+    "우클릭 말풍선으로 쓰담기·밥주기·생활을 바로 시작해요.",
+    "다른 생활을 고르면 작업을 멈추고 새 구조물로 이동해요.",
+    "클릭하면 곤란해하고, 쓰다듬으면 행복한 전신 모션이 나와요.",
+    "낚시·광질·벌목·요리의 전신 애니메이션을 교체했어요.",
+    "쉬는 동안 산책·기타·노래·잠·앉기·점프·올려다보기를 해요.",
+    "펫과 GUI 크기를 따로 조절하고 상태 바를 위로 옮겼어요.",
+    "재료 안내와 하치와레 전용 파스텔 토끼옷을 추가했어요.",
+    "치이카와 옷 위치를 보정하고 상점 종료·서버 안내를 정리했어요."
   ],
-  "Signature": "wc8oyiUoE4B2Cpwi48cRBDYDanCNRr2ES6Zf9ch5JUSZiFCIYMKPtAGjq1TLHtUuDYy7s1acUZFw47gVgCWXYtqtah8mR0jjUtr4XMdzhtjMqlbh+Hss4rJOVfLojGbCK/zCdk2iooZqO1npNmQVHlaKGNRF34k5xGZXSNBPBK79MYDG4r+LDspIBUmEHtBHhurtT8LzubEIXGWxSDf/cyvmPsk2H6OLjOleXkfuF2Q7Ouy9tqWxbn4oAubPvNySAwrOEdgDmtHZvOQ/iVnSCvmHBcb2Ta7HJQ+3hS4pWK3YEeQTn5E2V8Q7B1otr+95le3TBIn3ytIkoGmetFU9Mg=="
+  "Signature": "sG9QbypSglTXgiwzXvj8DRy81NMdaABIjZahcxNzSXcMc59ldIEF1yaIagMYwrPrIZHNnCdvdzUbYmToMq2/GXQe5hggnLGT+TZdiHwV4pEEiyfHVLZEWNrL4OP0aRwXn4974YQ+r9bXZn9oMOHUzsZML+B3UzYR9AIBXAmmaDuTo5YDueVvGhHRUg6humr6nDT1lt4jIeQYr9bjNvc7r4/TTovv+VHnByVVfrB/aFtVMctJzF7YS+yexETTS2+pgdpi0jCLAADABxkzLsXFQixXh0rCBR8iDcwD1US7P8nd5+NdlsjHQEaVvnJiH3GszUfpjFqM88vliAJ/t/O1tg=="
 }
