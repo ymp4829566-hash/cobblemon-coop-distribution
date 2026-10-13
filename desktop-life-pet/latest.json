@@ -1,14 +1,14 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.16",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.16/DesktopLifePet-0.1.16.zip",
-  "Sha256": "a4a954bcdc8ed04eac30e6815f9b84f2e06273dd8e86fe17a47232ed158878f7",
-  "Bytes": 66957928,
+  "Version": "0.1.17",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.17/DesktopLifePet-0.1.17.zip",
+  "Sha256": "792d8203aab88d6cefd8cef2b64a2e9803c8c66e764c737990500d9e5cab18ed",
+  "Bytes": 66957998,
   "Notes": [
-    "애기 스킨 3종의 전체 동작을 원본 FM 비율로 다시 제작했습니다.",
-    "치이카와 애기옷은 연노랑, 하치와레는 하늘색, 우사기는 분홍색으로 맞췄습니다.",
-    "우사기의 토벌 표정을 둥근 눈과 밝은 표정으로 수정했습니다.",
-    "낮잠은 16프레임을 두 번 반복하고, 친구 공놀이의 공 중복 표시를 수정했습니다."
+    "애기 세 친구의 전체 동작을 원본 FM 비율로 적용했습니다.",
+    "하치와레 하늘색·치이카와 연노랑·우사기 분홍색 옷과 둥근 체형을 유지했습니다.",
+    "확대 시 하치와레 잡기 프레임에 보이던 이웃 그림의 얇은 선을 보정했습니다.",
+    "우사기 토벌은 둥근 눈과 밝은 표정, 낮잠은16프레임을 두 번 반복합니다."
   ],
-  "Signature": "AxwBQKU6efutmBkdonHfv0FXlp7guGURX9EzXJHwE0Oc2PmOlmGWWrQOzzBCGbh1A5EDTJPmggpoUhE/+tOyhZ8jL8GNDFB0+AiGqfEdcFX5pgKKnlof/tWQs/yQ8syYMuFIyFNIpxKJwqFdCUR8+hIzj5N8lx8McPFM2KLAXp31/GnTbQFA7jwfbrOy7lOzd9wBWsrPtNrqCAS45P22zjVmqtKLKiMXbdYkERmD/+dKmq+eORcu5gwOk70T3ddJ+o9My1l5ESI01EoKLtDyZC30kj8PtDnu0gix0I/45i39JhCOEAAfr9u0jEhJn6rZ46ife7eC/tmoeL+Om9pUGw=="
+  "Signature": "FWiE+XWhnNNOlG5NxHsYCrQEwlZsaZpETx8RpCJ4R2F1t1GmSAWJDODzbuWJxOIqbZc6DzAEnpjbA0MA4iX4elFjsVLM6iYJNM3jOePrQiY1Q+PX71m1jCJflIFwAbyFirAWXEti5vTk0u3xrTHvWEcjzHwPgtbpy/IaJHCKCBfM/4YoXk3qOVk0p8EJYMEkfb4Z75h2BN3IbAlRFMT9RYUwRrfwEVIrlgsTuHK2+Lf6AKme3nxRbaMl2WO/OSeObQTFz6p+yU9hJ0U6dAfOsGiwShY4AIEW5R8MXc8GJpDfquVG3PijVmJ1mqfPGsujphM8y1gmmU3RCkPqGxhhVA=="
 }
