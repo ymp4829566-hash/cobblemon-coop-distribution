@@ -1,15 +1,14 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.15",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.15/DesktopLifePet-0.1.15.zip",
-  "Sha256": "5e675d20ae7a08e86a7550fa1d5bf49482e165014ebc3c21b9651a7dbd9fc414",
-  "Bytes": 66951727,
+  "Version": "0.1.16",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.16/DesktopLifePet-0.1.16.zip",
+  "Sha256": "a4a954bcdc8ed04eac30e6815f9b84f2e06273dd8e86fe17a47232ed158878f7",
+  "Bytes": 66957928,
   "Notes": [
-    "구 설치에 남은 정식 구버전 자료를 서명·캐시 해시로 확인하고 전체 백업 후 수리합니다.",
-    "우사기 기본형·애기 요리 10포즈를 새로 그렸으며 8가지 외형과 몬스터 5종에 각각 토벌 20포즈를 추가했습니다.",
-    "상태 바 생활 버튼은 메뉴로 바뀌고 생활은 별도 창으로 열립니다. 메인에는 재료·능력치를 표시하며 재료 판매를 제거했습니다.",
-    "체력·공격·방어를 코인으로 강화하고 음식 하나로 10분 버프를 받습니다. 토벌은 20초이며 종료 후 같은 진행을 이어갑니다.",
-    "자유 행동 이동 기준을 220에서 660으로 늘리고 60초 기준과 기존 걷기·잡기 속도는 유지했습니다."
+    "애기 스킨 3종의 전체 동작을 원본 FM 비율로 다시 제작했습니다.",
+    "치이카와 애기옷은 연노랑, 하치와레는 하늘색, 우사기는 분홍색으로 맞췄습니다.",
+    "우사기의 토벌 표정을 둥근 눈과 밝은 표정으로 수정했습니다.",
+    "낮잠은 16프레임을 두 번 반복하고, 친구 공놀이의 공 중복 표시를 수정했습니다."
   ],
-  "Signature": "C59c50I04NM1rhrWy5ysEmgUHokEu1BKXBd9DHqhh7IqQsz0gSypEmlhlOwbVoTrm+Jv6qOrWxXlmfuWWruQDwvcUkOe+VbIWXnR3rWVueO4t/OQngvEL5wuaRz32XPyQA+IZxusyYKJwFPd6rpX3v8u6TMSNQBYMnxtCavETsYzEnramOywvSzytTfQvcViEqeW/Na/8dMpFR7NcMLaDSIvdN1yCGqXiMfSnCk6qy8Ick0I2SoK1vqE/vRHcLb+UVh2DLgWKLNr7VDbMR5WS2bnIFBtyhTCs77Uwvl3q/V7Ot5y6TNyuCtkmGHdx5+Pn2VgD38QEtfbX7Yuuf9Pfw=="
+  "Signature": "AxwBQKU6efutmBkdonHfv0FXlp7guGURX9EzXJHwE0Oc2PmOlmGWWrQOzzBCGbh1A5EDTJPmggpoUhE/+tOyhZ8jL8GNDFB0+AiGqfEdcFX5pgKKnlof/tWQs/yQ8syYMuFIyFNIpxKJwqFdCUR8+hIzj5N8lx8McPFM2KLAXp31/GnTbQFA7jwfbrOy7lOzd9wBWsrPtNrqCAS45P22zjVmqtKLKiMXbdYkERmD/+dKmq+eORcu5gwOk70T3ddJ+o9My1l5ESI01EoKLtDyZC30kj8PtDnu0gix0I/45i39JhCOEAAfr9u0jEhJn6rZ46ife7eC/tmoeL+Om9pUGw=="
 }
