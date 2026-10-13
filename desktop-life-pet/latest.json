@@ -1,14 +1,14 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.11",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.11/DesktopLifePet-0.1.11.zip",
-  "Sha256": "741aea42d241f35e37ad244fad7470f6efa8173212e6d416894a0f3969e8285a",
-  "Bytes": 65951068,
+  "Version": "0.1.12",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.12/DesktopLifePet-0.1.12.zip",
+  "Sha256": "17870ab5736ecd6fd1de45218696350c38d9e08051192b8aa63f1382271e013f",
+  "Bytes": 66393529,
   "Notes": [
-    "실행 파일·Alt+Tab·트레이·설치 실행기에 작은 하루 전용 아이콘을 넣었어요.",
-    "활동 모션 계수를 0.15 올렸어요. 생활 채집 0.5→0.65, 요리·일상 0.25→0.40, 낮잠 2→3.8fps예요.",
-    "세 애기 스킨의 모든 동작을 이미지와 코드로 재검수하고 치이카와 광질·벌목의 작업 방향을 맞췄어요.",
-    "걷기·잡기 속도, 놓기 0.5초, 생활 생산 시간과 기존 저장은 유지해요."
+    "처음에는 세 친구 중 한 명을 선택합니다. 생활10회 완료 후 한 명, 해금 후 새로20회 완료 후 마지막 친구를 선택해 엽니다.",
+    "농사와 모든 캐릭터·스킨의10포즈 농사 동작을 추가하고, 낚시터·광산·벌목·주방·텃밭을 리모델링했습니다. 등불·벤치는 제거했습니다.",
+    "하치와레·치이카와의 걷기 기준점을 보정하고 우사기 악기 연주를 새로 그렸습니다. 잡기를 놓으면 즉시 원래 행동으로 돌아옵니다.",
+    "전체8가지 모습의 낮잠을16개 전신 포즈로 한 번 재생합니다. 분홍 토끼옷 수면 이미지와 애기 하치와레 수면 크기도 보정했습니다."
   ],
-  "Signature": "Rvq66d8RJZ+fqCH5N7ZNmah2JbZdPtLSbLFnkBd4m/XbU1MdrPTWmKHr3CsaQwHN0hcx+wZI1McEmZolMMEbOHfVW+SVNe0eijTyV1uzL09nzLPt50l4FCDQnl5MA1MTNK1Qi+TNN4wPLlMQ22WKdeNdeLl3JtOvn3kl7BzWkCl0NcjaPM+hJY8No5XhaupZrn4CnuqsO0mJ1K89fgvoF3cf7hvjVCXUZzAH9iwAT2FhQU5NJF0f0Q+CL6jve6f952n88LhKrapFhhRIz9wVbW9rGj6HZ3K1YtGG1NvRD5wOj5SMm2aixB0EQXGPc3c0sx/tB1g7qIVVwzQu8dJCxA=="
+  "Signature": "ww9MkO/3o5cluCOZTePmOZ64BV3LX8IxsHZJgTqHvUsqWD4ewdAvofQjVo+4TlbLUyYzweNnIYxMCvlNc0wu4BV1etaP0B1TsymIVje0qlLoU8ncMH30Nk8IsjM6HrnxQj5oprLzpVp6m9a/exOs0MQHSse/zXLOEHsb7BW80gSRnZM/gAWhvAr3IMuFpFge/mLloLouQ8FdWJ0fNnMLgmcLxoe59Lo0RFslKFEZeZIlGpatzQrpBIFg1uLN5unVUTdjS9VN4lUZ7LOEVzlDmigc16csuHXsfIGApdUvq86XaGwbvPjjp8qBmKASD6B+S7R3MoEqv56DOeLJeipB7w=="
 }
