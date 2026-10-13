@@ -1,13 +1,15 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.13",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.13/DesktopLifePet-0.1.13.zip",
-  "Sha256": "acab953d944c280d4d854005be4c1c6f4f377766d7c190c23328e30b19c812c2",
-  "Bytes": 66891843,
+  "Version": "0.1.14",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.14/DesktopLifePet-0.1.14.zip",
+  "Sha256": "6ed5970b619a4545541522fcd471bf345ef4e4ff03bbb981497ad4cc26333091",
+  "Bytes": 66927043,
   "Notes": [
-    "애기 우사기의 넓고 통통한 크림색 얼굴, 짧게 붙은 귀, 작은 손발과 둥근 분홍 옷을 첨부한 참조 모습에 맞춰 새로 그렸어요.",
-    "대기·걷기·생활·돌봄 등17개 동작에166개 새 전신 포즈를 적용했어요. 각10프레임 이상, 낮잠16프레임이며 부시시 깨는 흐름을 이어요.",
-    "낚시·광질의 이웃 도구 효과선 혼입과 수면의 머리 기준점을 보정했어요. 기존 행동 속도와 생활 목표 해금 진행도는 유지해요."
+    "상태 바의 네 모서리와 테두리를 끌어 크기를 조절할 수 있으며, 펫·생활 구조물 배율과 독립적으로 저장합니다.",
+    "다른 친구를 랜덤 초대해 6가지 놀이를 즐길 수 있습니다. 8가지 모습별 놀이20프레임을 준비했고 방문 중 생활은 잠깁니다.",
+    "물고기24종·작물24종과 음식 그림이 있는 별도 요리책을 추가했습니다. 한식·일식·중식·양식80메뉴 중32종 조리 가능,48종은 추후 업데이트입니다.",
+    "기존 재료·캐릭터 해금·옷·생활 목표를 보존하며, 하치와레 선택 색과 친구 모션·크기·마우스 놓기 반응을 검수했습니다.",
+    "첫 실행 때 서명된 친구·음식 그림 자료를 추가로 준비하며, 정상 설치에서는 내려받기를 생략합니다."
   ],
-  "Signature": "ndYymKdNhH28h0A473DNwuEMv/Srps86I6rLd8YVbfY8bYRaTgdWNVFybcPGMbrEKTeNF7nTC8gtcpYWhqXkzBh7pZLs+tge/EnQASpDj5OKEMKVW5zLldtcN8l52/5Wrr9EgRIt7RQRvLUGwxUp8Grg8euITQN6gY3Bq0lmr04SNl3FqLq1j8LraGXFHhuAMYsqfYFDcxK8LToCga/lpdfIUyC14sCu3j8JsjDErghp6ClL3wbWr9GLfeFW/L1A1uol5lfRiT14YyhtRs2kB/HjANciV9bTBtAq+DJdRKbbMZxJb49iKywyZbKKKBaEaa0c+OGJpZmC07uWN9s7hw=="
+  "Signature": "U18+KYVgGnz72bJbjnZPcnJYWm6FyZYchbI2YhwK5ac95v1uvelI4A63KR0FAUJxnfcZJzryODUPQnrx/41hpPI0LWLRCrhUkH9IH/9fKzEpEpRtxwNLRov18caG577uZCjkdQcDydv5wgsvLdU6nqzPRsvhhsVqM2EDHWVYmf9C6YA4819XZeF676XV2zfXwcKqZHpQa0Uo/dnbgqKN2bIxo8t1pI2aQSuZ+U8znbZXE2ilN6G3lZpxtLPmC7CiV4Gb08PZ0CpGnkQPQExM8zWk4+sBZXfZwo3OxL3smPRjf2pn/Z+5hPeOZYj3SRKPZ9apt/zQFAZWKkbGk7HEyg=="
 }
