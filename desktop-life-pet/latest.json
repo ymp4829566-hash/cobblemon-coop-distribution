@@ -1,15 +1,15 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.14",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.14/DesktopLifePet-0.1.14.zip",
-  "Sha256": "6ed5970b619a4545541522fcd471bf345ef4e4ff03bbb981497ad4cc26333091",
-  "Bytes": 66927043,
+  "Version": "0.1.15",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.15/DesktopLifePet-0.1.15.zip",
+  "Sha256": "5e675d20ae7a08e86a7550fa1d5bf49482e165014ebc3c21b9651a7dbd9fc414",
+  "Bytes": 66951727,
   "Notes": [
-    "상태 바의 네 모서리와 테두리를 끌어 크기를 조절할 수 있으며, 펫·생활 구조물 배율과 독립적으로 저장합니다.",
-    "다른 친구를 랜덤 초대해 6가지 놀이를 즐길 수 있습니다. 8가지 모습별 놀이20프레임을 준비했고 방문 중 생활은 잠깁니다.",
-    "물고기24종·작물24종과 음식 그림이 있는 별도 요리책을 추가했습니다. 한식·일식·중식·양식80메뉴 중32종 조리 가능,48종은 추후 업데이트입니다.",
-    "기존 재료·캐릭터 해금·옷·생활 목표를 보존하며, 하치와레 선택 색과 친구 모션·크기·마우스 놓기 반응을 검수했습니다.",
-    "첫 실행 때 서명된 친구·음식 그림 자료를 추가로 준비하며, 정상 설치에서는 내려받기를 생략합니다."
+    "구 설치에 남은 정식 구버전 자료를 서명·캐시 해시로 확인하고 전체 백업 후 수리합니다.",
+    "우사기 기본형·애기 요리 10포즈를 새로 그렸으며 8가지 외형과 몬스터 5종에 각각 토벌 20포즈를 추가했습니다.",
+    "상태 바 생활 버튼은 메뉴로 바뀌고 생활은 별도 창으로 열립니다. 메인에는 재료·능력치를 표시하며 재료 판매를 제거했습니다.",
+    "체력·공격·방어를 코인으로 강화하고 음식 하나로 10분 버프를 받습니다. 토벌은 20초이며 종료 후 같은 진행을 이어갑니다.",
+    "자유 행동 이동 기준을 220에서 660으로 늘리고 60초 기준과 기존 걷기·잡기 속도는 유지했습니다."
   ],
-  "Signature": "U18+KYVgGnz72bJbjnZPcnJYWm6FyZYchbI2YhwK5ac95v1uvelI4A63KR0FAUJxnfcZJzryODUPQnrx/41hpPI0LWLRCrhUkH9IH/9fKzEpEpRtxwNLRov18caG577uZCjkdQcDydv5wgsvLdU6nqzPRsvhhsVqM2EDHWVYmf9C6YA4819XZeF676XV2zfXwcKqZHpQa0Uo/dnbgqKN2bIxo8t1pI2aQSuZ+U8znbZXE2ilN6G3lZpxtLPmC7CiV4Gb08PZ0CpGnkQPQExM8zWk4+sBZXfZwo3OxL3smPRjf2pn/Z+5hPeOZYj3SRKPZ9apt/zQFAZWKkbGk7HEyg=="
+  "Signature": "C59c50I04NM1rhrWy5ysEmgUHokEu1BKXBd9DHqhh7IqQsz0gSypEmlhlOwbVoTrm+Jv6qOrWxXlmfuWWruQDwvcUkOe+VbIWXnR3rWVueO4t/OQngvEL5wuaRz32XPyQA+IZxusyYKJwFPd6rpX3v8u6TMSNQBYMnxtCavETsYzEnramOywvSzytTfQvcViEqeW/Na/8dMpFR7NcMLaDSIvdN1yCGqXiMfSnCk6qy8Ick0I2SoK1vqE/vRHcLb+UVh2DLgWKLNr7VDbMR5WS2bnIFBtyhTCs77Uwvl3q/V7Ot5y6TNyuCtkmGHdx5+Pn2VgD38QEtfbX7Yuuf9Pfw=="
 }
