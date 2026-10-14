@@ -1,14 +1,18 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.17",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.17/DesktopLifePet-0.1.17.zip",
-  "Sha256": "792d8203aab88d6cefd8cef2b64a2e9803c8c66e764c737990500d9e5cab18ed",
-  "Bytes": 66957998,
+  "Version": "0.1.18",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.18/DesktopLifePet-0.1.18.zip",
+  "Sha256": "96d402d0cbfde1b248e486d3d76293bf6036aeb01612406a77d1a072f3021e5c",
+  "Bytes": 66972472,
   "Notes": [
-    "애기 세 친구의 전체 동작을 원본 FM 비율로 적용했습니다.",
-    "하치와레 하늘색·치이카와 연노랑·우사기 분홍색 옷과 둥근 체형을 유지했습니다.",
-    "확대 시 하치와레 잡기 프레임에 보이던 이웃 그림의 얇은 선을 보정했습니다.",
-    "우사기 토벌은 둥근 눈과 밝은 표정, 낮잠은16프레임을 두 번 반복합니다."
+    "메뉴 옆에 생활·토벌·상점·옷장을 열고, 다른 메뉴를 선택하거나 ESC를 누르면 현재 창을 닫아요.",
+    "상태 메뉴와 탭 색상을 꾸미고, 재료 카드 오른쪽에 상세 보관함을 추가했어요.",
+    "낚시·농사·광질·벌목·요리 자격증 시험을 추가했어요. 5급부터 1급까지 생활 시간이 줄고 희귀 재료와 낮은 확률의 코인 보너스가 늘어요. 제초는 추후 업데이트예요.",
+    "요리 이미지를 눌러 자세히 보고, 음식에 실제로 붙는 버프만 칸으로 나눈 체력바와 정확한 숫자로 표시해요.",
+    "토벌 체력을 캐릭터와 괴물 머리 위 작은 체력바로 보여줘요. 우사기의 귀를 가리지 않아요.",
+    "괴물을 한 번 이기면 반복 토벌할 수 있어요. 일반 보상은4·6·9·13·18코인, 반복 보상은1·1·2·3·4코인이에요.",
+    "생활 시간과 강화 비용·괴물 난이도를 조정했어요. 기존 친구·옷·능력치·재료·진행 중인 생활과 토벌은 유지해요.",
+    "우사기 기본·애기 노래와 기본 벌목을 각각 새10프레임으로 교체했어요. 걷기·잡기 속도와 애기 FM 체형은 유지해요."
   ],
-  "Signature": "FWiE+XWhnNNOlG5NxHsYCrQEwlZsaZpETx8RpCJ4R2F1t1GmSAWJDODzbuWJxOIqbZc6DzAEnpjbA0MA4iX4elFjsVLM6iYJNM3jOePrQiY1Q+PX71m1jCJflIFwAbyFirAWXEti5vTk0u3xrTHvWEcjzHwPgtbpy/IaJHCKCBfM/4YoXk3qOVk0p8EJYMEkfb4Z75h2BN3IbAlRFMT9RYUwRrfwEVIrlgsTuHK2+Lf6AKme3nxRbaMl2WO/OSeObQTFz6p+yU9hJ0U6dAfOsGiwShY4AIEW5R8MXc8GJpDfquVG3PijVmJ1mqfPGsujphM8y1gmmU3RCkPqGxhhVA=="
+  "Signature": "PBbqOyfG3sWQFwPNTj6MD9xvuvPFe7fe32YsusVF8K31MtUECwO9xP2FOKrbiWRLOD87lcummOKLr7MCa02EdMzOXjITN5+IsZ3e6zYaFryT6HT/3cmaLuNJcnPV8y++hENc8o54ciRJbDhoFkDuc5vlYBPFrddYcEdaLYh17DhcEZKL3UnuT7WX+64HnBbBUkib09K4X3VIO4iBD92K86QsLUDm46Pa7uS47dWW9tRRO0K9XS8rfLLRZpPuR8ZaOWwe9fMQn5Btw+XA3bnwLS0SAWEzMlis8RM8BFrRLQ3yTDLlW+qzTT219cDcn6jMqdRSlwIvt1LX/GeMfseJRA=="
 }
