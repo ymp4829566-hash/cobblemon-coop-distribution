@@ -1,18 +1,15 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.18",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.18/DesktopLifePet-0.1.18.zip",
-  "Sha256": "96d402d0cbfde1b248e486d3d76293bf6036aeb01612406a77d1a072f3021e5c",
-  "Bytes": 66972472,
+  "Version": "0.1.19",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.19/DesktopLifePet-0.1.19.zip",
+  "Sha256": "71223a7f168e65c23ff89a3a45bacc3daade7f43cd6b1a1a53f7879c85cf82e1",
+  "Bytes": 66980458,
   "Notes": [
-    "메뉴 옆에 생활·토벌·상점·옷장을 열고, 다른 메뉴를 선택하거나 ESC를 누르면 현재 창을 닫아요.",
-    "상태 메뉴와 탭 색상을 꾸미고, 재료 카드 오른쪽에 상세 보관함을 추가했어요.",
-    "낚시·농사·광질·벌목·요리 자격증 시험을 추가했어요. 5급부터 1급까지 생활 시간이 줄고 희귀 재료와 낮은 확률의 코인 보너스가 늘어요. 제초는 추후 업데이트예요.",
-    "요리 이미지를 눌러 자세히 보고, 음식에 실제로 붙는 버프만 칸으로 나눈 체력바와 정확한 숫자로 표시해요.",
-    "토벌 체력을 캐릭터와 괴물 머리 위 작은 체력바로 보여줘요. 우사기의 귀를 가리지 않아요.",
-    "괴물을 한 번 이기면 반복 토벌할 수 있어요. 일반 보상은4·6·9·13·18코인, 반복 보상은1·1·2·3·4코인이에요.",
-    "생활 시간과 강화 비용·괴물 난이도를 조정했어요. 기존 친구·옷·능력치·재료·진행 중인 생활과 토벌은 유지해요.",
-    "우사기 기본·애기 노래와 기본 벌목을 각각 새10프레임으로 교체했어요. 걷기·잡기 속도와 애기 FM 체형은 유지해요."
+    "캐릭터별 무기를 +20까지 강화하고, 실패하면 장인 기운을 모아요. 100%가 되면 다음 강화가 반드시 성공해요.",
+    "반짝 강화석은 토벌 승리에서 확률로 얻고, 광질에서는 0.2%의 희귀 확률로 얻어요. 토벌 중과 반복 토벌 휴식 중에는 강화할 수 없어요.",
+    "강화석 보유량과 무기 공격력·성공률·장인 기운·비용을 별도 강화 창과 상태·보관함에서 확인해요.",
+    "메뉴 옆 보조창·ESC 닫기·생활 자격증·상세 보관함·요리 버프 표시와 우사기 노래·벌목 개선을 포함해요.",
+    "기존 캐릭터·애기 스킨·생활·자격증·재료·능력치·진행 중인 토벌을 보존해요."
   ],
-  "Signature": "PBbqOyfG3sWQFwPNTj6MD9xvuvPFe7fe32YsusVF8K31MtUECwO9xP2FOKrbiWRLOD87lcummOKLr7MCa02EdMzOXjITN5+IsZ3e6zYaFryT6HT/3cmaLuNJcnPV8y++hENc8o54ciRJbDhoFkDuc5vlYBPFrddYcEdaLYh17DhcEZKL3UnuT7WX+64HnBbBUkib09K4X3VIO4iBD92K86QsLUDm46Pa7uS47dWW9tRRO0K9XS8rfLLRZpPuR8ZaOWwe9fMQn5Btw+XA3bnwLS0SAWEzMlis8RM8BFrRLQ3yTDLlW+qzTT219cDcn6jMqdRSlwIvt1LX/GeMfseJRA=="
+  "Signature": "xGxXZwiYeN/SnPPOAUsNJe1QtoedtBYEY4l+Fq20h/QeqpJXyrkSoONadUvSriJx/NI3zYeZPyeuiggbp86ol58ZZ/tcRpnu7FhDiKCAq1rFz7AMVWBprISsftaHcDC3YI1G2kKC7h0UBcNdgEoxQpnUm5SHvDa1sg/+gZ08L8FBXpKUxcXPRHtN0S8xV1T3c5eZu3bU2ysjhWm1781BDcE/KZ6q0bvsR1WyUiwi0claN/t1WgVQB0koMalrfkX2S7tgdO8GzTUSMbAwh8fZKeXFcxgeQC9pmIw0MsXj1gajMoLJhIKq59XQ+fNSff8qTN0UtLznqU0OqdCFICND/w=="
 }
