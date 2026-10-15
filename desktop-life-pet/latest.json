@@ -1,19 +1,17 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.20",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.20/DesktopLifePet-0.1.20.zip",
-  "Sha256": "bc74f2620cd9ff5478fd99ef244ffb464793b1a3d3719cd1f46fae176b4b3fb0",
-  "Bytes": 66997588,
+  "Version": "0.1.21",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.21/DesktopLifePet-0.1.21.zip",
+  "Sha256": "ba4ad2f3e19ec512c89664eeb1019c720a1f709a8837f98be10ba9d6ef76202b",
+  "Bytes": 67001632,
   "Notes": [
-    "펫·상태바·시설·메뉴의 마지막 위치와 모니터를 기억해요.",
-    "생활 시설이 친구 뒤에 표시되고 공놀이와 밤하늘 연출을 다듬었어요.",
-    "정보에서 접속 현황, 이미지 버그 제보와 쿠폰 등록을 사용할 수 있어요.",
-    "LITTLEBABY 쿠폰으로 애기 스킨 1개를 고를 수 있어요.",
-    "보관함 기본 재료에 그림을 추가했어요.",
-    "새 광질은 돌 3개와 반짝 강화석 1개를 확정으로 모아요.",
-    "자격증의 시간 단축과 적당한 추가 획득을 적용하고 고급 재료를 늘렸어요.",
-    "몬스터별 첫 토벌 성공에 동전과 확정 강화석을 지급해요.",
-    "이전 저장, 옷, 강화, 자격증과 진행 중 생활·토벌 기록을 유지해요."
+    "배부름 0은 생활 시간 +10%, 기운 0은 +15%, 둘 다면 +25%가 다음 작업부터 적용돼요.",
+    "능력치 합계 +5 이상 음식에 쓰는 상위 재료를 분류하고 획득 가중치를 조정했어요.",
+    "다섯 잡몹의 반복 토벌 강화석을 성공당 0.001% 확률의 1개로 조정했어요.",
+    "첫 토벌 확정 보상과 기존 동전 보상은 유지해요.",
+    "요리 효과가 1칸당 능력치 1로 정확히 표시돼요.",
+    "친구 놀이의 음표·소풍 돗자리와 공 표시 순서를 다듬었어요.",
+    "기존 저장과 진행 중인 생활·토벌의 마감 및 보상은 유지해요."
   ],
-  "Signature": "oYTjAGipmfPw55Gh8TipdtOFOx5ATW3Ij6hxKnaFCSOt/ehg6o+e1nAbOrBh13gzZgoZ3vU6Zfh62/m9tt9CZv2ILAmgbW8Sl1cThoJBfR4uHhMckmifzr9u4+NEg7gruuazyU3orM1+p7ZB55uYMLMIx/xdxpoR/hB8nwZLQck1PvLAc9Fr9BpEyeuw2ODL3pT26noS+szZVUKys6h4oYzq9N5TvCPFHPxY7+Q2mUuT+vtI7LkZ/8mOlHEq85K/nzY9rbLalV1aRjM8BhNo8OF/SwBUSjb4Yf/giHNPOzdUDXOkA5ZCtdzzM4ZRDibwk7qJZuLTa3WI37IHIDMQ5w=="
+  "Signature": "WAMhg6qFZn1AxWnsIcrpGOZSQEbx05ztg1sc/61ibAQCZWVytCNsKTqlT5ltGmj7Y5eucXyAWG7O5OH2oVZK3qFJfCsRCmYtJ6aoUB8GLHbucJkqr8Aql4rLApNbWoX09tnw/7+yDhxryFN7zpLP8S1ja+mMNVWi3Odz4YeF9PB5TDkXPGTBTDNzGV/Svhrh+jq120O00k5TwQEaXXYTXJxHGYDk8xohbL03PJj5F5jHOI7+H20a1G8J0SECSZE7iwfNLBMTUviJNdySx+VONB6ohS2cAJc7oWJlNqs/uA+jvEqqoMkN2r1E+X2uzCwWSYMS5Jeo977f8Gz27vJD4w=="
 }
