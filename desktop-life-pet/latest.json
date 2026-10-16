@@ -1,17 +1,15 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.23",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.23/DesktopLifePet-0.1.23.zip",
-  "Sha256": "f3d2a279ee1c0705be8f4f14fe72acba57417eb12518fc7202157c898ed25dd7",
-  "Bytes": 67009323,
+  "Version": "0.1.24",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.24/DesktopLifePet-0.1.24.zip",
+  "Sha256": "3cbb59aabb47aa501fc86d19f6974129be8c93df55d0acc07ef347a524cdc5fd",
+  "Bytes": 67010640,
   "Notes": [
-    "모몽가와 랏코가 새로운 친구로 찾아왔어요.",
-    "현재 친구 옆의 캐릭터 선택 버튼에서 다섯 친구를 페이지로 살펴볼 수 있어요.",
-    "처음에는 다섯 친구 중 한 명을 무료로 고르고, 생활 목표를 달성해 한 명씩 해금해요.",
-    "새 친구의 생활 다섯 종류, 일상 행동, 여섯 가지 친구 놀이와 토벌 모습을 준비했어요.",
-    "일반 행동은 10장, 낮잠은 16장, 친구 놀이와 토벌은 20장으로 표현해요.",
-    "새 친구의 크기와 앞발 위치를 맞추고 공놀이의 이동과 화면 가장자리 표시를 확인했어요.",
-    "기존 저장, 보유 캐릭터와 전용 의상, 강화 및 진행 중인 생활·토벌은 유지해요."
+    "LITTLEFRIEND 쿠폰을 등록하면 아직 보유하지 않은 캐릭터 한 명을 선택해 즉시 해금할 수 있어요.",
+    "선택 창을 닫거나 앱을 다시 실행해도 캐릭터 선택권은 저장에 남아요.",
+    "쿠폰으로 친구를 해금해도 생활 목표 진행도와 현재 함께하는 친구는 유지해요.",
+    "이미 사용한 쿠폰의 중복 지급과 보유 캐릭터의 재선택을 막고 기존 LITTLEBABY 쿠폰도 유지해요.",
+    "기존 저장·의상·재료·강화와 진행 중인 생활·토벌은 그대로 이어져요."
   ],
-  "Signature": "NjZSzb8nbIIZLOnZfsv7bWArdP82m2yzRGM37IzzDQSiGpgy4e6TFaVJTUBAOcRmY5kyDzlrnQRAlVuN36g6ODtZ69teTjcipzncVfYZSHCl1+9r/wJ9gGeg18NsoxAsNnUHDAOhDFvm6KzHSswYBQ1DMqv9oNb6Fmg9pH1Bdze0NoVoEYUQQ690itYjd9wqp9WfNLyDiNdpV8a9oNvf4Xsbt+TX87IwM8N41ofeeX84jaxuJtsvbxYbh/qYE5VYiik8kpzQVSCeiXjQW9bHOLzVWj7KdqeHvpUL7Z5w0yUJ3ydQhZm2GnjDVi56EZ9G75+34MUqgyWt/y9JUSPgCQ=="
+  "Signature": "UOghgl11nI0zrk4Opu9GUQF+nVar6OHqT3lC+KPeywzeR5fhM+MHyNp6YgF6GyBvwrblk39DWPTJHO/dj7CGTwwnkDpgBhi26IM+7owD/IDN1ryn0X3kd4B058rEfcoj/CHnaw6ZhdDJtVA47iv7omufnLz9JXz1bS/IcceCMl4qW2CpMKgGQ4IIXK6jNkqvk8Rek/cX+uaYVVercmVNsPUDo4rJsUJA9ZO8rzX2PSjHltBmu2CxkAjG1GtmCV0VY4QZ8h5OcvU6qw4oJPbyBW9Z30BAFPGi/alfY+TwKBT+A+uNQ94Ec6qV5r/EzYq3dp+dPBiQse2Ni1EcRjnc1A=="
 }
