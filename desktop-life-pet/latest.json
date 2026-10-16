@@ -1,18 +1,17 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.22",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.22/DesktopLifePet-0.1.22.zip",
-  "Sha256": "e9c797c12f81725e8c029381da49db9160e37092a60e3735bff98ed4034b9a90",
-  "Bytes": 67001753,
+  "Version": "0.1.23",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.23/DesktopLifePet-0.1.23.zip",
+  "Sha256": "f3d2a279ee1c0705be8f4f14fe72acba57417eb12518fc7202157c898ed25dd7",
+  "Bytes": 67009323,
   "Notes": [
-    "배부름 0은 생활 시간 +10%, 기운 0은 +15%, 둘 다면 +25%가 다음 작업부터 적용돼요.",
-    "능력치 합계 +5 이상 음식에 쓰는 상위 재료를 분류하고 획득 가중치를 조정했어요.",
-    "다섯 잡몹의 반복 토벌 강화석을 성공당 0.001% 확률의 1개로 조정했어요.",
-    "첫 토벌 확정 보상과 기존 동전 보상은 유지해요.",
-    "요리 효과가 1칸당 능력치 1로 정확히 표시돼요.",
-    "친구 놀이의 음표·소풍 돗자리와 공 표시 순서를 다듬었어요.",
-    "기존 저장과 진행 중인 생활·토벌의 마감 및 보상은 유지해요.",
-    "기존 그림 자료와 새 실행파일이 호환되도록 검증 기준을 보정했어요."
+    "모몽가와 랏코가 새로운 친구로 찾아왔어요.",
+    "현재 친구 옆의 캐릭터 선택 버튼에서 다섯 친구를 페이지로 살펴볼 수 있어요.",
+    "처음에는 다섯 친구 중 한 명을 무료로 고르고, 생활 목표를 달성해 한 명씩 해금해요.",
+    "새 친구의 생활 다섯 종류, 일상 행동, 여섯 가지 친구 놀이와 토벌 모습을 준비했어요.",
+    "일반 행동은 10장, 낮잠은 16장, 친구 놀이와 토벌은 20장으로 표현해요.",
+    "새 친구의 크기와 앞발 위치를 맞추고 공놀이의 이동과 화면 가장자리 표시를 확인했어요.",
+    "기존 저장, 보유 캐릭터와 전용 의상, 강화 및 진행 중인 생활·토벌은 유지해요."
   ],
-  "Signature": "ctk6Gv+QvbkYJnn2uwJEcXhfRj9jmEFEDZBfcT/QunjxoGGvsZbLHntXY0SWTaHKClWdykFHgI/pk4eXWMkqT4OsBUg2cvAoa+7LivoPpA3Tply33+D0qp6YYQzjhYfDKKkGpNFnd+htOVvvIYEBJnVl42R5F5JTmYypNk+tl5RUQXS01qAUjDnvTBgDqB2BDgCXsTOXzk34gjUzXmgbNDs2Cm394BEGU0sIQWDaTJamW+ZolMi3pd3o0whYHa0HggGky7sE3uH0RyWjE+WOfjRr11NCCCRrl2TuodXFtRPwf1OKnEHdmM68/3m1ltUevYqP7SD2XrzBC/heWJvCSQ=="
+  "Signature": "NjZSzb8nbIIZLOnZfsv7bWArdP82m2yzRGM37IzzDQSiGpgy4e6TFaVJTUBAOcRmY5kyDzlrnQRAlVuN36g6ODtZ69teTjcipzncVfYZSHCl1+9r/wJ9gGeg18NsoxAsNnUHDAOhDFvm6KzHSswYBQ1DMqv9oNb6Fmg9pH1Bdze0NoVoEYUQQ690itYjd9wqp9WfNLyDiNdpV8a9oNvf4Xsbt+TX87IwM8N41ofeeX84jaxuJtsvbxYbh/qYE5VYiik8kpzQVSCeiXjQW9bHOLzVWj7KdqeHvpUL7Z5w0yUJ3ydQhZm2GnjDVi56EZ9G75+34MUqgyWt/y9JUSPgCQ=="
 }
