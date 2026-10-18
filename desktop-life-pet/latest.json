@@ -1,15 +1,15 @@
 {
   "AppId": "DesktopLifePet",
-  "Version": "0.1.24",
-  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.24/DesktopLifePet-0.1.24.zip",
-  "Sha256": "3cbb59aabb47aa501fc86d19f6974129be8c93df55d0acc07ef347a524cdc5fd",
-  "Bytes": 67010640,
+  "Version": "0.1.25",
+  "PackageUrl": "https://raw.githubusercontent.com/ymp4829566-hash/cobblemon-coop-distribution/main/desktop-life-pet/releases/0.1.25/DesktopLifePet-0.1.25.zip",
+  "Sha256": "cd9fadbb6f1393b8f492b0e476d268b80ae682cf96867c9d484c5cfdf05f5188",
+  "Bytes": 67011469,
   "Notes": [
-    "LITTLEFRIEND 쿠폰을 등록하면 아직 보유하지 않은 캐릭터 한 명을 선택해 즉시 해금할 수 있어요.",
-    "선택 창을 닫거나 앱을 다시 실행해도 캐릭터 선택권은 저장에 남아요.",
-    "쿠폰으로 친구를 해금해도 생활 목표 진행도와 현재 함께하는 친구는 유지해요.",
-    "이미 사용한 쿠폰의 중복 지급과 보유 캐릭터의 재선택을 막고 기존 LITTLEBABY 쿠폰도 유지해요.",
-    "기존 저장·의상·재료·강화와 진행 중인 생활·토벌은 그대로 이어져요."
+    "낚시 기본 보상을 생선 1마리로 조정했습니다.",
+    "자격증이 있으면 확률적으로 생선을 최대 3마리 더 얻으며, 등급이 높을수록 보너스 기회가 늘어납니다.",
+    "자격증 등급이 높을수록 희귀 물고기와 작물의 획득 확률이 높아집니다.",
+    "광질 강화석 확정 보상을 없애고, 모든 등급에서 1% 확률로 1개를 얻도록 조정했습니다.",
+    "기존 저장과 쿠폰·재화·강화를 유지하며, 이미 진행 중인 생활은 시작할 때 보상으로 마친 뒤 새 보상을 적용합니다."
   ],
-  "Signature": "UOghgl11nI0zrk4Opu9GUQF+nVar6OHqT3lC+KPeywzeR5fhM+MHyNp6YgF6GyBvwrblk39DWPTJHO/dj7CGTwwnkDpgBhi26IM+7owD/IDN1ryn0X3kd4B058rEfcoj/CHnaw6ZhdDJtVA47iv7omufnLz9JXz1bS/IcceCMl4qW2CpMKgGQ4IIXK6jNkqvk8Rek/cX+uaYVVercmVNsPUDo4rJsUJA9ZO8rzX2PSjHltBmu2CxkAjG1GtmCV0VY4QZ8h5OcvU6qw4oJPbyBW9Z30BAFPGi/alfY+TwKBT+A+uNQ94Ec6qV5r/EzYq3dp+dPBiQse2Ni1EcRjnc1A=="
+  "Signature": "m305fT5In+JY3tRWFEuxii6kK0a/HVAfAFNBs2beWltxuKHYk+2FPnkB5o0awN+yXM2cQ5jhkaol0px7v5JSpGZKlqG1bIm8qY6BK3+j8hx/eHM55fZJSonO6mXP5vRB6eOM2Rhd/LD8je5hqWmFbTb55czdmqCJWxB8fLduNky5fOh+UZ3Z8gNLZqPEeBVngH1ZzTW2FjJLf0Psuwix6OZABy8fVLj6DBlIKb3s8f0m3xgT2RnJX8FSKs+vxCcNsVoyMfF2+oSh1DL3bntuBMHCU3xs+6wlJIXqptF5Eia0EqchRX9j8sbAiYNHx/ogFWh0zjNVTb+d7HHovYd0Zw=="
 }
