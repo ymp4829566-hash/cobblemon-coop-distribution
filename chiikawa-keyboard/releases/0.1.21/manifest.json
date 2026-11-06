@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.21",
+  "PackageBytes": 1950640,
+  "PackageSha256": "28c3eb3b4a1831f2872fb10d131d0b123d5d15b1a9d8bfde524f938fe863bc80",
+  "ExeBytes": 2288128,
+  "ExeSha256": "61f93764644a9c70658201154d47b65f6b5ab9e99eec0f58cef455f4fbee3743",
+  "Notes": "앱과 설정 창, 트레이의 표시 이름이 먼작귀 키보드로 바뀌었습니다.",
+  "Signature": "X2s03hCQCR5nVAEiWmpZuX12oGPGM/LK4vTC1EVQV3WSPRpKnKlwNLs9dNen9hrLzVjm+Jhak4vYfeokWU9u/tnHEC0BNROYtMXoGlEqd2dFf/dxmhproZJfEsetUxtVqt0Ym+/3HPTPOHvzblTi5hn65m5+OOOzJz7U89ZLWobusIDSdIA704aMQyvVThYwm0u3ZqYqI3oy+M3J5VG6d0G1VWodn2bwWosDAA2TlGgFa3ycBcYmPMPnR2p8ybRXTv102eNaGPJ7LPmoBeaFgy2+dlyQ6gScTPVZJZn7cWWe1vU/qxXs+AvbYTq/emavXa5+PoiCwZbTJnmy0aa5rKevA7/I/e9CJMaEhriPhBX93SazlEzLGsAfEcQKkEfzeDVq3dEhD+gPoNxEwt8WgjoIgLgfoBFZb8WONoceQuAhYP3i0qxa2U2vJmOAeFHJs1D9D8cp1MRONSX6LUlBCYKDgsKdTRkkzPbqlsksYCq8nmstP+SswpUt7rmAB1OZ"
+}
