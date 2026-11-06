@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.9",
-  "PackageBytes": 281627,
-  "PackageSha256": "44089b6e6d91a4830b03250fb3061738149101db63fa4072df6799bdb2d31123",
-  "ExeBytes": 538624,
-  "ExeSha256": "3d3e1950f7c0d0020ff134c288bd4e0d41c1a79101b3c499324290da47ca7c25",
-  "Notes": "휠 버튼 클릭을 인식하고 민트색으로 표시해요. 분홍 곰 가방과 가까운 키·먼 키에 맞춰 움직이는 손 자세가 포함돼요.",
-  "Signature": "Hh5reH2i87nJku46YmMjeCOU3i9X0wfRFqakkqYAYZw6zYQw7+R+i0tFyq0lhNSNSZ3RK4ZMcbboh+tHzUDC9roM23LIZZWPXLHGIx1arMx76VVOY0La+ZEKk8Dl80CSboyDnpHOjxTmNx1625TUjvCE9ITCVOb4jovQT5AROaE8WoFdI5jwmBk4zt5Tn4h3Af8dFctcJ3ihlftvb544SKD0biZfaPPbOSE4Ro0pk2wP6SvHSfk6cvIozASprjqlw2ibwTEt5dYNcVYtrutWxXZQO8wYQqscYm5W3JYyRosM5Rol6oOBILcJVI724hDf+9ae4j4URihtxFKqxWl4jfTr/jlUOk1vh610qorI9WNqFvpMabFWIZbNerid97KobRKdghY7Jkv5YC8CoZ0HdDEQ5WYmUHwUYPWZPC902cILe0wllV/+QWTwSqhI4QEtFmfCiM12UR5DCIcXFp205U6lZdR9wCM+3iBhKqYt/ZupnkcGJmUhiNua4HwaglZZ"
+  "Version": "0.1.11",
+  "PackageBytes": 286863,
+  "PackageSha256": "704d838329d2417421934eddf7b848052a858cc5ce1b078f8c2926ab00e2f22a",
+  "ExeBytes": 548352,
+  "ExeSha256": "e23863c6a892b9700ce576ba23f4a4015ebdf6f9e4f903420a5a38966e9b54d7",
+  "Notes": "설정에서 정면과 비스듬한 배치를 골라요. 정면의 의자와 서랍장은 기본으로 보이며, 설정에서 숨길 수 있어요.\n마우스 휠을 위아래로 굴리면 파란 화살표로 방향이 표시돼요. 휠 클릭은 기존대로 민트색이에요.",
+  "Signature": "eG7IlILJvfKbxFKDPhPe+44wFOsPGQu5w5VLmN3osWDEk7T/2SNHZR6dtUvS6rZ35+IyvnUJ6oDx8vDkW8ROHhywQRZXjtimPx/am8WtQVHKuLjWgldtQOLpMFFgdJEKmJNHhNuMH8sbwXOx3QA8XUU0axxe3nERoIgaGlh50Fc7V6PqWSXfd1vxHWff8/zS5UKnWUUMqMJpZX02frRNKee0NbY+kT381v6fdzUPHmJFXou8VA4yCgms8QNHaEAV5G3q5OxH9NNYgEjKZq8zXe/lgc3uJXhIkh5opNk63S8bf6O967OV7hkUSO2S2eX5ftUsT2MNicJtc4396ldvCDpPQSe1oSx/LKinVL/y8qWbOgXp1JavVMcheoLsIMLPxxDS3BOZv3zjX84ug9KcmeC59CGapjUcUhbgkqIjS/kGBkT5+13uyslaVKmy8Q8BNcTGWFAxAnz98xdtGjuNo7gRv0CXafqefggL0xJU86ZOtn2GUXUIKxjqbcJXtxE6"
 }
