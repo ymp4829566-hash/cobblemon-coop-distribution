@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.13",
-  "PackageBytes": 287153,
-  "PackageSha256": "991b0a0282fd5ecb420346f760dbba3eca3d40050555d52d23f249a466b83d33",
-  "ExeBytes": 548864,
-  "ExeSha256": "5c5c6dfdf3fac23030e8e41ce82828dc37d7446944fd00acff3514784a12815f",
-  "Notes": "앱을 열면 화면 배치 설정도 바로 열려요. 설정 창을 닫아도 치이카와는 계속 켜져 있어요.",
-  "Signature": "Bnju1ArYkHQeNoCfRd98OBDmWrXi7nlL9F+07YutV6ud18NOJy1K/O78sRjnbyg8KQNK7fB3c3/0HAV35soubS17AlHlaSI0MuMwAavfx1XISe7XXShFvmtuknw55FYZ2a0byFH/XC9UfqFwhd/nrfwR0HZJ+aQkNzogd9RpC2WGRdfMTU7mi2UtqYKHzODMqBAWoSXCa9xWNw7LkgksMCj7cVl6XyIuauZXBd8p7575ePDKi8nlX3UtTvpidvHYaI0hQYAOyR6idYrelqkDmay4MHkUT1SBIsYEpDkm1g0lTN7NKdGVBQVQbcqtoMW1JH4Oo4ZUILcmlPDhUOXVbxBJbH9yJBzlQkv4FrD246ikaCR+Xvz7xw+TT5q+dnhHLiQCfCYZOPaR/hlpaek80O5BnFEC2/280v5IFKt7pRG/hDnkgQEFJRq4TdGDxfsH6IxDqocRT+/+DZZSy3NohUGi7IVAipmQJ1S9afUAwLNLxKNNpUPwmTAh5cQNUmHs"
+  "Version": "0.1.14",
+  "PackageBytes": 445875,
+  "PackageSha256": "5872d2970216756be16e9025e8503b40f5b56f87bf0f3201e60c2780e33f4257",
+  "ExeBytes": 713728,
+  "ExeSha256": "b3ea22034ebd4b468fe656382f49ac88c67fbb6802b482a3542b3f815eef5c40",
+  "Notes": "우사기 추가. 시작 설정의 캐릭터 선택에서 치이카와와 우사기를 바로 바꿀 수 있으며 선택은 다음 실행에도 유지됩니다.",
+  "Signature": "xtdk27nikrLVlCR5gXaplXXR+jLi06QRqabZIj9chcGnP9X0WC5Xf4MIMpqJSjUK8OJ2mfcRwRMYJjzaciU0xAAPzxs1k83K8evg7VQn5c3OngEJEZzdw1sTh3jlaI1VIo+yJHxVT3GW8PFryIrhD0/042gOu1GLgQwgRNqPq9P4LKYlS/mHzh73C4qayileD4zkGBxBEW+Cvwz1u2qy3UJvZGN8mK6cYtpNZbl99gcEMeEVjAuqWOB7tiSpw6Gx5tjV5jgXpV+gSKsew0qC2g8gmqojutEHrJm5I0Ad073/Fzvmdsn5DKGc9HMNuDyFZX2fF2QFtSM1+VtYx7wRZfEfWv7v70waz4XG+vokfF09WufvBOTvVNP7gaZ6hErXPW8LfOoz89F3Sq8KDurYElfiUUrDvIyNfyvdqbHrlJZTWnFmph5/m3s7zh4zinmANt3XceNCpgpupiFURjzX6IgUNU9gX1H5Fjl9AG19ifAOJH6QEdtdAbch7x9Y6UeI"
 }
