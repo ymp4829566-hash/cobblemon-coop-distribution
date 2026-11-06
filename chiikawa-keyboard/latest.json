@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.14",
-  "PackageBytes": 445875,
-  "PackageSha256": "5872d2970216756be16e9025e8503b40f5b56f87bf0f3201e60c2780e33f4257",
-  "ExeBytes": 713728,
-  "ExeSha256": "b3ea22034ebd4b468fe656382f49ac88c67fbb6802b482a3542b3f815eef5c40",
-  "Notes": "우사기 추가. 시작 설정의 캐릭터 선택에서 치이카와와 우사기를 바로 바꿀 수 있으며 선택은 다음 실행에도 유지됩니다.",
-  "Signature": "xtdk27nikrLVlCR5gXaplXXR+jLi06QRqabZIj9chcGnP9X0WC5Xf4MIMpqJSjUK8OJ2mfcRwRMYJjzaciU0xAAPzxs1k83K8evg7VQn5c3OngEJEZzdw1sTh3jlaI1VIo+yJHxVT3GW8PFryIrhD0/042gOu1GLgQwgRNqPq9P4LKYlS/mHzh73C4qayileD4zkGBxBEW+Cvwz1u2qy3UJvZGN8mK6cYtpNZbl99gcEMeEVjAuqWOB7tiSpw6Gx5tjV5jgXpV+gSKsew0qC2g8gmqojutEHrJm5I0Ad073/Fzvmdsn5DKGc9HMNuDyFZX2fF2QFtSM1+VtYx7wRZfEfWv7v70waz4XG+vokfF09WufvBOTvVNP7gaZ6hErXPW8LfOoz89F3Sq8KDurYElfiUUrDvIyNfyvdqbHrlJZTWnFmph5/m3s7zh4zinmANt3XceNCpgpupiFURjzX6IgUNU9gX1H5Fjl9AG19ifAOJH6QEdtdAbch7x9Y6UeI"
+  "Version": "0.1.15",
+  "PackageBytes": 600093,
+  "PackageSha256": "dbe84e903349c77452556fea055294514fc8628968149e1705666cc743117bfe",
+  "ExeBytes": 872448,
+  "ExeSha256": "138d36a550c28d607040bb665802b2cdf5bff91b337f2c70c5c53475e53c3b3d",
+  "Notes": "우사기가 대기 중에 멍한 표정을 짓고 귀를 빠르게 두 번 까딱합니다. 키보드나 마우스 입력이 오면 바로 돌아옵니다.",
+  "Signature": "v3tmECZuFpnxVXyqJxYDMpj0oi14Evxz5Vv/oBbC1wHuaqQZBDHbKyfpCRspt0EXFWPqTSO7ewsXS90TVjJDKpsAclvtfSwuPxSlDSpTXjDoOZsGGfDZdMJy/Sj71Vu/owZupKoTJIh8PecJroEGtqY6OqA4tYaihnL2lfAy2oxl386hGvR/dKAV0M8j0Di1labaYSKUJjK2dQ8eHlpO7L1PhOg0RioHYAPbaqb+DsmH483q00yOIPl7uAj18eKGB62M63N6fjuW+Xhievn7XD1nqAaklWIK3GtGLp2h1sm6B7Qa5zHjjleU5sIpd5h5Uqp6sk+bEm0BeMnkKkCg4IkT7CYjbNyAuDtNfdS2+lfj3IaVmjyj22HE4ta+eSKCzwdxUtvMkd0gyDXYg0/KTQ10enVec4R7vPpYUM+8O010WT4xUdsGUQdyrHlzECvNtXqU8JWHoqMJC+PW0COdRKzTuD9HP2x/qTE0V1VTdU4RHPvAxnsrkmpBNUcwZU6N"
 }
