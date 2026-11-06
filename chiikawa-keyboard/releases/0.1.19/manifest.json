@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.19",
+  "PackageBytes": 1437240,
+  "PackageSha256": "1dfaeb5905410685e48754d73b57280bec3833cd88b7556c4463e6605db84dd2",
+  "ExeBytes": 1717760,
+  "ExeSha256": "1c1300bad1f1adee16bef3dac6d4bbd4d917825c124fefe3e5db908ea3772c34",
+  "Notes": "치이카와 대기 행동 3종(빼꼼 살피기, 주먹밥 한입, 꾸벅 졸기)과 우사기 피리 사탕 불기를 추가했습니다.",
+  "Signature": "huhAZauatXpvff7t3F9ESbPOaP/vyKnfOq2Vld4haEYy9cH7VHjWBGRasT/fNUKnH1VTT4vb7SP9ftjA3wMxKJWKVBYfH8xmnI8g6vlyeQrCiJv4L6EfI4q5YQNN41XAiWdRgFQ+RBoZGyNHvGSVTm2I+J00sESsg/MugZJavIWIxnVGUeP9JiGGg6duYIpB6RGJSNtwojtNSS2sEvDWEhNmSMj8OWZ1AC5zjYBWD3kBPaq5HyHdbkxiTrX+dzzSfbUwZPH/hG3DJL9tqd1Se29bQpG6ZQHgPtp+h9idaCUpTNmKvaD+6NfYvjL1uaX779xsY0PI1cSR6H7niTsTXkpk0wn6VtzIF6M+fAtfbfIs2qhxX1jxZQ0XvvWCqUdRMGSn0IAC8S7Qyx/w3UtMq3peWS924KNRfyrN/Ni9wNcE7Os60sREljKkQXhzjR5BduC3vRhbuRI1VXUnxgN70ZDgEHojhKZd2DJ1v7PgCMHhJ1oGSJMZ2xADB2s8oyA3"
+}
