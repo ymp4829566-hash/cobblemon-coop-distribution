@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.18",
-  "PackageBytes": 601376,
-  "PackageSha256": "7376449096da875a815e6b041d78b14d7e4b3576c4b07777164e31dda4d93379",
-  "ExeBytes": 875008,
-  "ExeSha256": "ea9c6ce6064f41cc02265ef979536c649c3622de5cf4c7e86aabc42680200fb0",
-  "Notes": "두 캐릭터의 정면·비스듬히에서 마우스 팔 시작점을 얼굴과 몸통 뒤에 배치해 연결부를 자연스럽게 다듬었습니다.",
-  "Signature": "DmafQLkAE5J00zKA0656MXtfOgzeDqV8Xgem1IgiXXOu980xBTHfVi+j8uO/j7ma/1px7Z12U6wjbFrmH1Of8+YYYNjsWRU2hMDW43d885Rq6Pq94OKQx00GbXIa1YB32dXewbxQ3u5ka3YyirP5CEvh3sgyPcxu0XZ5+RusEeUMF9CJlMwbkxsPqyXl3iiiFYJ2VSBjmtHdM5ZwvNSVV/uuHNPjhDkpBvnXQIkvsoaRyolUMYIoYX4QYcvDGV4ArzXBBry4jESnHhCO7trzhj1C9dZyHV+CQDfFfc3i5NuuV87X35KMRDpDL17sBffH9oRO5Jd0uFJKAHG+UxwDrt5hnRCWvCi8QbtZ+aLs1qG2rnn3KUDd1GNRc1wShDa/C/+Hb8aR8LjvJwizk5xMwHgT5yjLzCFFEP9R2yKr+IVSG6RAXgNmtbu8NSLm+8lVLbnuRkKrN5/3+OrXiUDBTgvsWCI9JcDpkuet0vwN4zgHzY7W6RQOaKFdzMBVGUyy"
+  "Version": "0.1.19",
+  "PackageBytes": 1437240,
+  "PackageSha256": "1dfaeb5905410685e48754d73b57280bec3833cd88b7556c4463e6605db84dd2",
+  "ExeBytes": 1717760,
+  "ExeSha256": "1c1300bad1f1adee16bef3dac6d4bbd4d917825c124fefe3e5db908ea3772c34",
+  "Notes": "치이카와 대기 행동 3종(빼꼼 살피기, 주먹밥 한입, 꾸벅 졸기)과 우사기 피리 사탕 불기를 추가했습니다.",
+  "Signature": "huhAZauatXpvff7t3F9ESbPOaP/vyKnfOq2Vld4haEYy9cH7VHjWBGRasT/fNUKnH1VTT4vb7SP9ftjA3wMxKJWKVBYfH8xmnI8g6vlyeQrCiJv4L6EfI4q5YQNN41XAiWdRgFQ+RBoZGyNHvGSVTm2I+J00sESsg/MugZJavIWIxnVGUeP9JiGGg6duYIpB6RGJSNtwojtNSS2sEvDWEhNmSMj8OWZ1AC5zjYBWD3kBPaq5HyHdbkxiTrX+dzzSfbUwZPH/hG3DJL9tqd1Se29bQpG6ZQHgPtp+h9idaCUpTNmKvaD+6NfYvjL1uaX779xsY0PI1cSR6H7niTsTXkpk0wn6VtzIF6M+fAtfbfIs2qhxX1jxZQ0XvvWCqUdRMGSn0IAC8S7Qyx/w3UtMq3peWS924KNRfyrN/Ni9wNcE7Os60sREljKkQXhzjR5BduC3vRhbuRI1VXUnxgN70ZDgEHojhKZd2DJ1v7PgCMHhJ1oGSJMZ2xADB2s8oyA3"
 }
