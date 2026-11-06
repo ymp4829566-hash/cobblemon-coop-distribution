@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.9",
+  "PackageBytes": 281627,
+  "PackageSha256": "44089b6e6d91a4830b03250fb3061738149101db63fa4072df6799bdb2d31123",
+  "ExeBytes": 538624,
+  "ExeSha256": "3d3e1950f7c0d0020ff134c288bd4e0d41c1a79101b3c499324290da47ca7c25",
+  "Notes": "휠 버튼 클릭을 인식하고 민트색으로 표시해요. 분홍 곰 가방과 가까운 키·먼 키에 맞춰 움직이는 손 자세가 포함돼요.",
+  "Signature": "Hh5reH2i87nJku46YmMjeCOU3i9X0wfRFqakkqYAYZw6zYQw7+R+i0tFyq0lhNSNSZ3RK4ZMcbboh+tHzUDC9roM23LIZZWPXLHGIx1arMx76VVOY0La+ZEKk8Dl80CSboyDnpHOjxTmNx1625TUjvCE9ITCVOb4jovQT5AROaE8WoFdI5jwmBk4zt5Tn4h3Af8dFctcJ3ihlftvb544SKD0biZfaPPbOSE4Ro0pk2wP6SvHSfk6cvIozASprjqlw2ibwTEt5dYNcVYtrutWxXZQO8wYQqscYm5W3JYyRosM5Rol6oOBILcJVI724hDf+9ae4j4URihtxFKqxWl4jfTr/jlUOk1vh610qorI9WNqFvpMabFWIZbNerid97KobRKdghY7Jkv5YC8CoZ0HdDEQ5WYmUHwUYPWZPC902cILe0wllV/+QWTwSqhI4QEtFmfCiM12UR5DCIcXFp205U6lZdR9wCM+3iBhKqYt/ZupnkcGJmUhiNua4HwaglZZ"
+}
