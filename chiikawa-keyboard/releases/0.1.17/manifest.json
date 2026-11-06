@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.17",
+  "PackageBytes": 601149,
+  "PackageSha256": "a6d8d697543dcba731249f9e7307525b4a0aa923aa11976e50b07a28bea63af8",
+  "ExeBytes": 874496,
+  "ExeSha256": "308154d4a97d3016f60de6adbcb6842240cf365a3def5bac7842b5e647536443",
+  "Notes": "정면 키보드와 마우스를 캐릭터 방향으로 돌렸습니다. 두 배치에서 손이 실제 눌린 키를 향하며, 먼 키에서는 팔 길이를 제한합니다.",
+  "Signature": "JGegxD+d8h/DAwremlwhglcWDRoa9wtFYG68LP0Wc4nTNTCJRzxoxc9E5GzcavbQNV+s+fQoMgty1iR3TR9gUrioApLdWuEXUKdkhhtNTgedKNzN5RwlrwWWAbKmbNH0HVmm8FzRVk02rCGathLSm8kwLtPUOraLBkn3xaQFRJaOAbxCxikKDNspEiyyqmTgandQi4INMlRlVFsFqqiV12bi0hDABHV0USXCAOpgYWjEGN4VULL3i3LQhbtjBgvcFfjkiQ1O1rXuI48XN4oHoidtqgpEr2qC0I0+R85UPtDRE5KGulph3U5p6rLYY9E0/HtxzKSkGoJvzkiNe89rauyREDPuYcRGJzKTVmofRDWym3oGWE3HTSLLtfDDYw6G2iyLwUWj17rcDjB7tsl6+J8RkIWBLnx9dL74uvnNrOmyRErPK0zd/vxwLjM9J5VVQWHJe5vZPNuEVTh/g3Lm0RZqX4z9Yp/lj4nznoi9jPH0tF3V/Wtn5JugVyvkhx7y"
+}
