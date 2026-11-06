@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.20",
-  "PackageBytes": 1950604,
-  "PackageSha256": "48d32aab3196e78c60517c4d45cdad0bb7afb5a0b1434d9a4d05225924f7fb6a",
+  "Version": "0.1.21",
+  "PackageBytes": 1950640,
+  "PackageSha256": "28c3eb3b4a1831f2872fb10d131d0b123d5d15b1a9d8bfde524f938fe863bc80",
   "ExeBytes": 2288128,
-  "ExeSha256": "ca3f8fd19d5c605f7ac6125fa20252bee6b24ba49a96a141b6091937029d3b56",
-  "Notes": "하치와레와 모몽가를 캐릭터 선택에 추가했습니다. 정면·비스듬히 배치, 캐릭터별 가구와 소품, 키보드·마우스 입력 반응을 지원합니다.",
-  "Signature": "FQr4CVQhSOt74Wx8z3nURSb175cnXI/uBZ03E68VMjcwPGWgpDHvrB9tbbpm+BKnIz4XXdfyOTJXKK94FGcQM4uh7dK+rhXHL//fJoDeOaukX80M3t1yC8rHLOA+wEuqBXG97G8IBbMtlpu7TYHpu69pmAB2cfe0xVD/Z5Tuqyh+vzV4QJtEr4IyQ6VtGPz57mHeh8g8y05rRhf3V4e27GAPQeXylLSUQ4N+SKeyrG5NcZMGuo/Wai/lpRdEZId56q6ylxwBNLkMP9xc6msdagYLcSvoaHqp6//evpF6o+DzAzmxjmZu0KBpfBST9SHonOWxdoEElD5snKDuBnIffpSrfAXOc2XAbA4sMWmnGgHNhfrCQ7hv1ClaEC3umvOxPUIjRnZBPbfjylFD3Z8VczmAimhP306URp3oFqLmcXkYgoE4wetmlP80U2JrUnVhK1mIwZzV6gWJadhthzWwpbDHlvj7ScaUvpjDc8cRwTITFKXdteldMwMTs+5EABde"
+  "ExeSha256": "61f93764644a9c70658201154d47b65f6b5ab9e99eec0f58cef455f4fbee3743",
+  "Notes": "앱과 설정 창, 트레이의 표시 이름이 먼작귀 키보드로 바뀌었습니다.",
+  "Signature": "X2s03hCQCR5nVAEiWmpZuX12oGPGM/LK4vTC1EVQV3WSPRpKnKlwNLs9dNen9hrLzVjm+Jhak4vYfeokWU9u/tnHEC0BNROYtMXoGlEqd2dFf/dxmhproZJfEsetUxtVqt0Ym+/3HPTPOHvzblTi5hn65m5+OOOzJz7U89ZLWobusIDSdIA704aMQyvVThYwm0u3ZqYqI3oy+M3J5VG6d0G1VWodn2bwWosDAA2TlGgFa3ycBcYmPMPnR2p8ybRXTv102eNaGPJ7LPmoBeaFgy2+dlyQ6gScTPVZJZn7cWWe1vU/qxXs+AvbYTq/emavXa5+PoiCwZbTJnmy0aa5rKevA7/I/e9CJMaEhriPhBX93SazlEzLGsAfEcQKkEfzeDVq3dEhD+gPoNxEwt8WgjoIgLgfoBFZb8WONoceQuAhYP3i0qxa2U2vJmOAeFHJs1D9D8cp1MRONSX6LUlBCYKDgsKdTRkkzPbqlsksYCq8nmstP+SswpUt7rmAB1OZ"
 }
