@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.18",
+  "PackageBytes": 601376,
+  "PackageSha256": "7376449096da875a815e6b041d78b14d7e4b3576c4b07777164e31dda4d93379",
+  "ExeBytes": 875008,
+  "ExeSha256": "ea9c6ce6064f41cc02265ef979536c649c3622de5cf4c7e86aabc42680200fb0",
+  "Notes": "두 캐릭터의 정면·비스듬히에서 마우스 팔 시작점을 얼굴과 몸통 뒤에 배치해 연결부를 자연스럽게 다듬었습니다.",
+  "Signature": "DmafQLkAE5J00zKA0656MXtfOgzeDqV8Xgem1IgiXXOu980xBTHfVi+j8uO/j7ma/1px7Z12U6wjbFrmH1Of8+YYYNjsWRU2hMDW43d885Rq6Pq94OKQx00GbXIa1YB32dXewbxQ3u5ka3YyirP5CEvh3sgyPcxu0XZ5+RusEeUMF9CJlMwbkxsPqyXl3iiiFYJ2VSBjmtHdM5ZwvNSVV/uuHNPjhDkpBvnXQIkvsoaRyolUMYIoYX4QYcvDGV4ArzXBBry4jESnHhCO7trzhj1C9dZyHV+CQDfFfc3i5NuuV87X35KMRDpDL17sBffH9oRO5Jd0uFJKAHG+UxwDrt5hnRCWvCi8QbtZ+aLs1qG2rnn3KUDd1GNRc1wShDa/C/+Hb8aR8LjvJwizk5xMwHgT5yjLzCFFEP9R2yKr+IVSG6RAXgNmtbu8NSLm+8lVLbnuRkKrN5/3+OrXiUDBTgvsWCI9JcDpkuet0vwN4zgHzY7W6RQOaKFdzMBVGUyy"
+}
