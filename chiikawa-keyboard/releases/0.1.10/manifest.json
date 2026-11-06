@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.10",
+  "PackageBytes": 286369,
+  "PackageSha256": "f7619d45d85e36868189d976c3c759be4177051ee1abfe765ac2da07da5be55e",
+  "ExeBytes": 547328,
+  "ExeSha256": "bf81af9617ab9a645dea6a1f18cb64a5955b3c36bf9b3c640c690089258f8469",
+  "Notes": "설정에서 정면과 비스듬한 배치를 고를 수 있어요. 정면은 뒤쪽 의자와 서랍장을 빼서 깔끔하게 보이게 했어요.\n휠을 위아래로 굴리면 방향을 파란 화살표로 보여 줘요.",
+  "Signature": "CSjMdv2tcRxT1uDmwkIA2aGs8X6GgX9PnfhRRZmGMuZom40nRNb3397peiafyU33mxjiZdckmJYm8+sDZNZpe+e19fRLHV8oCQQHQH2s7Qw5dtgmEXbAlxam4f2GR2qy9YJT73uFRWafYOHBgY3FBOQo1DpfNV9s2LII6eu0ulBJ9gThhg972uArT4d6RoKAEB9WiOv0SwWpT7qnAh9DsJaa0p71Ekk2evCl62+9DdN+LH597BeuvDg47T8XV1kYKdtCq6Y2usW9g+7u93qKGZsE5LkxsU5fhB/JilMfEvFyJbcHtw+ykB5u0xIko6l9WwnDi6nG8u+0blwjTRZOpdJbKk+eqfG7mW3iZJUcBP1fvOELbFnUalXKYY9tPhL0aPiRm7wzuxKguudtPA44iF9dU4Y7HtOziTQRie8FwEKs98ZOm2PgfKtYV3DDL/p08xYfQsWzoIgS9IImJ9hVYBbNMlVaK5u5M/l5eEawxOYZjSW2COxTNFb1tzCMHUVu"
+}
