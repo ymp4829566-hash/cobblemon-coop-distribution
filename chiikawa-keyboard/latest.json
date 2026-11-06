@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.12",
-  "PackageBytes": 287053,
-  "PackageSha256": "b687c36c13c5d528ccf038ada9d5eca03f29a79d407497b90cc257153fdaf7b5",
+  "Version": "0.1.13",
+  "PackageBytes": 287153,
+  "PackageSha256": "991b0a0282fd5ecb420346f760dbba3eca3d40050555d52d23f249a466b83d33",
   "ExeBytes": 548864,
-  "ExeSha256": "f2bd2f7e87b410e1866fd179a6d06d44845e2ff8f70b14dcfcfd9a20b72a4b4d",
-  "Notes": "주 모니터에 맞춰 크기를 자동으로 골라요. 4K는 기본, QHD는 작게, FHD는 새 아주 작게로 시작해요. 우클릭 크기 메뉴에서 자동이나 원하는 크기를 고를 수 있어요.",
-  "Signature": "aWh6TZfiJocAxUxbxuu+IThwmmeLOhKjVLuY5gpyEF7B9bNz8QydOCRdYRoLvZwAluALzaLJVbBp8hRbIyZN/mkRGZCvPwj/qzJsM9yJwS/sBPePR534HFOI7ptmINdeIzk3Gp6eAlDVjVf+L3cyp54nXpnehV2IFGNNzNWxVhmclMmZgTtfZ1MFwZuPjYhO3bEI87jCo7u8XOHQjl7/0a4SfXQePSCYnRShivmLCiMdJ4lm/ds7RgxcsTQfyRQF6+qxw2bWjkmg7pFiaGSrfmDkkz6NYJ6oSsF54QZU1aPN74zKBD4XIH/uPWPiYsor18vUoNXhM1F6jx+zHNO8eM33Luh9imOLysMKstXLLg9kPuf5scWQnRkru7rhb/k1nPe9T3RoCuLJN9RLzkg4Oe9EFT4GOEkM58M2BzDPXZAgxkSM5YQd+PbTK0muO+EWW57gVESPcNXkQNqEZwNI1C9b1JnJ641ZOLXSg8MYyraFzvlyEw30giBuNUxlk44G"
+  "ExeSha256": "5c5c6dfdf3fac23030e8e41ce82828dc37d7446944fd00acff3514784a12815f",
+  "Notes": "앱을 열면 화면 배치 설정도 바로 열려요. 설정 창을 닫아도 치이카와는 계속 켜져 있어요.",
+  "Signature": "Bnju1ArYkHQeNoCfRd98OBDmWrXi7nlL9F+07YutV6ud18NOJy1K/O78sRjnbyg8KQNK7fB3c3/0HAV35soubS17AlHlaSI0MuMwAavfx1XISe7XXShFvmtuknw55FYZ2a0byFH/XC9UfqFwhd/nrfwR0HZJ+aQkNzogd9RpC2WGRdfMTU7mi2UtqYKHzODMqBAWoSXCa9xWNw7LkgksMCj7cVl6XyIuauZXBd8p7575ePDKi8nlX3UtTvpidvHYaI0hQYAOyR6idYrelqkDmay4MHkUT1SBIsYEpDkm1g0lTN7NKdGVBQVQbcqtoMW1JH4Oo4ZUILcmlPDhUOXVbxBJbH9yJBzlQkv4FrD246ikaCR+Xvz7xw+TT5q+dnhHLiQCfCYZOPaR/hlpaek80O5BnFEC2/280v5IFKt7pRG/hDnkgQEFJRq4TdGDxfsH6IxDqocRT+/+DZZSy3NohUGi7IVAipmQJ1S9afUAwLNLxKNNpUPwmTAh5cQNUmHs"
 }
