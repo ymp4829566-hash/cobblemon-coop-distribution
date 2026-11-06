@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.20",
+  "PackageBytes": 1950604,
+  "PackageSha256": "48d32aab3196e78c60517c4d45cdad0bb7afb5a0b1434d9a4d05225924f7fb6a",
+  "ExeBytes": 2288128,
+  "ExeSha256": "ca3f8fd19d5c605f7ac6125fa20252bee6b24ba49a96a141b6091937029d3b56",
+  "Notes": "하치와레와 모몽가를 캐릭터 선택에 추가했습니다. 정면·비스듬히 배치, 캐릭터별 가구와 소품, 키보드·마우스 입력 반응을 지원합니다.",
+  "Signature": "FQr4CVQhSOt74Wx8z3nURSb175cnXI/uBZ03E68VMjcwPGWgpDHvrB9tbbpm+BKnIz4XXdfyOTJXKK94FGcQM4uh7dK+rhXHL//fJoDeOaukX80M3t1yC8rHLOA+wEuqBXG97G8IBbMtlpu7TYHpu69pmAB2cfe0xVD/Z5Tuqyh+vzV4QJtEr4IyQ6VtGPz57mHeh8g8y05rRhf3V4e27GAPQeXylLSUQ4N+SKeyrG5NcZMGuo/Wai/lpRdEZId56q6ylxwBNLkMP9xc6msdagYLcSvoaHqp6//evpF6o+DzAzmxjmZu0KBpfBST9SHonOWxdoEElD5snKDuBnIffpSrfAXOc2XAbA4sMWmnGgHNhfrCQ7hv1ClaEC3umvOxPUIjRnZBPbfjylFD3Z8VczmAimhP306URp3oFqLmcXkYgoE4wetmlP80U2JrUnVhK1mIwZzV6gWJadhthzWwpbDHlvj7ScaUvpjDc8cRwTITFKXdteldMwMTs+5EABde"
+}
