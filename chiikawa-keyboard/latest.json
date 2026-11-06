@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.11",
-  "PackageBytes": 286863,
-  "PackageSha256": "704d838329d2417421934eddf7b848052a858cc5ce1b078f8c2926ab00e2f22a",
-  "ExeBytes": 548352,
-  "ExeSha256": "e23863c6a892b9700ce576ba23f4a4015ebdf6f9e4f903420a5a38966e9b54d7",
-  "Notes": "설정에서 정면과 비스듬한 배치를 골라요. 정면의 의자와 서랍장은 기본으로 보이며, 설정에서 숨길 수 있어요.\n마우스 휠을 위아래로 굴리면 파란 화살표로 방향이 표시돼요. 휠 클릭은 기존대로 민트색이에요.",
-  "Signature": "eG7IlILJvfKbxFKDPhPe+44wFOsPGQu5w5VLmN3osWDEk7T/2SNHZR6dtUvS6rZ35+IyvnUJ6oDx8vDkW8ROHhywQRZXjtimPx/am8WtQVHKuLjWgldtQOLpMFFgdJEKmJNHhNuMH8sbwXOx3QA8XUU0axxe3nERoIgaGlh50Fc7V6PqWSXfd1vxHWff8/zS5UKnWUUMqMJpZX02frRNKee0NbY+kT381v6fdzUPHmJFXou8VA4yCgms8QNHaEAV5G3q5OxH9NNYgEjKZq8zXe/lgc3uJXhIkh5opNk63S8bf6O967OV7hkUSO2S2eX5ftUsT2MNicJtc4396ldvCDpPQSe1oSx/LKinVL/y8qWbOgXp1JavVMcheoLsIMLPxxDS3BOZv3zjX84ug9KcmeC59CGapjUcUhbgkqIjS/kGBkT5+13uyslaVKmy8Q8BNcTGWFAxAnz98xdtGjuNo7gRv0CXafqefggL0xJU86ZOtn2GUXUIKxjqbcJXtxE6"
+  "Version": "0.1.12",
+  "PackageBytes": 287053,
+  "PackageSha256": "b687c36c13c5d528ccf038ada9d5eca03f29a79d407497b90cc257153fdaf7b5",
+  "ExeBytes": 548864,
+  "ExeSha256": "f2bd2f7e87b410e1866fd179a6d06d44845e2ff8f70b14dcfcfd9a20b72a4b4d",
+  "Notes": "주 모니터에 맞춰 크기를 자동으로 골라요. 4K는 기본, QHD는 작게, FHD는 새 아주 작게로 시작해요. 우클릭 크기 메뉴에서 자동이나 원하는 크기를 고를 수 있어요.",
+  "Signature": "aWh6TZfiJocAxUxbxuu+IThwmmeLOhKjVLuY5gpyEF7B9bNz8QydOCRdYRoLvZwAluALzaLJVbBp8hRbIyZN/mkRGZCvPwj/qzJsM9yJwS/sBPePR534HFOI7ptmINdeIzk3Gp6eAlDVjVf+L3cyp54nXpnehV2IFGNNzNWxVhmclMmZgTtfZ1MFwZuPjYhO3bEI87jCo7u8XOHQjl7/0a4SfXQePSCYnRShivmLCiMdJ4lm/ds7RgxcsTQfyRQF6+qxw2bWjkmg7pFiaGSrfmDkkz6NYJ6oSsF54QZU1aPN74zKBD4XIH/uPWPiYsor18vUoNXhM1F6jx+zHNO8eM33Luh9imOLysMKstXLLg9kPuf5scWQnRkru7rhb/k1nPe9T3RoCuLJN9RLzkg4Oe9EFT4GOEkM58M2BzDPXZAgxkSM5YQd+PbTK0muO+EWW57gVESPcNXkQNqEZwNI1C9b1JnJ641ZOLXSg8MYyraFzvlyEw30giBuNUxlk44G"
 }
