@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.16",
+  "PackageBytes": 601376,
+  "PackageSha256": "be39e2d155be44fcdcee9d994c64f5220846115b98d15d2144a09d813f5d2ac9",
+  "ExeBytes": 875008,
+  "ExeSha256": "b6c1a0fb3f64a9489d56f01c6a0a663ed42c7c3d30f72075f6cc1248d0f5d087",
+  "Notes": "우사기의 평소 표정과 멍한 표정을 참고 이미지에 맞췄습니다. 멍 때리기 4.2초와 귀 까딱 1.1초는 독립적으로 재생됩니다. 우사기 전용 러그, 의자, 서랍장 색감을 추가했습니다.",
+  "Signature": "rWZFk+itJIPOnjhrBR0GLaFSKbgaBLQtHBeBZmxSnztqwJhqdsAlfkw4wpXSaLFrql/qpvnTbw6W660qN+PivjHRA5swzL27SK8MxP+2YXsz4j94r2wdk+KGfd73uRXC5/7fEMCjq3s+QackHB3DQIaXcxdYT8Krpv9AgeesL9N5604sXLnIGUMgjVWdD3UwEs1ab45ZuIHpubJspU/4YQjXkiSvOZCTYb3PE1Y9iFVNQTVYvKY8h0dc5PXtXat3xYQ8CIAaS8urglIzO8GLGnp7P0HzY/AL1k7hMhdMc0s6zBqBbM4W/aWO7NkGme/YMkjL6za2bHbG+swmIIh2gGRVt03Dng7mRyL56ASsKWcFGSFacgDY1qVMPcpG0scCTVB6Gl9cUF3446s2GaFtZ2+hGw5W/dELKGLzUQftfu4AaJryEnK9Eb3YrtV2i1MaF18BtFwlojgKg4IwFZ0Vx5A6pqRLo1ru0p6VicXug93oCFTgPymbHNWfi9NpXgvM"
+}
