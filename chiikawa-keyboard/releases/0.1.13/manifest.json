@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.13",
+  "PackageBytes": 287153,
+  "PackageSha256": "991b0a0282fd5ecb420346f760dbba3eca3d40050555d52d23f249a466b83d33",
+  "ExeBytes": 548864,
+  "ExeSha256": "5c5c6dfdf3fac23030e8e41ce82828dc37d7446944fd00acff3514784a12815f",
+  "Notes": "앱을 열면 화면 배치 설정도 바로 열려요. 설정 창을 닫아도 치이카와는 계속 켜져 있어요.",
+  "Signature": "Bnju1ArYkHQeNoCfRd98OBDmWrXi7nlL9F+07YutV6ud18NOJy1K/O78sRjnbyg8KQNK7fB3c3/0HAV35soubS17AlHlaSI0MuMwAavfx1XISe7XXShFvmtuknw55FYZ2a0byFH/XC9UfqFwhd/nrfwR0HZJ+aQkNzogd9RpC2WGRdfMTU7mi2UtqYKHzODMqBAWoSXCa9xWNw7LkgksMCj7cVl6XyIuauZXBd8p7575ePDKi8nlX3UtTvpidvHYaI0hQYAOyR6idYrelqkDmay4MHkUT1SBIsYEpDkm1g0lTN7NKdGVBQVQbcqtoMW1JH4Oo4ZUILcmlPDhUOXVbxBJbH9yJBzlQkv4FrD246ikaCR+Xvz7xw+TT5q+dnhHLiQCfCYZOPaR/hlpaek80O5BnFEC2/280v5IFKt7pRG/hDnkgQEFJRq4TdGDxfsH6IxDqocRT+/+DZZSy3NohUGi7IVAipmQJ1S9afUAwLNLxKNNpUPwmTAh5cQNUmHs"
+}
