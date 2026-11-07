@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.29",
+  "PackageBytes": 5848675,
+  "PackageSha256": "f0f1d3458423a8fc1e35d546f6f0278aa7034138d4014f57cc136b77b4c561d8",
+  "ExeBytes": 6590976,
+  "ExeSha256": "0bb6cda37bdf22a29c583b61e7c7a5b4aaddd3a2397ab0a3d6dd249bd654e5e0",
+  "Notes": "치이카와의 몸·팔 연결부와 기존 구도 디테일을 개선했어요. 설정에서 치이카와의 원근감 구도를 선택해 비교할 수 있어요. 새 구도의 클릭·휠·키보드와 양손 연타를 연결했어요.",
+  "Signature": "wP2KfFlU+R3p6+az8DxqfGB7yFg2SFa3giN3ZGj6PGwfAVGexU9BdEUFg+IbxarImNIf9eJEq7I9qQAk5d1Ju44KESzXzJgzspeONViSUydBn33vi6YNkuB6+GJYoX8PJFLim+xIy+Qho70cTxB8G45y6ZplMNHNY4XPF7+cAdykXQPralBMAqMh17Dl9VwrIYvEkvdwb6+PYue0FY/phMlS+09jt5s2ORTPc8zDvI+MojcDN/B0P34sFmHj9uECL+MOLFSkEv87+CKF1zXrCPQIA9NR6AJNvLdPHeu4Da3JoC+n89UMRDdxB6X3klqXViXbVth4i6FUnWXwEE8l8n0LMpBZrGolQALAKPS9mwW0/byg820dT684xVbRgm1BNexUu0uRX08SC11rTWAHhUe0T4lzTBSW6Ti2t10gD+lDGZksmv/FpD40z4yTtah6uxZT1vIv7ivEzElgEz4rd0GG/zGhXAr0F6UXJOj0UIbaILvaW714Dfa8G6nON18N"
+}
