@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.22",
-  "PackageBytes": 3489874,
-  "PackageSha256": "bf085ba54dada6f8d6ae1d5a085d93c9def19bd888f15242b5d23bc9aa0ef161",
-  "ExeBytes": 4165632,
-  "ExeSha256": "1f3c256fd831ac28db2b6ca23e74a7637f97d2f582d4aca15a45d14fc841da90",
-  "Notes": "모몽가의 정면 몸 그림과 눈깜빡임을 새로 만들었습니다. 정면과 비스듬히 화면 모두에서 두 팔이 키보드와 마우스 입력에 맞춰 움직입니다.",
-  "Signature": "rvZT6buCHJ/EYDzfxAXnQ9iPi47oDPV796Nk6usStmfHLpy4C7OuhF8rzOfhbLl15387XbmRkzk7E6UxqucPvjQ58xKQ3XpOtCLcBOkO70oVyEV02lMb2jGvNy4rFOuO7qDxyvZpfxl4pDjqa0UAujpAlDfdlhySFGeYsEEbme19CMFkbk7qAtaXGIVtj/21NfEPXodk61Y/hnuBNnNrBRYSfKDLouna3NH7BUJRVxSeV/74xoH4Z+p05/q6lsuWjHuDJ1Evku3xEI+fcUwcBPGw8S2xj94n2mKwar3opYtGDRhRu1Qk36iw34vBB2hywZwQagxKiueUgDhgCT+VO+cZmNL5+LBISgDMel1UsLvSe2lSZApr2NErsYGH4OcU3xgd0sPr0KyEXH6CHCirph3D36La9dvOARdu16+wXho4O8T9R9xU7qwOT24shlXAJ0cWvFhExg/c73R4fZTpg/h+lNChTJygWoittR5ZEpC4FLNmVin/yU0rl5n7/eca"
+  "Version": "0.1.23",
+  "PackageBytes": 3490510,
+  "PackageSha256": "4dabcbacb9d55b27d7b5a7c8d343c83816fee8372cf9b832bdbeff7dbca20b9d",
+  "ExeBytes": 4167168,
+  "ExeSha256": "f8e98c4ba005956414e0c04458283d18864ee2518516645a873168a3e5f1692d",
+  "Notes": "우사기와 하치와레의 얼굴을 키우고 눈높이를 치이카와에 맞췄습니다. 우사기의 귀가 잘리지 않도록 위쪽 공간을 확보하고, 하치와레의 앞발이 겹쳐 보이던 부분을 정리했습니다.",
+  "Signature": "fElibfKLIDxY4VvezoocRl1OxtKDvW5CeB/aXdalb9ggZhCREWtAGvABRz/HjsJi37f3ecmyxw23f5eHKpAvrbMZcYIprd24CRz6zmE5QDIbjMNkCBMRqenru8CMjL1k/38RWIfU7sqX0WHo8AdPNRnRPTbGGgikg2B0n+P5wx90UIHvKGDju8oSBbkr+ry3BZjutbZKxqLi5QnZUuRpoYeVrWnsCCMTbuOiFU6p/VBmKJT5rpa0ALAfs9wpwtEh7wpHKCZk/oxnT8nYaFyPkmOB7MrM9esIvSa+kv175iv2HNKz6zRCDia2CfFmRNCPFoX1HSsq4ffazLaS+f6l7aWwouW4BAWcBFdpUR1t+UfFyCkRdD70G6Sijv9YRzqfKcbPg/gPy+xVP4Zu/TlNqYZUXdyXqc/TsISVaKsMGzRXQtyaYoIlRRoA+zhfvp+JMAhWZzrDA2+zTN98nwbk/KkMNCmvRV++dtCxnCEbbzuX5MZLpRg1hxvuhJfgZBh2"
 }
