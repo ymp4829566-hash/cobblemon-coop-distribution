@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.25",
+  "PackageBytes": 3494671,
+  "PackageSha256": "9494da992c135494dc69f65800732ef5faf94b933a773685cb8e089017f7fc6b",
+  "ExeBytes": 4175872,
+  "ExeSha256": "ef2e0768e045cea0eef2f9da1e9bf9e932e74b0c08f43ba68224afeb7a5acef8",
+  "Notes": "설정 GUI에 크기 5단계, 입력 반응 일시정지, 숨기기·보이기, 항상 위 표시, 위치 복구, 완전 종료를 추가했습니다. 우클릭 메뉴와 GUI가 같은 명령과 현재 상태를 공유합니다.",
+  "Signature": "eHX5dfQT4RzTfI7IU3XFL6INtoA3x21C/oPCunaOUjaVdiAmUza+qBPJnH74o8KBsiBr7uPxx3CkVgOWrXFGceZawFqNXBPCdi9JZDX/tN/ovOdkz6UVBvcCbxh+N3Nn8ClVFBrhk2Z8BGwwS3XpDA5iAVuFkOHtBDdSVAaIvn+5CBIq4iCbjdGemC3aZunF4KJyPWw9BotdiHV+nJ6KzBEjSV8/givzNGO2iGPiITMOnAidY05HETeBKbCG469b+kYcHveezWbcjsCD8ZFKy5HEp+tVJob1pR/gfGz7DFtX2iClz9LlLGmKLaVx0h/VFyRZsRoJ+gkIHMGVh4BUuHqoq2FNk7kx9MnFmdSaHNTreBtSA5/9N+MiWrTIaJsq1NfX4/aWw11b9nh7N8mM8lhPmiyJIusxzURteRYcuknT5b9gvngBXhs6Ah1uGw1SFsyHqp8OLIvGPRcY1h+i6KGL4IZqLVgN/Pw4BoLK1zWwSYf5YkpcarpwFhg1yY4d"
+}
