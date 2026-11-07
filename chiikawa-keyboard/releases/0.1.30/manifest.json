@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.30",
+  "PackageBytes": 5849653,
+  "PackageSha256": "f972c9db5d3e90a1c082db3dc0cc79da607554ec7e91833094be590feea4591c",
+  "ExeBytes": 6593024,
+  "ExeSha256": "da7ab7a8206f88f1d928d1a1df6847397145d5944fed3a487a5293f1986fb065",
+  "Notes": "우사기·하치와레·모몽가에도 원근감 구도와 몸·팔 연결을 적용했어요. 캐릭터별 가구·카펫·키보드 색상과 무기·소품을 맞췄어요. 캐릭터를 바꿔도 선택한 구도를 유지하고, 휠 표시와 긴 귀·꼬리 여백도 보정했어요.",
+  "Signature": "VJgB2LVTGA+1I4sJHbmaX4vv2Lx99KDNHeQgqQQMIgGPOnaxtipjUJo021dZIHIqUWDCfL1Rh7+1+OpStNKuHUK+TmPuHHKYwhuIZ34V3fj2YGRclr38GmiDs69WRI8/v0oxvMkxa2CbpmWHLTjvQOA69YgkIgrYfbaHfpkyf4ecxYKkDW49jOpxxZZCOMXXQdjaKottzXg7kSDUoEi7rmMPkI1rxGeAqGum6DiTabJdo9h3hQNC/cMsyRGHgW4VW+n2Wi7D8dvvCG1Doc+iWz+P7x694Yd2OXDYevDW+XCm11MRd2AqYEVE26kCi55ymgkWyWgLOo42//KTCHi0jRd/V6DANmgIS5JIpMmr5tqynGd38UP+D+RsJS3aJE5ytg0T5vU0oWwXeLNbGoAs+xE6hdUsA0rV/pq6CQ4mf4mXbOkgP9dz/FxvA99AUg7TLtrSZgkDK9GPWSmjATVv/SP4AXCDXx3C5WZZj3XYAbr6XjygD6jlkLJqBr5hdPCt"
+}
