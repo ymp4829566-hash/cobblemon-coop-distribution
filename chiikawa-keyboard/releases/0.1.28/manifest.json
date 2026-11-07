@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.28",
+  "PackageBytes": 5841025,
+  "PackageSha256": "dd9acd860799fc722484ce168949304126dfd67a6a0a0d84ea9bf484b2e7476f",
+  "ExeBytes": 6572032,
+  "ExeSha256": "8d85f76d8ff12981456fd4f812d61c06522ad5a75fed2d9ebdb808bc3aa8a6ee",
+  "Notes": "첨부해 주신 모양에 맞춰 우사기 마우스 팔을 양끝이 둥글고 폭이 일정한 캡슐형으로 새로 그렸습니다. 어깨 쪽 둥근 끝도 보이도록 레이어를 맞추고 클릭·휠·연타 자세를 확인했습니다.",
+  "Signature": "L3HC9eLlQYfcJhkgBKIT8Gf9n6H/96pMtu+titBo1cmDJwDZeJH6TZCge2QLPk/ckUrCwmF/GkFDxNrXLSs3lcxJpTqdx+xFyJd2YKZfLpFfyxqeb0W+kL8pDdYa//J+4zcpyI7ebTBsumru2Hc71jI2FVpVaVqp6hwuiDapRiGYDGmx6jCNpLKgNZmdleMO69kGKxspL+CDbpuaeknD1z8EmP+bWb0cgkrgq3Zt/0HYis8PHIwopjw3lAKixoaBdiFTIjMO9ya5nOphbtkeh5mA76968HE1O0649U2xrNOwk4ya1zGCxNxa+8W4DiEgsqLZf6I1MICWl/wem5/m6Jx6F8OpQLGx6Z5d5BSc0Y903Nay/YYQTJI1paRCCeLmUmUXogffxhRskf/dWlxNYPENduUqwPAM0xl2wvIil5QENjP9P5Vj8TWW3XATNNQ+Nd+mfx/BkpQtnPBViQh7wJUUlfgzsf0hbhd4a0PNryEMjPzPRmx5sK2pPVd6RISN"
+}
