@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.27",
-  "PackageBytes": 5840859,
-  "PackageSha256": "a20a4b3e601c2d6c0ab6eef9d7fd9b4653c3406a66b702e856d6ca276c1edf82",
-  "ExeBytes": 6571520,
-  "ExeSha256": "93dc0243cd5d25493e00a74cacd738a8f5bff0ba0d2df84497e155b61153bfca",
-  "Notes": "우사기의 마우스 팔을 소개 이미지처럼 몸 옆에서 짧고 둥글게 이어지도록 다듬었습니다. 팔의 시작점·길이·윤곽선을 조정하고 두 화면의 클릭·휠·양손 연타 자세를 확인했습니다.",
-  "Signature": "sJ0CPPsOAgg0V3Atx38umORWGVQQ4LsWAVqsZQOv2TAjhmqSIaPCf+T4DvrFOsiqbqFRGzGPfmgr3K6dCJ6CGGl71o64tYqpvSsEcfMlzYfUFkTT9cNZtb08bg98BvhgAorcl9u438wQ5SPY7+KyiQt+4VWuGhgsLggzXSMHB7s9Dsr4gYnCR9sJshOBkGbuxJuxHG/e1Rjy+T9OVEXW3LP3rKivyrajHqvQHQcrVl8D1OE3OnMChfaxNBGby60DGU+RksLeef3QVmtCPLYD+z1cIJAcwZV1CzkA64UIJjG2B204yPWWOmdlNYAweWCxhytcloiiNKkPis5hYpljV4M2vNPajC/4ruGr8AIYykfzcuBxDqjljTT8WJUW491nIbpfImlxobz7hKDLS3RrW1Vmup8y+r7v6vaUkkuyhz6iCFOn4LCm/vYp67z5Rg6amC4I56N8K2lZVDoORB2zG6p0+TBlF4DTerE0monoaUkidW0NQiphJty3Zf7VrSvj"
+  "Version": "0.1.28",
+  "PackageBytes": 5841025,
+  "PackageSha256": "dd9acd860799fc722484ce168949304126dfd67a6a0a0d84ea9bf484b2e7476f",
+  "ExeBytes": 6572032,
+  "ExeSha256": "8d85f76d8ff12981456fd4f812d61c06522ad5a75fed2d9ebdb808bc3aa8a6ee",
+  "Notes": "첨부해 주신 모양에 맞춰 우사기 마우스 팔을 양끝이 둥글고 폭이 일정한 캡슐형으로 새로 그렸습니다. 어깨 쪽 둥근 끝도 보이도록 레이어를 맞추고 클릭·휠·연타 자세를 확인했습니다.",
+  "Signature": "L3HC9eLlQYfcJhkgBKIT8Gf9n6H/96pMtu+titBo1cmDJwDZeJH6TZCge2QLPk/ckUrCwmF/GkFDxNrXLSs3lcxJpTqdx+xFyJd2YKZfLpFfyxqeb0W+kL8pDdYa//J+4zcpyI7ebTBsumru2Hc71jI2FVpVaVqp6hwuiDapRiGYDGmx6jCNpLKgNZmdleMO69kGKxspL+CDbpuaeknD1z8EmP+bWb0cgkrgq3Zt/0HYis8PHIwopjw3lAKixoaBdiFTIjMO9ya5nOphbtkeh5mA76968HE1O0649U2xrNOwk4ya1zGCxNxa+8W4DiEgsqLZf6I1MICWl/wem5/m6Jx6F8OpQLGx6Z5d5BSc0Y903Nay/YYQTJI1paRCCeLmUmUXogffxhRskf/dWlxNYPENduUqwPAM0xl2wvIil5QENjP9P5Vj8TWW3XATNNQ+Nd+mfx/BkpQtnPBViQh7wJUUlfgzsf0hbhd4a0PNryEMjPzPRmx5sK2pPVd6RISN"
 }
