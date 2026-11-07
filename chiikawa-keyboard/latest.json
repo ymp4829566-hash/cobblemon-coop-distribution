@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.24",
-  "PackageBytes": 3493506,
-  "PackageSha256": "66de878c262643e66ba99e15dd72cb5916ef198db1b33ad1a30aae8c87159116",
-  "ExeBytes": 4172800,
-  "ExeSha256": "a1981b4436651ec94e9513e5275c290ff96bfcd7d0c6357d4f211e4f76c92520",
-  "Notes": "모든 캐릭터가 Ctrl·Shift·Alt를 제외한 키를 0.5초 이상 누르면 양손으로 와다다 입력합니다. 우사기의 피리 사탕은 손으로 들어 입에 문 뒤 두 번 불고 내려놓도록 다듬었으며, 사탕과 입술·바람·음표 표현을 개선했습니다.",
-  "Signature": "rYb8Aij+QuDZ4HlLbvW/a/cbZuGQK7qnfmHKJF9+w0XxmAUHSOZcwJk4QHVyg6oTFaCaW3OjJkt5765pvVh+4LJ+maj6k2tKO+elqpGVvoX720CEflQ84ePBHQVWIXPoDxbe6fi43wR9dMOLq3DC5wuIlJzCCwRHP1Z/GqYVLQXOe9sbRmJ9tDbluZGOCKPRYSIXcaDZjzWon0jyAA3PHa+yfNCJx1/Iikn4OmCrw1xWA0or4tKJ/3qtIIyCImK55qGKPzkgVDwEZFPb7JYwUXKiBkD6A74LG6KOOuS2eCN6vgY1mDOGe14Fa3K0n0iUEmmGRsIZ2eocl9MK6QS/B/j4010CvSaS3/3DZ1VCRjI4GBmPGEWbjemwk1TosC/saBIm2ER6mWN9P6hkHbTZ2/wlNECZImgDFTdUsXU6TiNW07UQZvqzfo9ItwFZ9gSwm0L5MDwgBey9lcOlAyO52aWomW+aZ75uBqmiD8CM2hC+Q8Nv5SObJx65HOonxukb"
+  "Version": "0.1.25",
+  "PackageBytes": 3494671,
+  "PackageSha256": "9494da992c135494dc69f65800732ef5faf94b933a773685cb8e089017f7fc6b",
+  "ExeBytes": 4175872,
+  "ExeSha256": "ef2e0768e045cea0eef2f9da1e9bf9e932e74b0c08f43ba68224afeb7a5acef8",
+  "Notes": "설정 GUI에 크기 5단계, 입력 반응 일시정지, 숨기기·보이기, 항상 위 표시, 위치 복구, 완전 종료를 추가했습니다. 우클릭 메뉴와 GUI가 같은 명령과 현재 상태를 공유합니다.",
+  "Signature": "eHX5dfQT4RzTfI7IU3XFL6INtoA3x21C/oPCunaOUjaVdiAmUza+qBPJnH74o8KBsiBr7uPxx3CkVgOWrXFGceZawFqNXBPCdi9JZDX/tN/ovOdkz6UVBvcCbxh+N3Nn8ClVFBrhk2Z8BGwwS3XpDA5iAVuFkOHtBDdSVAaIvn+5CBIq4iCbjdGemC3aZunF4KJyPWw9BotdiHV+nJ6KzBEjSV8/givzNGO2iGPiITMOnAidY05HETeBKbCG469b+kYcHveezWbcjsCD8ZFKy5HEp+tVJob1pR/gfGz7DFtX2iClz9LlLGmKLaVx0h/VFyRZsRoJ+gkIHMGVh4BUuHqoq2FNk7kx9MnFmdSaHNTreBtSA5/9N+MiWrTIaJsq1NfX4/aWw11b9nh7N8mM8lhPmiyJIusxzURteRYcuknT5b9gvngBXhs6Ah1uGw1SFsyHqp8OLIvGPRcY1h+i6KGL4IZqLVgN/Pw4BoLK1zWwSYf5YkpcarpwFhg1yY4d"
 }
