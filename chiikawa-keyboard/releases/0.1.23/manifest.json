@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.23",
+  "PackageBytes": 3490510,
+  "PackageSha256": "4dabcbacb9d55b27d7b5a7c8d343c83816fee8372cf9b832bdbeff7dbca20b9d",
+  "ExeBytes": 4167168,
+  "ExeSha256": "f8e98c4ba005956414e0c04458283d18864ee2518516645a873168a3e5f1692d",
+  "Notes": "우사기와 하치와레의 얼굴을 키우고 눈높이를 치이카와에 맞췄습니다. 우사기의 귀가 잘리지 않도록 위쪽 공간을 확보하고, 하치와레의 앞발이 겹쳐 보이던 부분을 정리했습니다.",
+  "Signature": "fElibfKLIDxY4VvezoocRl1OxtKDvW5CeB/aXdalb9ggZhCREWtAGvABRz/HjsJi37f3ecmyxw23f5eHKpAvrbMZcYIprd24CRz6zmE5QDIbjMNkCBMRqenru8CMjL1k/38RWIfU7sqX0WHo8AdPNRnRPTbGGgikg2B0n+P5wx90UIHvKGDju8oSBbkr+ry3BZjutbZKxqLi5QnZUuRpoYeVrWnsCCMTbuOiFU6p/VBmKJT5rpa0ALAfs9wpwtEh7wpHKCZk/oxnT8nYaFyPkmOB7MrM9esIvSa+kv175iv2HNKz6zRCDia2CfFmRNCPFoX1HSsq4ffazLaS+f6l7aWwouW4BAWcBFdpUR1t+UfFyCkRdD70G6Sijv9YRzqfKcbPg/gPy+xVP4Zu/TlNqYZUXdyXqc/TsISVaKsMGzRXQtyaYoIlRRoA+zhfvp+JMAhWZzrDA2+zTN98nwbk/KkMNCmvRV++dtCxnCEbbzuX5MZLpRg1hxvuhJfgZBh2"
+}
