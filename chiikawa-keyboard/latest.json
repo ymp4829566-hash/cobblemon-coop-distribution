@@ -1,11 +1,11 @@
 {
   "Schema": 1,
   "AppId": "ChiikawaKeyboard",
-  "Version": "0.1.26",
-  "PackageBytes": 5840824,
-  "PackageSha256": "d40f52aa231ee0255c386012e142ca35dc796b02198ba0a7f6210e7f008a4edd",
+  "Version": "0.1.27",
+  "PackageBytes": 5840859,
+  "PackageSha256": "a20a4b3e601c2d6c0ab6eef9d7fd9b4653c3406a66b702e856d6ca276c1edf82",
   "ExeBytes": 6571520,
-  "ExeSha256": "4eea17e5e9c1a1fe9ccc20be6e9f8ebd1e4b6353717e40ddd96187eb15ac2e9e",
-  "Notes": "양손 연타 중 스페이스바가 가상으로 눌려 보이던 표시를 수정했습니다. 키캡은 실제 입력만 표시합니다. 설정 GUI와 우클릭 메뉴에 Pretendard 한글 글꼴을 내장하고 글자 크기와 굵기를 다듬었습니다.",
-  "Signature": "gDG0BmvnZcfbKSFz8nESRilSVpIOMMaSxvXz7ReoaMsFZomFSKUbsdSjbgmvFNB3wW4au7pjIwIY2OD5X6vHL6QQYCDh+6B47eo1WOg1PFvyZ8PziXk4PverVV2VgSsRaOWduwpIWfG8ZauaAiuC8L2xMWBd1MWlJBLArCFroM28nVgSJrEs/1+kOGy4uIPL5VwWBDyNZvJXwSEE/an6aQBTPX3yvL0X7V1Xt3F7I7gayWi+wZb5TRCTjaMhP0olVEuBBYkUVUcrLNcOeyT9mWGLGr65T4ePvnCH6V6NM1ONvTiUbEFzZaao7TkC5pAh1Pm1cHsEWF8eHCvnp1dP1LAsssxikoF/HzJUSwQbF3C6ORSoR6h9DjrRthUwPLDMceqI+HBqp64rGQT++WXy409eH84QA3fmhSlp/qr65wP1I7idgyHxoXY4BVzTgA9VTc3PQbeZgUgS2fcNhM308VH3E0hVHmJEVYNcjo84F7ZuDqeZmTjFDuuaAZ8ODftW"
+  "ExeSha256": "93dc0243cd5d25493e00a74cacd738a8f5bff0ba0d2df84497e155b61153bfca",
+  "Notes": "우사기의 마우스 팔을 소개 이미지처럼 몸 옆에서 짧고 둥글게 이어지도록 다듬었습니다. 팔의 시작점·길이·윤곽선을 조정하고 두 화면의 클릭·휠·양손 연타 자세를 확인했습니다.",
+  "Signature": "sJ0CPPsOAgg0V3Atx38umORWGVQQ4LsWAVqsZQOv2TAjhmqSIaPCf+T4DvrFOsiqbqFRGzGPfmgr3K6dCJ6CGGl71o64tYqpvSsEcfMlzYfUFkTT9cNZtb08bg98BvhgAorcl9u438wQ5SPY7+KyiQt+4VWuGhgsLggzXSMHB7s9Dsr4gYnCR9sJshOBkGbuxJuxHG/e1Rjy+T9OVEXW3LP3rKivyrajHqvQHQcrVl8D1OE3OnMChfaxNBGby60DGU+RksLeef3QVmtCPLYD+z1cIJAcwZV1CzkA64UIJjG2B204yPWWOmdlNYAweWCxhytcloiiNKkPis5hYpljV4M2vNPajC/4ruGr8AIYykfzcuBxDqjljTT8WJUW491nIbpfImlxobz7hKDLS3RrW1Vmup8y+r7v6vaUkkuyhz6iCFOn4LCm/vYp67z5Rg6amC4I56N8K2lZVDoORB2zG6p0+TBlF4DTerE0monoaUkidW0NQiphJty3Zf7VrSvj"
 }
