@@ -1,0 +1,11 @@
+{
+  "Schema": 1,
+  "AppId": "ChiikawaKeyboard",
+  "Version": "0.1.22",
+  "PackageBytes": 3489874,
+  "PackageSha256": "bf085ba54dada6f8d6ae1d5a085d93c9def19bd888f15242b5d23bc9aa0ef161",
+  "ExeBytes": 4165632,
+  "ExeSha256": "1f3c256fd831ac28db2b6ca23e74a7637f97d2f582d4aca15a45d14fc841da90",
+  "Notes": "모몽가의 정면 몸 그림과 눈깜빡임을 새로 만들었습니다. 정면과 비스듬히 화면 모두에서 두 팔이 키보드와 마우스 입력에 맞춰 움직입니다.",
+  "Signature": "rvZT6buCHJ/EYDzfxAXnQ9iPi47oDPV796Nk6usStmfHLpy4C7OuhF8rzOfhbLl15387XbmRkzk7E6UxqucPvjQ58xKQ3XpOtCLcBOkO70oVyEV02lMb2jGvNy4rFOuO7qDxyvZpfxl4pDjqa0UAujpAlDfdlhySFGeYsEEbme19CMFkbk7qAtaXGIVtj/21NfEPXodk61Y/hnuBNnNrBRYSfKDLouna3NH7BUJRVxSeV/74xoH4Z+p05/q6lsuWjHuDJ1Evku3xEI+fcUwcBPGw8S2xj94n2mKwar3opYtGDRhRu1Qk36iw34vBB2hywZwQagxKiueUgDhgCT+VO+cZmNL5+LBISgDMel1UsLvSe2lSZApr2NErsYGH4OcU3xgd0sPr0KyEXH6CHCirph3D36La9dvOARdu16+wXho4O8T9R9xU7qwOT24shlXAJ0cWvFhExg/c73R4fZTpg/h+lNChTJygWoittR5ZEpC4FLNmVin/yU0rl5n7/eca"
+}
